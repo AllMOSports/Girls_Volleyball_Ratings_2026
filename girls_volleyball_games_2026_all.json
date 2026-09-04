@@ -1770,26 +1770,6 @@
     "forfeit": false
   },
   {
-    "date": "2026-08-27",
-    "team1": "Butler",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "University Academy Charter",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-08-27",
-    "team1": "Clinton",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "University Academy Charter",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
     "date": "2026-08-28",
     "team1": "Cristo Rey",
     "team1_classified": true,
@@ -1837,6 +1817,16 @@
     "team2": "Barstow",
     "team2_classified": true,
     "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-28",
+    "team1": "Licking",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Belle",
+    "team2_classified": true,
+    "score2": 1,
     "forfeit": false
   },
   {
@@ -2321,16 +2311,6 @@
   },
   {
     "date": "2026-08-28",
-    "team1": "Licking",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Belle",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-08-28",
     "team1": "St. Joseph's Academy",
     "team1_classified": true,
     "score1": null,
@@ -3481,6 +3461,16 @@
   },
   {
     "date": "2026-08-29",
+    "team1": "Notre Dame (St. Louis)",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "John Burroughs",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-29",
     "team1": "Lebanon",
     "team1_classified": true,
     "score1": 2,
@@ -4001,6 +3991,16 @@
   },
   {
     "date": "2026-08-29",
+    "team1": "Licking",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "North County",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-29",
     "team1": "Poplar Bluff",
     "team1_classified": true,
     "score1": 0,
@@ -4025,6 +4025,26 @@
     "team1_classified": true,
     "score1": 0,
     "team2": "Northwest (Cedar Hill)",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-29",
+    "team1": "Villa Duchesne",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Notre Dame (St. Louis)",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-29",
+    "team1": "Visitation Academy",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Notre Dame (St. Louis)",
     "team2_classified": true,
     "score2": 2,
     "forfeit": false
@@ -4431,6 +4451,16 @@
   },
   {
     "date": "2026-08-29",
+    "team1": "Notre Dame (St. Louis)",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Rockwood Summit",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-29",
     "team1": "Branson",
     "team1_classified": true,
     "score1": 2,
@@ -4691,16 +4721,6 @@
   },
   {
     "date": "2026-08-29",
-    "team1": "Notre Dame (St. Louis)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "John Burroughs",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-08-29",
     "team1": "Niangua",
     "team1_classified": true,
     "score1": null,
@@ -4715,36 +4735,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Ladue Horton Watkins",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-08-29",
-    "team1": "Villa Duchesne",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Notre Dame (St. Louis)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-08-29",
-    "team1": "Visitation Academy",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Notre Dame (St. Louis)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-08-29",
-    "team1": "Notre Dame (St. Louis)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Rockwood Summit",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -5861,6 +5851,16 @@
   },
   {
     "date": "2026-08-30",
+    "team1": "Notre Dame (St. Louis)",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "John Burroughs",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-30",
     "team1": "Lebanon",
     "team1_classified": true,
     "score1": 2,
@@ -6381,6 +6381,16 @@
   },
   {
     "date": "2026-08-30",
+    "team1": "Licking",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "North County",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-30",
     "team1": "Poplar Bluff",
     "team1_classified": true,
     "score1": 0,
@@ -6405,6 +6415,26 @@
     "team1_classified": true,
     "score1": 0,
     "team2": "Northwest (Cedar Hill)",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-30",
+    "team1": "Villa Duchesne",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Notre Dame (St. Louis)",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-30",
+    "team1": "Visitation Academy",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Notre Dame (St. Louis)",
     "team2_classified": true,
     "score2": 2,
     "forfeit": false
@@ -6811,6 +6841,16 @@
   },
   {
     "date": "2026-08-30",
+    "team1": "Notre Dame (St. Louis)",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Rockwood Summit",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-30",
     "team1": "Branson",
     "team1_classified": true,
     "score1": 2,
@@ -7071,16 +7111,6 @@
   },
   {
     "date": "2026-08-30",
-    "team1": "Notre Dame (St. Louis)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "John Burroughs",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-08-30",
     "team1": "Niangua",
     "team1_classified": true,
     "score1": null,
@@ -7095,36 +7125,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Ladue Horton Watkins",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-08-30",
-    "team1": "Villa Duchesne",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Notre Dame (St. Louis)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-08-30",
-    "team1": "Visitation Academy",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Notre Dame (St. Louis)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-08-30",
-    "team1": "Notre Dame (St. Louis)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Rockwood Summit",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -7147,6 +7147,16 @@
     "team2": "Bayless",
     "team2_classified": true,
     "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-31",
+    "team1": "Meadow Heights",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Bell City",
+    "team2_classified": true,
+    "score2": 3,
     "forfeit": false
   },
   {
@@ -7247,6 +7257,16 @@
     "team2": "Centralia",
     "team2_classified": true,
     "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-31",
+    "team1": "Puxico",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Clarkton",
+    "team2_classified": true,
+    "score2": 0,
     "forfeit": false
   },
   {
@@ -7551,6 +7571,16 @@
   },
   {
     "date": "2026-08-31",
+    "team1": "Lindbergh",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Pacific",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-08-31",
     "team1": "Notre Dame (St. Louis)",
     "team1_classified": true,
     "score1": 3,
@@ -7731,20 +7761,20 @@
   },
   {
     "date": "2026-08-31",
-    "team1": "Gloria Deo Academy",
+    "team1": "Wright City",
     "team1_classified": true,
-    "score1": null,
-    "team2": "Chadwick",
+    "score1": 0,
+    "team2": "Winfield",
     "team2_classified": true,
-    "score2": null,
+    "score2": 3,
     "forfeit": false
   },
   {
     "date": "2026-08-31",
-    "team1": "Puxico",
+    "team1": "Gloria Deo Academy",
     "team1_classified": true,
     "score1": null,
-    "team2": "Clarkton",
+    "team2": "Chadwick",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -7781,30 +7811,10 @@
   },
   {
     "date": "2026-08-31",
-    "team1": "Lindbergh",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Pacific",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-08-31",
     "team1": "Francis Howell Central",
     "team1_classified": true,
     "score1": null,
     "team2": "Parkway West",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-08-31",
-    "team1": "Wright City",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Winfield",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -7931,6 +7941,16 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Ellington",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Bismarck",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Clearwater",
     "team1_classified": true,
     "score1": 1,
@@ -7977,6 +7997,16 @@
     "team2": "Bolivar",
     "team2_classified": true,
     "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Chadwick",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Bradleyville",
+    "team2_classified": true,
+    "score2": 0,
     "forfeit": false
   },
   {
@@ -8181,6 +8211,16 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Sarcoxie",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "East Newton",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Clinton",
     "team1_classified": true,
     "score1": 3,
@@ -8276,7 +8316,7 @@
     "score1": 0,
     "team2": "Ft. Zumwalt West",
     "team2_classified": true,
-    "score2": null,
+    "score2": 3,
     "forfeit": false
   },
   {
@@ -8317,6 +8357,16 @@
     "team2": "Golden City",
     "team2_classified": true,
     "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Raytown South",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Grandview",
+    "team2_classified": true,
+    "score2": 3,
     "forfeit": false
   },
   {
@@ -8451,6 +8501,16 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Northeast Vernon County",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Lakeland",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Chillicothe",
     "team1_classified": true,
     "score1": 3,
@@ -8511,6 +8571,16 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Liberty (Mountain View)",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Licking",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Ozark",
     "team1_classified": true,
     "score1": 3,
@@ -8555,6 +8625,16 @@
     "team1_classified": true,
     "score1": 3,
     "team2": "Lutie",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Gloria Deo Academy",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Mansfield",
     "team2_classified": true,
     "score2": 0,
     "forfeit": false
@@ -8691,6 +8771,16 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "New Bloomfield",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "North Callaway",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Sumner",
     "team1_classified": true,
     "score1": 3,
@@ -8727,6 +8817,16 @@
     "team2": "Notre Dame (Cape Girardeau)",
     "team2_classified": true,
     "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "North Kansas City",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Oak Park",
+    "team2_classified": true,
+    "score2": 1,
     "forfeit": false
   },
   {
@@ -9031,12 +9131,32 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Ft. Zumwalt East",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "St. Charles",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Windsor (Imperial)",
     "team1_classified": true,
     "score1": 3,
     "team2": "St. Clair",
     "team2_classified": true,
     "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Francis Howell Central",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "St. Dominic",
+    "team2_classified": true,
+    "score2": 3,
     "forfeit": false
   },
   {
@@ -9211,6 +9331,16 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Crossroads Prep Charter",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "University Academy Charter",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Ritenour",
     "team1_classified": true,
     "score1": 3,
@@ -9281,6 +9411,16 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Lindbergh",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Webster Groves",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Lexington",
     "team1_classified": true,
     "score1": 3,
@@ -9331,6 +9471,16 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Hazelwood East",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Winfield",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Leopold",
     "team1_classified": true,
     "score1": null,
@@ -9355,26 +9505,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Bernie",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Ellington",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Bismarck",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Chadwick",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Bradleyville",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -9421,26 +9551,6 @@
   },
   {
     "date": "2026-09-01",
-    "team1": "Sarcoxie",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "East Newton",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Raytown South",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Grandview",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
     "team1": "St. Clair",
     "team1_classified": true,
     "score1": null,
@@ -9471,26 +9581,6 @@
   },
   {
     "date": "2026-09-01",
-    "team1": "Northeast Vernon County",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Lakeland",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Liberty (Mountain View)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Licking",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
     "team1": "STEAM Academy",
     "team1_classified": true,
     "score1": null,
@@ -9501,40 +9591,10 @@
   },
   {
     "date": "2026-09-01",
-    "team1": "Gloria Deo Academy",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Mansfield",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
     "team1": "Valley Park",
     "team1_classified": true,
     "score1": null,
     "team2": "Maplewood-Richmond Hts.",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "New Bloomfield",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "North Callaway",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "North Kansas City",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Oak Park",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -9581,60 +9641,10 @@
   },
   {
     "date": "2026-09-01",
-    "team1": "Ft. Zumwalt East",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "St. Charles",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Francis Howell Central",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "St. Dominic",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
     "team1": "North Nodaway",
     "team1_classified": true,
     "score1": null,
     "team2": "Tarkio with Fairfax",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Crossroads Prep Charter",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "University Academy Charter",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Lindbergh",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Webster Groves",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Hazelwood East",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Winfield",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -9651,6 +9661,66 @@
   },
   {
     "date": "2026-09-02",
+    "team1": "Grandview (Hillsboro)",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Bayless",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Herculaneum",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Bishop DuBourg",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Lafayette (Wildwood)",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Cor Jesu Academy",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Cardinal Ritter",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Crystal City",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Southeast",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Ewing Marion Kauffman",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Arcadia Valley",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Farmington",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
     "team1": "Poplar Bluff",
     "team1_classified": true,
     "score1": 3,
@@ -9661,12 +9731,32 @@
   },
   {
     "date": "2026-09-02",
+    "team1": "Hancock",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Grandview (Hillsboro)",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
     "team1": "Principia",
     "team1_classified": true,
     "score1": 2,
     "team2": "Hancock",
     "team2_classified": true,
     "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Crossroads College Preparatory",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Hancock",
+    "team2_classified": true,
+    "score2": 2,
     "forfeit": false
   },
   {
@@ -9691,10 +9781,30 @@
   },
   {
     "date": "2026-09-02",
+    "team1": "Midway",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Kingsville",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
     "team1": "Northeast (Kansas City)",
     "team1_classified": true,
     "score1": 0,
     "team2": "KIPP KC Legacy",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Bunceton",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "La Monte",
     "team2_classified": true,
     "score2": 3,
     "forfeit": false
@@ -9707,6 +9817,16 @@
     "team2": "Leeton with Chilhowee",
     "team2_classified": true,
     "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "University Academy Charter",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Lincoln College Prep",
+    "team2_classified": true,
+    "score2": 3,
     "forfeit": false
   },
   {
@@ -9761,12 +9881,52 @@
   },
   {
     "date": "2026-09-02",
-    "team1": "Washington",
+    "team1": "Lee's Summit North",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "North Kansas City",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Holt",
     "team1_classified": true,
     "score1": 2,
+    "team2": "North Point",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Washington",
+    "team1_classified": true,
+    "score1": 3,
     "team2": "Owensville",
     "team2_classified": true,
-    "score2": 1,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Tipton",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Prairie Home",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Notre Dame (St. Louis)",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Ritenour",
+    "team2_classified": true,
+    "score2": 0,
     "forfeit": false
   },
   {
@@ -9777,6 +9937,16 @@
     "team2": "Skyline",
     "team2_classified": true,
     "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Sweet Springs with Malta Bend",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Smithton",
+    "team2_classified": true,
+    "score2": 2,
     "forfeit": false
   },
   {
@@ -9801,6 +9971,16 @@
   },
   {
     "date": "2026-09-02",
+    "team1": "Sumner",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Vashon",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-02",
     "team1": "St. Michael the Archangel",
     "team1_classified": true,
     "score1": 3,
@@ -9811,22 +9991,12 @@
   },
   {
     "date": "2026-09-02",
-    "team1": "Grandview (Hillsboro)",
+    "team1": "MICDS",
     "team1_classified": true,
-    "score1": null,
-    "team2": "Bayless",
+    "score1": 3,
+    "team2": "Whitfield",
     "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Herculaneum",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Bishop DuBourg",
-    "team2_classified": true,
-    "score2": null,
+    "score2": 0,
     "forfeit": false
   },
   {
@@ -9841,50 +10011,10 @@
   },
   {
     "date": "2026-09-02",
-    "team1": "Lafayette (Wildwood)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Cor Jesu Academy",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Cardinal Ritter",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Crystal City",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
     "team1": "Oakville",
     "team1_classified": true,
     "score1": null,
     "team2": "Eureka",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Southeast",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Ewing Marion Kauffman",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Arcadia Valley",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Farmington",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -9911,60 +10041,10 @@
   },
   {
     "date": "2026-09-02",
-    "team1": "Midway",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Kingsville",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Bunceton",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "La Monte",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "University Academy Charter",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Lincoln College Prep",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
     "team1": "Kirksville",
     "team1_classified": true,
     "score1": null,
     "team2": "Mexico",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Lee's Summit North",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "North Kansas City",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Holt",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "North Point",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -10001,26 +10081,6 @@
   },
   {
     "date": "2026-09-02",
-    "team1": "Tipton",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Prairie Home",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Notre Dame (St. Louis)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Ritenour",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
     "team1": "Parkway South",
     "team1_classified": true,
     "score1": null,
@@ -10036,16 +10096,6 @@
     "score1": null,
     "team2": "Roosevelt",
     "team2_classified": false,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Sweet Springs with Malta Bend",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Smithton",
-    "team2_classified": true,
     "score2": null,
     "forfeit": false
   },
@@ -10081,16 +10131,6 @@
   },
   {
     "date": "2026-09-02",
-    "team1": "Sumner",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Vashon",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-02",
     "team1": "Clayton",
     "team1_classified": true,
     "score1": null,
@@ -10100,13 +10140,643 @@
     "forfeit": false
   },
   {
-    "date": "2026-09-02",
-    "team1": "MICDS",
+    "date": "2026-09-03",
+    "team1": "Skyline",
     "team1_classified": true,
-    "score1": null,
-    "team2": "Whitfield",
+    "score1": 3,
+    "team2": "Appleton City with Montrose",
     "team2_classified": true,
-    "score2": null,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Lesterville",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Arcadia Valley",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Clever",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Aurora",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Union",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Ava",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Koshkonong",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Bakersfield",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Holden",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Barstow",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Exeter",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Blue Eye",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Staley",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Blue Springs South",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "California",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Boonville",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Kingston",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Bourbon",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Helias Catholic",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Branson",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Dixon",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Calvary Lutheran",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Hickman",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Carl Junction",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Penney",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Carrollton",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Valle Catholic",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Central (Park Hills)",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Lebanon",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Central (Springfield)",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Vashon",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Confluence Prep Academy Charter with Grand Center Arts Charter",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Incarnate Word Academy",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Cor Jesu Academy",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Gainesville",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Dora",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Maryville",
+    "team1_classified": true,
+    "score1": 4,
+    "team2": "East Buchanan",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Pierce City",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "East Newton",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "St. Joseph's Academy",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Eureka",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Festus",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Farmington",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Troy Buchanan",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Francis Howell Central",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Hollister",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Galena",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Oak Ridge",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Greenville",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Hillcrest",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Hickman",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Fair Grove",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Hickman",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Ste. Genevieve",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Jefferson (Festus)",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Affton",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Ladue Horton Watkins",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "St. Paul Lutheran (Concordia)",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Lafayette County",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Stockton",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Lamar",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Lee's Summit West",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Liberty North",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Billings",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Lockwood with Golden City",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Helias Catholic",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Logan-Rogersville",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Archie",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Lone Jack",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Smithville",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Lutie",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Greenwood",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Marion C. Early",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "St. Pius X (Festus)",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Marquette",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Hume",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Miami (Amoret)",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Maysville",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Mid-Buchanan",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Butler",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Midway",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Belle",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "New Haven",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "West Platte",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Northland Christian",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Central (St. Joseph)",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Oak Park",
+    "team2_classified": true,
+    "score2": 2,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Kingsville",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Otterville",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "St. Teresa's Academy",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Pembroke Hill",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Scott City",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Portageville",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Bunceton",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Prairie Home",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "New Heights Christian",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Purdy",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Ruskin",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Raytown South",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Sullivan",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Salem",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Northeast Vernon County",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Sheldon",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Drexel with Miami (Amoret)",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Sherwood",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Malden",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Summersville",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Valley",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "St. Paul Lutheran (Farmington)",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Notre Dame de Sion",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Warrensburg",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Ft. Zumwalt South",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Washington",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Plattsburg",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Wellington-Napoleon",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Helias Catholic",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "West Plains",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "New Covenant Academy",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Willard",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Belton",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "William Chrisman",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Reeds Spring",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Willow Springs",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Bowling Green",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Wright City",
+    "team2_classified": true,
+    "score2": 3,
     "forfeit": false
   },
   {
@@ -10115,66 +10785,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Adrian",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Skyline",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Appleton City with Montrose",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Lesterville",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Arcadia Valley",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Clever",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Aurora",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Union",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Ava",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Koshkonong",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Bakersfield",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Holden",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Barstow",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -10191,16 +10801,6 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Exeter",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Blue Eye",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Park Hill South",
     "team1_classified": true,
     "score1": null,
@@ -10211,40 +10811,10 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Staley",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Blue Springs South",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Battle",
     "team1_classified": true,
     "score1": null,
     "team2": "Bolivar",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "California",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Boonville",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Kingston",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Bourbon",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -10271,16 +10841,6 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Dixon",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Calvary Lutheran",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Marshfield",
     "team1_classified": true,
     "score1": null,
@@ -10301,16 +10861,6 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Penney",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Carrollton",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Cooter",
     "team1_classified": true,
     "score1": null,
@@ -10325,26 +10875,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Central (Kansas City)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Valle Catholic",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Central (Park Hills)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Lebanon",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Central (Springfield)",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -10401,30 +10931,10 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Vashon",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Confluence Prep Academy Charter with Grand Center Arts Charter",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "KIPP St. Louis Sr.",
     "team1_classified": true,
     "score1": null,
     "team2": "Confluence Prep Academy Charter with Grand Center Arts Charter",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Incarnate Word Academy",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Cor Jesu Academy",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -10521,40 +11031,10 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Gainesville",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Dora",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Guadalupe Centers Charter",
     "team1_classified": true,
     "score1": null,
     "team2": "East (Kansas City)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Maryville",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "East Buchanan",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Pierce City",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "East Newton",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -10611,30 +11091,10 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "St. Joseph's Academy",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Eureka",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Gloria Deo Academy",
     "team1_classified": true,
     "score1": null,
     "team2": "Everton",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Festus",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Farmington",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -10671,30 +11131,10 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Troy Buchanan",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Francis Howell Central",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Francis Howell",
     "team1_classified": true,
     "score1": null,
     "team2": "Ft. Zumwalt West",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Hollister",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Galena",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -10801,16 +11241,6 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Ste. Genevieve",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Jefferson (Festus)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Marshfield",
     "team1_classified": true,
     "score1": null,
@@ -10861,40 +11291,10 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Affton",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Ladue Horton Watkins",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "St. Paul Lutheran (Concordia)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Lafayette County",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Ballard",
     "team1_classified": true,
     "score1": null,
     "team2": "Lakeland",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Stockton",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Lamar",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -10941,30 +11341,10 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Lee's Summit West",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Liberty North",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Oakville",
     "team1_classified": true,
     "score1": null,
     "team2": "Lindbergh",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Billings",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Lockwood with Golden City",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -10981,36 +11361,6 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Helias Catholic",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Logan-Rogersville",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Archie",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Lone Jack",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Smithville",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Lutie",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Principia",
     "team1_classified": true,
     "score1": null,
@@ -11021,30 +11371,10 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Greenwood",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Marion C. Early",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Southwest (Washburn)",
     "team1_classified": true,
     "score1": null,
     "team2": "Marionville",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "St. Pius X (Festus)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Marquette",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -11071,30 +11401,10 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Hume",
+    "team1": "Zalma",
     "team1_classified": true,
     "score1": null,
-    "team2": "Miami (Amoret)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Maysville",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Mid-Buchanan",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Butler",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Midway",
+    "team2": "Meadow Heights",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -11125,16 +11435,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Nevada",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Belle",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "New Haven",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -11181,16 +11481,6 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "West Platte",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Northland Christian",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Seckman",
     "team1_classified": true,
     "score1": null,
@@ -11215,16 +11505,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Notre Dame (Cape Girardeau)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Central (St. Joseph)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Oak Park",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -11271,16 +11551,6 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Kingsville",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Otterville",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Liberty",
     "team1_classified": true,
     "score1": null,
@@ -11321,16 +11591,6 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "St. Teresa's Academy",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Pembroke Hill",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Conway",
     "team1_classified": true,
     "score1": null,
@@ -11361,50 +11621,10 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Scott City",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Portageville",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Bunceton",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Prairie Home",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "New Heights Christian",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Purdy",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Lee's Summit",
     "team1_classified": true,
     "score1": null,
     "team2": "Raymore-Peculiar",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Ruskin",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Raytown South",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -11441,16 +11661,6 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Sullivan",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Salem",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Cassville",
     "team1_classified": true,
     "score1": null,
@@ -11471,26 +11681,6 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Northeast Vernon County",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Sheldon",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Drexel with Miami (Amoret)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Sherwood",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Bolivar",
     "team1_classified": true,
     "score1": null,
@@ -11505,16 +11695,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "South Iron",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Malden",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Summersville",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -11555,16 +11735,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "St. Joseph Christian",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Valley",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "St. Paul Lutheran (Farmington)",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -11661,26 +11831,6 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Notre Dame de Sion",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Warrensburg",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Ft. Zumwalt South",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Washington",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Mt. Vernon",
     "team1_classified": true,
     "score1": null,
@@ -11691,27 +11841,7 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "Plattsburg",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Wellington-Napoleon",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Rock Bridge",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "West Plains",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Helias Catholic",
     "team1_classified": true,
     "score1": null,
     "team2": "West Plains",
@@ -11731,50 +11861,10 @@
   },
   {
     "date": "2026-09-03",
-    "team1": "New Covenant Academy",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Willard",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Belton",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "William Chrisman",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Reeds Spring",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Willow Springs",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
     "team1": "Union",
     "team1_classified": true,
     "score1": null,
     "team2": "Windsor (Imperial)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-03",
-    "team1": "Bowling Green",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Wright City",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -11975,6 +12065,16 @@
     "team1_classified": true,
     "score1": null,
     "team2": "KIPP St. Louis Sr.",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-04",
+    "team1": "Perryville",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Leopold",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -12381,6 +12481,16 @@
   },
   {
     "date": "2026-09-05",
+    "team1": "Ewing Marion Kauffman",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Raytown South",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-05",
     "team1": "Gloria Deo Academy",
     "team1_classified": true,
     "score1": null,
@@ -12431,6 +12541,16 @@
   },
   {
     "date": "2026-09-05",
+    "team1": "Ewing Marion Kauffman",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Van Horn",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-05",
     "team1": "Lutheran South",
     "team1_classified": true,
     "score1": null,
@@ -12455,16 +12575,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "William Chrisman",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-07",
-    "team1": "Fordland",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Bradleyville",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -15821,16 +15931,6 @@
   },
   {
     "date": "2026-09-10",
-    "team1": "Central (Springfield)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Neosho",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-10",
     "team1": "Montgomery County",
     "team1_classified": true,
     "score1": null,
@@ -16601,6 +16701,16 @@
   },
   {
     "date": "2026-09-11",
+    "team1": "Gideon",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Bell City",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-11",
     "team1": "New Haven",
     "team1_classified": true,
     "score1": null,
@@ -16701,6 +16811,26 @@
   },
   {
     "date": "2026-09-11",
+    "team1": "Meadow Heights",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Crystal City",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-11",
+    "team1": "Sikeston",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Doniphan",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-11",
     "team1": "Hazelwood West",
     "team1_classified": true,
     "score1": null,
@@ -16775,6 +16905,16 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Galena",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-11",
+    "team1": "Jefferson (Festus)",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Gideon",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -17045,6 +17185,16 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Saxony Lutheran",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-11",
+    "team1": "Risco",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Sikeston",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -17631,6 +17781,36 @@
   },
   {
     "date": "2026-09-12",
+    "team1": "Faith Christian Academy",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Sherwood",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-12",
+    "team1": "Northland Christian",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Sherwood",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-12",
+    "team1": "Villa Duchesne",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Sikeston",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-12",
     "team1": "Pembroke Hill",
     "team1_classified": true,
     "score1": null,
@@ -17665,6 +17845,26 @@
     "team1_classified": true,
     "score1": null,
     "team2": "St. Pius X (Kansas City)",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-12",
+    "team1": "Sherwood",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Trenton",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-12",
+    "team1": "Gideon",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "St. Clair",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -25011,16 +25211,6 @@
   },
   {
     "date": "2026-09-22",
-    "team1": "West Platte",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Excelsior Springs",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-09-22",
     "team1": "Logan-Rogersville",
     "team1_classified": true,
     "score1": null,
@@ -26305,6 +26495,16 @@
     "team1_classified": true,
     "score1": null,
     "team2": "West Plains",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-09-22",
+    "team1": "Excelsior Springs",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "West Platte",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -36255,6 +36455,16 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Knob Noster",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-10-06",
+    "team1": "Lutie",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Koshkonong",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
@@ -44111,6 +44321,16 @@
   },
   {
     "date": "2026-10-15",
+    "team1": "Lutheran St. Charles",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Whitfield",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false
+  },
+  {
+    "date": "2026-10-15",
     "team1": "Van Horn",
     "team1_classified": true,
     "score1": null,
@@ -44305,16 +44525,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "St. Paul Lutheran (Farmington)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false
-  },
-  {
-    "date": "2026-10-16",
-    "team1": "Lutheran St. Charles",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Whitfield",
     "team2_classified": true,
     "score2": null,
     "forfeit": false
