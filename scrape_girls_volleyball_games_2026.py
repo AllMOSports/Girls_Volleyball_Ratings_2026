@@ -1,74 +1,83 @@
 """
 MSHSAA Girls Volleyball GAMES Scraper - 2026 Season (schedule pull, no ratings)
-=================================================================================
+=========================================================================
 
-Adapted from scrape_football_games_2026.py / scrape_fall_softball_games_2026.py,
-both proven to work correctly against the live MSHSAA scoreboard. Same
-request approach (requests + BeautifulSoup, NOT Playwright -- the page is
-plain server-rendered HTML, no JS execution needed), same session/retry
-logic, same name-resolution via school ID in the team link href -- none
-of that is sport-specific, it's the same /MySchool/Schedule.aspx link
-pattern MSHSAA uses on every scoreboard.
+Adapted from scrape_football_games_2026.py, itself adapted from
+girls_volleyball_ratings_2025.py (or whichever prior-season script exists for this sport -- adjust if the naming differs). Same request approach (requests + BeautifulSoup,
+NOT Playwright -- the page is plain server-rendered HTML), same
+session/retry logic, same data-school-ID based name-resolution -- MSHSAA's
+scoreboard.aspx uses the same page template across sports, just a
+different "alg" query-string code per sport (Girls Volleyball = alg=57
+below). That template-reuse assumption is NOT verified against a live
+Girls Volleyball scoreboard page from this environment (no network access to
+mshsaa.org here) -- spot-check the first clean run's output against the
+live site before trusting it for real use, same as you would for any new
+scraper.
 
-WHAT'S DIFFERENT FROM FOOTBALL/FALL SOFTBALL
------------------------------------------------
-1. BASE_URL's "alg" parameter changed to 57 (MSHSAA Girls Volleyball).
-   Confirmed via web search results referencing MSHSAA's own district-
-   winner and state-championship pages using alg=57 for girls volleyball
-   -- NOT verified by actually loading the scoreboard page, since this
-   environment can't reach mshsaa.org (robots.txt disallows it). Load
-   https://www.mshsaa.org/Activities/Scoreboard.aspx?alg=57 yourself once
-   before relying on this and confirm the table layout matches what
-   resolve_name_or_raw/is_mshsaa_team expect (same 2-team-rows-per-table
-   shape football/softball's scoreboards use).
-2. MAX_POINTS lowered to 5. THIS IS THE BIG STRUCTURAL DIFFERENCE:
-   volleyball is scored in SETS, not a single running point total the
-   way football/softball are. A match is best-of-5 sets (first to 3 set
-   wins), so whatever number MSHSAA's scoreboard shows per team is very
-   likely SETS WON (0-3), not total points across all sets played --
-   parse_score()/is_mshsaa_team()/the scrape_date() table-pairing logic
-   are unchanged and should work fine against a "sets won" number the
-   same way they work against football's/softball's single score, but
-   this is UNVERIFIED against a real live scoreboard. If it turns out
-   MSHSAA actually displays total rally points summed across sets (a
-   much bigger, less meaningful number) instead of sets won, MAX_POINTS
-   will need to go back up and score1/score2 will mean something
-   different than they do for every other sport on this site -- check
-   a real match's scoreboard page before trusting this.
-3. No extra_innings/overtime equivalent. Football has overtime periods,
-   softball has extra innings -- volleyball doesn't have anything
-   analogous at the match level (a single SET can go past 25 points,
-   win-by-2, but that's not something MSHSAA's scoreboard is likely to
-   flag as a separate marker the way "Final/OT" is on other scoreboards,
-   and it isn't something the District Points Calculator asked for here
-   the way it did for football). Dropped entirely rather than guessing
-   at a flag with no real equivalent -- only "forfeit" carries over.
-4. Output filenames changed to girls_volleyball_games_* throughout.
-5. is_forfeit() is unchanged -- "forfeit" is the same word regardless of
-   sport, no reason to expect MSHSAA's scoreboard to phrase it
-   differently for volleyball.
-6. SEASON_START/SEASON_END set to Aug 1 - Nov 14, 2026. MSHSAA's 2025
-   girls volleyball state championship ran Nov 5-8 at the Civic Arena in
-   St. Joseph, so SEASON_END here is padded about a week past that in
-   case 2026's dates shift slightly. SEASON_START stays Aug 1, same
-   reasoning as the other two scripts: scraping days before the season
-   actually starts just returns 0 games, harmless.
+THIS IS A CLEAN, STRIPPED-DOWN FIRST RUN FOR GIRLS VOLLEYBALL
+-----------------------------------------------------------------------------
+Unlike the football version, this script does NOT carry over football's
+MANUAL_OVERRIDES (school-ID -> classification-name overrides) or its
+accumulated manual_name_overrides.json corrections/exclusions/score
+corrections -- those were built up specifically for football's roster and
+would be wrong (or at best irrelevant) if applied here. Both mechanisms
+start EMPTY for Girls Volleyball:
+  - MANUAL_OVERRIDES (in build_id_to_classname) is an empty dict. Any school
+    ID that doesn't cleanly match a name in classifications.json will show
+    up unresolved -- that's the point of a clean run. Once you've seen
+    which IDs come back unresolved, add Girls Volleyball-specific entries here,
+    the same way football's list was built up.
+  - MANUAL_OVERRIDES_PATH points to "girls_volleyball_manual_name_overrides.json",
+    which almost certainly doesn't exist yet. load_manual_overrides() and
+    load_score_corrections() already handle a missing file gracefully (0
+    corrections/exclusions loaded, printed clearly) -- so this isn't a bug,
+    it's the intended clean-run behavior. Create that file once you know
+    what needs correcting, following the same schema as football's.
 
-REQUIRES (same shape as the football/softball pipelines, must be in the
-same directory or update the paths below):
-  - classifications.json  (2026-27 projected classifications -- THIS MUST
-    BE GIRLS VOLLEYBALL'S OWN classifications.json, not football's or
-    fall softball's copied over. Volleyball's class count/district
-    groupings are their own thing, not the same schools-to-classes
-    mapping the other sports use.)
-  - mshsaa_schools.csv     (school_id -> school_name lookup -- this one
-    genuinely is sport-agnostic, the same file football/softball use
-    works here too, just needs to be copied into this repo)
+SCORE MODEL -- UNVERIFIED, NEEDS A LIVE SPOT-CHECK BEFORE TRUSTING
+-----------------------------------------------------------------------------
+Volleyball is played in a best-of-5 SET format, not a single running score
+like football/soccer/softball. I don't know, without seeing a live MSHSAA
+volleyball scoreboard page, whether td.score renders the MATCH result as
+SETS WON (e.g. "3" vs "1") or something else (a set-by-set breakdown,
+total points across all sets, etc.). MAX_POINTS below is set to 3 on the
+assumption it's sets won -- this is a GUESS. Before trusting this script's
+output, pull up a live girls volleyball scoreboard page for a completed
+match and confirm what td.score actually contains, then fix MAX_POINTS
+(and parse_score()'s validity range, if the shape is different than a
+single small integer) to match. This mirrors the existing unverified-OT
+caveat already in this file for the same reason -- I can't reach mshsaa.org
+from this environment to check myself.
+
+WHAT THIS SCRIPT DOES (same behavior as the football version)
+-----------------------------------------------------------------------------
+  1. No "final" status requirement -- keeps scheduled/unscored games too.
+  2. Detects team cells by scanning ALL cells in ALL rows for the
+     data-school attribute / MySchool link, not a fixed row/column index.
+  3. Score is optional -- captured if present and parseable, else null.
+  4. No date.today() cap -- scrapes the full configured season range.
+  5. Forfeited games are kept (with a "forfeit" boolean), not dropped.
+  6. Overtime detection via row text match -- UNVERIFIED for this sport,
+     same caveat as football's. Also worth checking: volleyball doesn't
+     have "overtime" in the football sense at all (sets don't go to OT
+     the same way a game does) -- confirm what, if anything, is_overtime()
+     should even be matching for this sport, and strip the field out
+     entirely if it's not a meaningful concept here.
+
+REQUIRES (same as your existing pipeline, must be in the same directory
+or update the paths below):
+  - classifications.json  (Girls Volleyball 2026-27 projected classifications --
+    NOTE: confirm this is Girls Volleyball's own classifications file and not
+    football's; if AllMOSports keeps one shared classifications.json across
+    all sports, filter this loader to this sport before using it, since
+    class groupings differ per sport)
+  - mshsaa_schools.csv     (school_id -> school_name lookup, shared across
+    sports)
 
 Usage:
     python3 scrape_girls_volleyball_games_2026.py
 """
-
+ 
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -77,25 +86,25 @@ import re
 import pandas as pd
 from datetime import date, timedelta
 import time
-
+ 
 # ---------------------------------------------------------------------------
 # CONFIGURATION
 # ---------------------------------------------------------------------------
-
+ 
 SEASON_YEAR   = 2026
 SEASON_START  = date(2026, 8, 1)
-SEASON_END    = date(2026, 11, 14)   # ~1 week past the 2025 state finals (Nov 5-8); adjust if 2026's championship dates land differently
-BASE_URL      = "https://www.mshsaa.org/activities/scoreboard.aspx?alg=57&date={}"
-MAX_POINTS    = 5   # sets won per match (best-of-5), NOT total rally points -- see docstring point 2, unverified
+SEASON_END    = date(2026, 11, 15)   # rough estimate based on typical MSHSAA Girls Volleyball state tournament timing -- CONFIRM the actual 2026 championship date and adjust
+BASE_URL      = "https://www.mshsaa.org/activities/scoreboard.aspx?alg=57&date={}"  # alg=57 = Girls Volleyball, per your existing games-scraper pipeline
+MAX_POINTS    = 3  # see SCORE MODEL note above -- verify against a live page
 OUTPUT_JSON   = f"girls_volleyball_games_{SEASON_YEAR}.json"
 OUTPUT_CSV    = f"girls_volleyball_games_{SEASON_YEAR}.csv"
 OUTPUT_JSON_ALL = f"girls_volleyball_games_{SEASON_YEAR}_all.json"
 OUTPUT_CSV_ALL  = f"girls_volleyball_games_{SEASON_YEAR}_all.csv"
-CLASSIFICATIONS_PATH = "classifications.json"   # must be girls volleyball's own -- see docstring
+CLASSIFICATIONS_PATH = "classifications.json"
 SCHOOLS_CSV           = "mshsaa_schools.csv"
-
-REQUEST_DELAY = 0.5  # seconds between requests, matches the football/softball scripts
-
+ 
+REQUEST_DELAY = 0.5  # seconds between requests, matches 2025 script
+ 
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -106,18 +115,18 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.5",
     "Referer": "https://www.mshsaa.org/"
 }
-
+ 
 # ---------------------------------------------------------------------------
-# HTTP SESSION (identical to the football/softball scripts)
+# HTTP SESSION (identical to girls_volleyball_ratings_2025.py (or whichever prior-season script exists for this sport -- adjust if the naming differs))
 # ---------------------------------------------------------------------------
-
+ 
 def build_session():
     from requests.adapters import HTTPAdapter
     try:
         from urllib3.util.retry import Retry
     except ImportError:
         from requests.packages.urllib3.util.retry import Retry
-
+ 
     session = requests.Session()
     retry = Retry(
         total=1,
@@ -131,19 +140,12 @@ def build_session():
     session.mount("https://", adapter)
     session.mount("http://", adapter)
     return session
-
-
+ 
+ 
 # ---------------------------------------------------------------------------
-# CLASSIFICATIONS / NAME RESOLUTION (identical to football/softball --
-# generic MSHSAA site plumbing, not sport-specific. MANUAL_OVERRIDES below
-# is copied as a starting point from football_ratings_2025.py; some
-# entries may not apply to volleyball (a co-op that plays football
-# together but not volleyball, or vice versa) and some volleyball-only
-# co-ops may be missing. Treat this as a first draft, not a verified
-# volleyball list -- cross-check against girls volleyball's actual
-# classifications.json once you have it.)
+# CLASSIFICATIONS / NAME RESOLUTION (identical to girls_volleyball_ratings_2025.py (or whichever prior-season script exists for this sport -- adjust if the naming differs))
 # ---------------------------------------------------------------------------
-
+ 
 def load_classifications(path=CLASSIFICATIONS_PATH):
     with open(path) as f:
         data = json.load(f)
@@ -154,116 +156,122 @@ def load_classifications(path=CLASSIFICATIONS_PATH):
         team_to_class[school]    = entry["classification"]
         team_to_district[school] = entry["district"]
     return team_to_class, team_to_district
-
-
+ 
+ 
 def build_id_to_classname(team_to_class, schools_csv=SCHOOLS_CSV):
     """
-    Build { school_id_str : classification_name }. NOTE: the MANUAL_OVERRIDES
-    dict below is copied from the football script as of its last known good
-    run -- see the module docstring. If your girls volleyball classifications.json
-    renames/adds/removes any co-op programs, this list may need updating.
+    Build { school_id_str : classification_name }. MANUAL_OVERRIDES is
+    intentionally empty for this clean run (see module docstring). If a
+    school ID fails to resolve to a classifications.json name below, add
+    its "id": "correct classification name" entry here once you've
+    confirmed it from a live scoreboard page or classifications.json
+    itself -- co-op programs and schools with a name that doesn't match
+    mshsaa_schools.csv exactly are the most likely source of unresolved IDs.
     """
+    # STRIPPED for this clean run -- see the module docstring's
+    # "THIS IS A CLEAN, STRIPPED-DOWN FIRST RUN" section. Populate this
+    # after you've seen which school IDs come back unresolved.
     MANUAL_OVERRIDES = {
-        "271": "Clopton with Elsberry",
-        "331": "King City with Pattonsburg",
-        "126": "Lockwood with Golden City",
-        "421": "Princeton with Mercer",
-        "424": "Rich Hill with Hume",
-        "431": "Salisbury",
+        "1817": "Believe Acad Charter",
+        "97": "Hogan Prep Academy Charter",
+        "1189": "KIPP St. Louis Sr.",
+        "88": "Kelly",
+        "95": "Kirkwood",
+        "426": "Richmond",
+        "541": "Rosati-Kain",
+        "430": "Russellville",
         "435": "Scott City",
-        "443": "Skyline",
-        "193": "Slater",
+        "437": "Seymour",
         "194": "Smith-Cotton",
-        "197": "South Callaway",
-        "549": "St. Mary's South Side",
-        "463": "Stockton",
+        "447": "South Holt with Craig",
+        "450": "South Pemiscot",
+        "453": "Southland",
+        "544": "St. Francis Borgia",
+        "205": "Steelville",
+        "465": "Stover",
+        "466": "Strafford",
         "207": "Sullivan",
-        "208": "Sumner",
-        "469": "Sweet Springs with Malta Bend",
         "198": "Truman",
-        "479": "University Academy Charter",
+        "199": "Twin Rivers",
+        "558": "Ursuline Academy",
         "204": "Van Horn",
         "206": "Vashon",
-        "20": "Appleton City with Montrose",
-        "275": "Drexel with Miami (Amoret)",
-        "575": "Renaissance Academy Charter",
-        "172": "St. James",
-        "35": "DeSoto with Kingston",
-        "917": "Father Tolton with Calvary Lutheran",
-        "342": "Liberal with Bronaugh",
-        "776": "Transportation and Law with Beaumont",
-        "483": "Van-Far with Community",
-    }
-
+        "445": "Smithville",
+        "468": "Summersville",
+        "224": "Waynesville",
+        "456": "Sparta",
+}
+ 
     df = pd.read_csv(schools_csv)
     known_class_names = set(team_to_class.keys())
-
+ 
     id_to_classname = {}
     for _, row in df.iterrows():
         full_name = row["school_name"]
         sid       = str(row["school_id"])
         stripped  = full_name.replace(" High School", "").strip()
-
+ 
         if stripped in known_class_names:
             id_to_classname[sid] = stripped
         elif full_name in known_class_names:
             id_to_classname[sid] = full_name
-
+ 
     id_to_classname.update(MANUAL_OVERRIDES)
-
+ 
     print(f"  [name-resolve] {len(id_to_classname)} schools mapped by ID "
           f"({len(MANUAL_OVERRIDES)} via manual overrides)")
     return id_to_classname
-
-
-def resolve_name(cell, id_to_classname, known_teams):
-    """Identical logic to the football/softball scripts."""
-    a = cell.find("a", href=lambda h: h and "/MySchool/Schedule.aspx" in h)
-    if not a:
-        return None
-
-    href  = a.get("href", "")
-    match = re.search(r"[?&]s=(\d+)", href, re.IGNORECASE)
-    if match:
-        sid = match.group(1)
-        if sid in id_to_classname:
-            return id_to_classname[sid]
-
-    display_text = a.get_text(strip=True)
-    if display_text in known_teams:
-        return display_text
-
-    return None
-
-
-# ---------------------------------------------------------------------------
-# SCRAPING
-# ---------------------------------------------------------------------------
-
-def resolve_name_or_raw(cell, id_to_classname, known_teams):
+ 
+ 
+def resolve_name_or_raw(row, school_cell, id_to_classname, known_teams):
     """
-    Like resolve_name(), but never returns None for a cell that has an
-    MSHSAA schedule link -- if the school ID/display text doesn't match
-    classifications.json (an unclassified or missing school), this falls
-    back to whatever display text the scoreboard link shows, and reports
-    that the team is unclassified via the second return value.
-    Returns (name, classified: bool).
+    Resolve a team row to (name, classified: bool).
+ 
+    Primary signal: the <tr>'s data-school attribute, which MSHSAA
+    populates for EVERY team row -- Missouri member schools AND
+    out-of-state/non-member opponents alike. Confirmed against a live
+    scoreboard page: an Edwardsville (Ill.) row has data-school='929'
+    even though it has no /MySchool/Schedule.aspx link anywhere in it.
+    If that ID matches a known Missouri school ID, use
+    classifications.json's canonical name and mark classified=True.
+ 
+    Fallback: if data-school is blank/unknown (a non-member opponent,
+    or any row missing the attribute for some other reason), fall back
+    to the visible name in td.school > span.name and mark
+    classified=False. This replaces the old href-only detection, which
+    depended on an <a href="/MySchool/Schedule.aspx..."> being present
+    inside the cell -- that link is only rendered for MSHSAA member
+    schools, so any row for a non-member opponent (e.g. an out-of-state
+    team) was previously invisible to the scraper and the ENTIRE game
+    got dropped, not just that side.
     """
-    name = resolve_name(cell, id_to_classname, known_teams)
-    if name is not None:
-        return name, True
-
-    a = cell.find("a", href=lambda h: h and "/MySchool/Schedule.aspx" in h)
-    raw = a.get_text(strip=True) if a else None
+    sid = (row.get("data-school") or "").strip()
+    if sid and sid in id_to_classname:
+        return id_to_classname[sid], True
+ 
+    name_span = school_cell.find("span", class_="name")
+    raw = name_span.get_text(strip=True) if name_span else None
+    # MSHSAA renders a still-TBD opponent slot's name as the literal
+    # template text "(, )" (an empty "Name (City, ST)" pattern) rather
+    # than leaving it blank -- normalize that to "" (NOT None) so it
+    # reads as "no usable name" without being mistaken for an actual
+    # (garbled) team name downstream. Important: this must stay a
+    # non-None value. scrape_date() drops the row entirely when this
+    # returns None (correctly so, for a cell with no name_span at all --
+    # that row is genuinely unusable), but "(, )" is a normal, EXPECTED
+    # placeholder for a not-yet-determined opponent, and dropping that
+    # row silently drops the whole game before it ever reaches the
+    # corrections/exclusions step in apply_manual_overrides(). That
+    # exact regression happened once already -- see the Edwardsville
+    # case this same "row invisible -> game vanishes" pattern caused
+    # earlier, and don't reintroduce it here.
+    if raw is not None and re.fullmatch(r"\(\s*,\s*\)", raw):
+        raw = ""
+    if raw and raw in known_teams:
+        return raw, True
     return raw, False
-
-
-def is_mshsaa_team(cell):
-    return cell.find(
-        "a", href=lambda h: h and "/MySchool/Schedule.aspx" in h
-    ) is not None
-
-
+ 
+ 
 def parse_score(text):
     text = text.strip()
     if not text:
@@ -273,22 +281,32 @@ def parse_score(text):
     except ValueError:
         return None
     return score if 0 <= score <= MAX_POINTS else None
-
-
+ 
+ 
 def is_forfeit(row1, row2):
     return "forfeit" in (row1.get_text() + row2.get_text()).lower()
-
-
+ 
+ 
+def is_overtime(row1, row2):
+    """
+    First-pass OT detection: looks for "overtime" or a standalone "OT"
+    token in the game's row text (e.g. a "Final/OT" status flag some
+    scoreboards use). UNVERIFIED against a real MSHSAA OT game -- confirm
+    the actual wording once a live OT game shows up and adjust the regex
+    if needed.
+    """
+    text = row1.get_text() + " " + row2.get_text()
+    return bool(re.search(r"overtime|\bOT\b", text, re.IGNORECASE))
+ 
+ 
 def scrape_date(target_date, id_to_classname, known_teams, session):
     """
-    Generalized version of the football/softball scripts' scrape_date():
+    Generalized version of girls_volleyball_ratings_2025.py (or whichever prior-season script exists for this sport -- adjust if the naming differs)'s scrape_date():
     scans every row in every table for a cell containing an MSHSAA team
     link (rather than assuming team names always sit at a fixed row/column
     index), so it works whether the table has a score column (completed
-    matches) or not (scheduled matches). Pairs up tables with exactly 2
-    team-rows as a single match. Score is captured if present, else None
-    -- see MAX_POINTS above regarding what "score" means for volleyball
-    (sets won, not rally points -- unverified).
+    games) or not (scheduled games). Pairs up tables with exactly 2
+    team-rows as a single game. Score is captured if present, else None.
     """
     url = BASE_URL.format(target_date.strftime("%m%d%Y"))
     try:
@@ -300,46 +318,43 @@ def scrape_date(target_date, id_to_classname, known_teams, session):
     except requests.RequestException as e:
         print(f"  Failed {target_date}: {e}")
         return [], "error"
-
+ 
     soup  = BeautifulSoup(resp.text, "html.parser")
     games = []
-
+ 
     for table in soup.find_all("table"):
         rows = table.find_all("tr")
         if len(rows) < 2:
             continue
-
-        team_rows = []  # list of (name, classified, score, row) for rows with a team link
+ 
+        team_rows = []  # list of (name, classified, score, row) for team rows
         for row in rows:
-            cells = row.find_all("td")
-            if not cells:
+            # td.school + span.name is present for EVERY team row, member
+            # or not -- unlike the old <a href="/MySchool/Schedule.aspx">
+            # check, which only matches MSHSAA member schools and silently
+            # skipped rows for out-of-state/non-member opponents.
+            school_cell = row.find("td", class_="school")
+            if school_cell is None:
                 continue
-            team_cell = next((c for c in cells if is_mshsaa_team(c)), None)
-            if team_cell is None:
-                continue
-
-            name, classified = resolve_name_or_raw(team_cell, id_to_classname, known_teams)
+ 
+            name, classified = resolve_name_or_raw(row, school_cell, id_to_classname, known_teams)
             if name is None:
-                # Has the schedule link but somehow no display text either --
+                # Has a td.school cell but no usable name text either --
                 # too broken to use, skip just this row.
                 continue
-
-            score = None
-            for c in cells:
-                s = parse_score(c.get_text())
-                if s is not None:
-                    score = s
-                    break
-
+ 
+            score_cell = row.find("td", class_="score")
+            score = parse_score(score_cell.get_text()) if score_cell else None
+ 
             team_rows.append((name, classified, score, row))
-
+ 
         if len(team_rows) != 2:
-            continue  # not a clean 2-team match table -- skip
-
+            continue  # not a clean 2-team game table -- skip
+ 
         (name1, classified1, s1, row1), (name2, classified2, s2, row2) = team_rows
         if name1 == name2:
             continue
-
+ 
         games.append({
             "date": target_date.strftime("%Y-%m-%d"),
             "team1": name1,
@@ -349,11 +364,12 @@ def scrape_date(target_date, id_to_classname, known_teams, session):
             "team2_classified": classified2,
             "score2": s2,
             "forfeit": is_forfeit(row1, row2),
+            "overtime": is_overtime(row1, row2),
         })
-
+ 
     return games, None
-
-
+ 
+ 
 def scrape_full_season(id_to_classname, known_teams):
     all_games   = []
     current     = SEASON_START
@@ -361,7 +377,7 @@ def scrape_full_season(id_to_classname, known_teams):
     slow_days   = []
     failed_days = []
     session     = build_session()
-
+ 
     while current <= SEASON_END:
         day_t0 = time.perf_counter()
         print(f"  Scraping {current}...", end=" ", flush=True)
@@ -375,7 +391,7 @@ def scrape_full_season(id_to_classname, known_teams):
             failed_days.append((current, fail_reason))
         current += timedelta(days=1)
         time.sleep(REQUEST_DELAY)
-
+ 
     scrape_elapsed = time.perf_counter() - scrape_t0
     print(f"\n  [TIMING] Scraping took {scrape_elapsed:.1f}s total "
           f"for {len(all_games)} games.")
@@ -392,10 +408,10 @@ def scrape_full_season(id_to_classname, known_teams):
         print("  All dates returned successfully -- no known data gaps "
               "from scraping failures.")
     return all_games
-
-
+ 
+ 
 def deduplicate_games(all_games):
-    """Same score-independent dedup key as the football/softball scripts."""
+    """Same score-independent dedup key as girls_volleyball_ratings_2025.py (or whichever prior-season script exists for this sport -- adjust if the naming differs)."""
     seen = set()
     unique_games = []
     duplicates = 0
@@ -406,15 +422,206 @@ def deduplicate_games(all_games):
             continue
         seen.add(key)
         unique_games.append(g)
-
+ 
     if duplicates:
         print(f"  Removed {duplicates} duplicate game(s). "
               f"{len(unique_games)} unique games remain.")
     else:
         print(f"  No duplicates found. {len(unique_games)} games.")
     return unique_games
-
-
+ 
+ 
+MANUAL_OVERRIDES_PATH = "girls_volleyball_manual_name_overrides.json"
+ 
+ 
+def load_manual_overrides(path=MANUAL_OVERRIDES_PATH):
+    """
+    Loads the hand-maintained corrections/exclusions file for games that
+    come back with one side unclassified (see strict_games_from_all --
+    these never make girls_volleyball_games_2026.json, but they DO show up in
+    the _all files with a blank/garbled name for the non-MSHSAA side).
+ 
+    corrections: keyed by (date, the ALREADY-classified team's name) so a
+    fix holds true regardless of whether a score has been filled in yet --
+    score is never part of the match key, and the classified side's name
+    is never touched. Maps to the corrected name for the OTHER side.
+ 
+    exclusions: exact (date, team1, team2) triples (as originally scraped,
+    pre-correction) for specific bad/duplicate games that should be
+    dropped outright rather than corrected. Most one-sided-unclassified
+    junk doesn't need an entry here at all -- see the both-sides-
+    unclassified drop rule in apply_manual_overrides() below, which
+    handles that category structurally so it doesn't need weekly upkeep.
+    """
+    try:
+        with open(path) as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        print(f"  [overrides] {path} not found -- skipping corrections/exclusions.")
+        return {}, set()
+    except json.JSONDecodeError as e:
+        # A hand-edited overrides file with a stray comma/brace should
+        # never cost you the whole scrape (this used to crash main()
+        # right after scraping, before any output files got written --
+        # see the [TIMING] line in the traceback that caused this fix).
+        # Skip corrections/exclusions for this run instead and say
+        # exactly where to look, rather than losing everything.
+        print(f"  [overrides] WARNING: {path} is not valid JSON ({e}). "
+              f"Skipping corrections/exclusions for this run -- fix the "
+              f"file (check for a stray comma or brace near that line) "
+              f"and re-run to pick them back up.")
+        return {}, set()
+ 
+    corrections = {
+        (c["date"], c["known_team"]): c["corrected_opponent"]
+        for c in data.get("corrections", [])
+    }
+    exclusions = {
+        (e["date"], e.get("team1"), e.get("team2"))
+        for e in data.get("exclusions", [])
+    }
+    print(f"  [overrides] Loaded {len(corrections)} correction(s) and "
+          f"{len(exclusions)} exclusion(s) from {path}")
+    return corrections, exclusions
+ 
+ 
+def apply_manual_overrides(all_games, corrections, exclusions):
+    """
+    Three passes over the >=0-classified game list, in order:
+ 
+    1. Drop any game where NEITHER side resolved to a classifications.json
+       team. These have no MSHSAA relevance at all (they come from some
+       other section of the scoreboard page, not an actual Missouri
+       school's game) and this rule keeps catching new ones automatically
+       every week with no maintenance -- this is the fix for the "at
+       least one side must be classified" requirement.
+    2. Drop anything in the manual exclusion list (matched on the exact
+       raw date/team1/team2 as scraped -- these are specific one-off bad
+       or duplicate games that don't fit a general rule).
+    3. Apply a manual correction to the unclassified side's name, if one
+       is on file for (date, classified side's name). Applied
+       unconditionally when matched -- if MSHSAA's site later fills in
+       its own name for that slot, this will still overwrite it with the
+       name you confirmed, which is the point (holds true across score
+       updates by design). If that's ever NOT what you want for a given
+       game, that's what the exclusion list is for instead.
+    """
+    def _norm(name):
+        # Defensive: treats "" (what resolve_name_or_raw() now returns
+        # for a still-TBD opponent slot) and the legacy literal "(, )"
+        # text (from data scraped before that fix) the same way -- both
+        # mean "no usable name" -- so exclusion keys match consistently
+        # regardless of which era a given row was scraped in.
+        if name is not None and (name == "" or re.fullmatch(r"\(\s*,\s*\)", name)):
+            return None
+        return name
+ 
+    kept = []
+    dropped_both_unclassified = 0
+    dropped_excluded = 0
+    corrected = 0
+ 
+    for g in all_games:
+        g["team1"] = _norm(g["team1"])
+        g["team2"] = _norm(g["team2"])
+        c1, c2 = g["team1_classified"], g["team2_classified"]
+ 
+        if not c1 and not c2:
+            dropped_both_unclassified += 1
+            continue
+ 
+        raw_key = (g["date"], g["team1"], g["team2"])
+        if raw_key in exclusions:
+            dropped_excluded += 1
+            continue
+ 
+        if c1 and not c2:
+            fix = corrections.get((g["date"], g["team1"]))
+            if fix is not None and fix != g["team2"]:
+                g["team2"] = fix
+                corrected += 1
+        elif c2 and not c1:
+            fix = corrections.get((g["date"], g["team2"]))
+            if fix is not None and fix != g["team1"]:
+                g["team1"] = fix
+                corrected += 1
+ 
+        kept.append(g)
+ 
+    print(f"  [overrides] Dropped {dropped_both_unclassified} game(s) with no classified "
+          f"side, {dropped_excluded} manually-excluded game(s); "
+          f"applied {corrected} name correction(s). {len(kept)} games remain.")
+    return kept
+ 
+ 
+def load_score_corrections(path=MANUAL_OVERRIDES_PATH):
+    """
+    Loads the score_corrections list from the same overrides file used for
+    name corrections/exclusions. Each entry fills in a still-missing score
+    for one specific game (exact date + the two team names, order doesn't
+    matter) that you already know the result of ahead of MSHSAA posting
+    it themselves.
+ 
+    Unlike name corrections (which apply forever, since an out-of-state
+    opponent's real name will never come from classifications.json on its
+    own), a score_corrections entry is intentionally NOT permanent: see
+    apply_score_corrections() below -- it only fires while the scraped
+    score is still null. Once MSHSAA posts their own score for that game,
+    the live scraped value takes over automatically and the entry just
+    sits there harmlessly (no need to remove it after the fact).
+    """
+    try:
+        with open(path) as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        return []
+    except json.JSONDecodeError:
+        # Same reasoning as load_manual_overrides() above -- a broken
+        # overrides file shouldn't take the whole run down with it.
+        # load_manual_overrides() already prints the warning for this
+        # file, so this just quietly degrades rather than warning twice.
+        return []
+    return data.get("score_corrections", [])
+ 
+ 
+def apply_score_corrections(all_games, score_corrections):
+    """
+    For every game whose score1 AND score2 are both still None, checks it
+    against the manual score_corrections list on (date, the unordered
+    pair of team names) -- matched by NAME rather than team1/team2
+    position, so this stays correct even if team1/team2 end up swapped
+    between scrape runs (the same swap issue apply_manual_overrides()
+    already has to account for). If a game already has a score from the
+    site, it's left alone -- the live scraped score always wins over a
+    manual one, by design.
+    """
+    if not score_corrections:
+        return all_games
+ 
+    index = {}
+    for sc in score_corrections:
+        key = (sc["date"], frozenset([sc["team1"], sc["team2"]]))
+        index[key] = sc
+ 
+    applied = 0
+    for g in all_games:
+        if g["score1"] is not None or g["score2"] is not None:
+            continue  # site already has a score for this game -- it wins
+        key = (g["date"], frozenset([g["team1"], g["team2"]]))
+        sc = index.get(key)
+        if sc is None:
+            continue
+        if g["team1"] == sc["team1"]:
+            g["score1"], g["score2"] = sc["score1"], sc["score2"]
+        else:
+            g["score1"], g["score2"] = sc["score2"], sc["score1"]
+        applied += 1
+ 
+    print(f"  [overrides] Filled in {applied} manually-provided score(s) "
+          f"for game(s) MSHSAA hasn't posted a result for yet.")
+    return all_games
+ 
+ 
 def strict_games_from_all(all_games):
     """
     Filters the full (>=1 classified team) game list down to games where
@@ -433,78 +640,127 @@ def strict_games_from_all(all_games):
             "team2": g["team2"],
             "score2": g["score2"],
             "forfeit": g["forfeit"],
+            "overtime": g["overtime"],
         })
     return strict
-
-
+ 
+ 
+def teams_missing_final_scores(all_games, known_teams):
+    """
+    Compares the full universe of known teams (from classifications.json)
+    against the set of teams that show up in at least one scraped game
+    where BOTH score1 and score2 parsed to a real value (i.e. an actual
+    final score, not just a scheduled/unscored matchup).
+ 
+    Returns a sorted list of team names with zero games that have a
+    final score on record.
+    """
+    teams_with_final_score = set()
+    for g in all_games:
+        if g["score1"] is not None and g["score2"] is not None:
+            teams_with_final_score.add(g["team1"])
+            teams_with_final_score.add(g["team2"])
+ 
+    missing = sorted(known_teams - teams_with_final_score)
+    return missing
+ 
+ 
+def report_missing_final_scores(all_games, known_teams):
+    missing = teams_missing_final_scores(all_games, known_teams)
+    print(f"\n=== Teams with NO final-score game on record: {len(missing)} of {len(known_teams)} ===")
+    if missing:
+        for team in missing:
+            print(f"  - {team}")
+    else:
+        print("  None -- every known team has at least one final score.")
+    return missing
+ 
+ 
 def save_json(all_games, path=OUTPUT_JSON):
     with open(path, "w") as f:
         json.dump(all_games, f, indent=2)
     print(f"Saved {len(all_games)} games to {path}")
-
-
+ 
+ 
 def save_csv(all_games, path=OUTPUT_CSV):
     with open(path, "w", newline="") as f:
         writer = csv.writer(f)
-        writer.writerow(["date", "team1", "score1", "team2", "score2", "forfeit"])
+        writer.writerow(["date", "team1", "score1", "team2", "score2", "forfeit", "overtime"])
         for g in all_games:
             writer.writerow([g["date"], g["team1"], g["score1"], g["team2"], g["score2"],
-                              g["forfeit"]])
+                              g["forfeit"], g["overtime"]])
     print(f"Saved {len(all_games)} games to {path}")
-
-
+ 
+ 
 def save_csv_all(all_games, path=OUTPUT_CSV_ALL):
     with open(path, "w", newline="") as f:
         writer = csv.writer(f)
         writer.writerow(["date", "team1", "team1_classified", "score1",
                           "team2", "team2_classified", "score2",
-                          "forfeit"])
+                          "forfeit", "overtime"])
         for g in all_games:
             writer.writerow([g["date"], g["team1"], g["team1_classified"], g["score1"],
                               g["team2"], g["team2_classified"], g["score2"],
-                              g["forfeit"]])
+                              g["forfeit"], g["overtime"]])
     print(f"Saved {len(all_games)} games to {path}")
-
-
+ 
+ 
 # ---------------------------------------------------------------------------
 # MAIN
 # ---------------------------------------------------------------------------
-
+ 
 if __name__ == "__main__":
     print(f"=== MSHSAA Girls Volleyball Games Pull {SEASON_YEAR} (schedule, no ratings) ===")
-
+ 
     print("\nLoading classifications...")
     team_to_class, team_to_district = load_classifications()
     known_teams = set(team_to_class.keys())
     print(f"  Loaded {len(team_to_class)} teams from {CLASSIFICATIONS_PATH}")
-
+ 
     print("\nBuilding school ID -> classification name lookup...")
     id_to_classname = build_id_to_classname(team_to_class, SCHOOLS_CSV)
-
+ 
     print(f"\nScraping {SEASON_START} to {SEASON_END}...")
     all_games = scrape_full_season(id_to_classname, known_teams)
-    print(f"\nTotal games found (before dedup, >=1 classified team): {len(all_games)}")
-
+    print(f"\nTotal games found (before overrides/dedup, >=1 classified team): {len(all_games)}")
+ 
     if not all_games:
         print("No games found. This is expected if the 2026 schedule "
               "hasn't been posted to MSHSAA yet -- try again closer to "
-              "the season, or check a known date manually in a browser. "
-              "Also double check alg=57 is really girls volleyball, and "
-              "that its scoreboard shows sets won rather than total "
-              "rally points -- see the module docstring, neither was "
-              "verified against the live page.")
-
+              "the season, or check a known date manually in a browser.")
+ 
+    # Overrides run BEFORE dedup, on the full un-deduplicated list. MSHSAA
+    # sometimes lists the same game twice with team1/team2 swapped (once
+    # under each school's own schedule table); if dedup ran first, its
+    # (date, frozenset(team1, team2)) key can't tell those two raw copies
+    # apart and keeps whichever one happened to scrape first -- which
+    # might be the copy that matches an exclusion entry, silently
+    # discarding the correctable copy before it ever reached
+    # apply_manual_overrides(). Running overrides first lets each raw
+    # copy get matched against corrections/exclusions independently; the
+    # dedup pass below then cleans up any true duplicates left over
+    # (e.g. two copies that both got corrected to the identical names).
+    print("\nApplying manual name corrections/exclusions...")
+    corrections, exclusions = load_manual_overrides()
+    all_games = apply_manual_overrides(all_games, corrections, exclusions)
+ 
+    print("\nApplying manual score corrections...")
+    score_corrections = load_score_corrections()
+    all_games = apply_score_corrections(all_games, score_corrections)
+ 
     print("\nDeduplicating...")
     all_games = deduplicate_games(all_games)
-
+ 
     strict_games = strict_games_from_all(all_games)
     print(f"Of those, {len(strict_games)} have both teams classified "
           f"({len(all_games) - len(strict_games)} have exactly one classified side).")
-
+ 
     print("\nSaving output...")
     save_json(strict_games, OUTPUT_JSON)
     save_csv(strict_games, OUTPUT_CSV)
     save_json(all_games, OUTPUT_JSON_ALL)
     save_csv_all(all_games, OUTPUT_CSV_ALL)
-
+ 
+    report_missing_final_scores(all_games, known_teams)
+ 
     print("\n=== Done ===")
