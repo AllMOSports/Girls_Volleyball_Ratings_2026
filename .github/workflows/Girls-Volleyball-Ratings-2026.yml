@@ -59,6 +59,14 @@ jobs:
           git add girls_volleyball_ratings_2026*.json \
                   girls_volleyball_rankings_2026_*.csv \
                   girls_volleyball_scoreboard_2026.csv
+          # Schedule outputs (formerly build_girls_volleyball_schedule_2026.py)
+          # (skipped files are fine -- the schedule step is non-fatal)
+          for f in girls_volleyball_schedule_2026.json \
+                   girls_volleyball_schedule_2026.csv \
+                   girls_volleyball_games_2026_all.csv \
+                   girls_volleyball_games_2026.csv; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
