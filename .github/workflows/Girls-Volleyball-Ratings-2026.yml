@@ -60,7 +60,8 @@ jobs:
           # and schedule builder).
           git add girls_volleyball_games_2026.json girls_volleyball_games_2026.csv \
                   girls_volleyball_games_2026_all.json girls_volleyball_games_2026_all.csv \
-                  girls_volleyball_schedule_2026.json girls_volleyball_schedule_2026.csv
+                  girls_volleyball_schedule_2026.json girls_volleyball_schedule_2026.csv \
+                  girls_volleyball_missing_scores_2026.csv
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
