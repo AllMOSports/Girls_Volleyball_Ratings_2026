@@ -1,5 +1,4 @@
 Date,Home Team,Home Score,Away Team,Away Score
-2026-08-12,Rockwood Summit,2,Francis Howell Central,0
 2026-08-22,New Haven,0,Calvary Lutheran,2
 2026-08-22,Stover,2,Calvary Lutheran,0
 2026-08-22,Maryville,2,Lathrop,0
@@ -822,6 +821,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-03,Maysville,0,Mid-Buchanan,3
 2026-09-03,Butler,3,Midway,1
 2026-09-03,Rock Port,3,Mound City,2
+2026-09-03,Webster Groves,3,Nerinx Hall,0
 2026-09-03,Joplin,0,Nevada,3
 2026-09-03,Belle,1,New Haven,3
 2026-09-03,Montgomery County,0,North Callaway,3
@@ -1115,6 +1115,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-08,Sarcoxie,1,Miller,3
 2026-09-08,Rolla,0,Mountain Grove,3
 2026-09-08,Carl Junction,3,Mt. Vernon,0
+2026-09-08,Villa Duchesne,0,Nerinx Hall,3
 2026-09-08,Calvary Lutheran,3,New Bloomfield,0
 2026-09-08,Galena,0,New Covenant Academy,3
 2026-09-08,Pierce City,3,New Heights Christian,2
@@ -1679,7 +1680,6 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-12,St. Clair,0,Hannibal,2
 2026-09-12,Ritenour,2,Hazelwood Central,0
 2026-09-12,Rosati-Kain,1,Hazelwood Central,2
-2026-09-12,Notre Dame (St. Louis),4,Hazelwood East,0
 2026-09-12,Oak Ridge,2,Hazelwood West,0
 2026-09-12,Gideon,2,Hazelwood West,0
 2026-09-12,Zalma,0,Hazelwood West,2
@@ -2021,6 +2021,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-14,Galena,0,Spokane,3
 2026-09-14,Timberland,0,St. Dominic,3
 2026-09-14,Dixon,0,St. James,3
+2026-09-14,Nerinx Hall,0,St. Joseph's Academy,3
 2026-09-14,West County,0,St. Paul Lutheran (Farmington),3
 2026-09-14,Poplar Bluff,0,St. Pius X (Festus),3
 2026-09-14,North Kansas City,0,St. Pius X (Kansas City),3
@@ -2367,6 +2368,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-17,Delta (Deering),3,Southland,2
 2026-09-17,Marshfield,3,Springfield Catholic,0
 2026-09-17,Holt,3,St. Charles West,1
+2026-09-17,Visitation Academy,0,St. Dominic,3
 2026-09-17,Maysville,0,St. Joseph Christian,3
 2026-09-17,Van Horn,0,St. Michael the Archangel,3
 2026-09-17,Jefferson (Festus),2,St. Vincent,3
@@ -2438,6 +2440,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-19,Bunker,1,Ava,1
 2026-09-19,Thayer,1,Ava,1
 2026-09-19,Hollister,2,Ava,0
+2026-09-19,Leeton with Chilhowee,0,Ballard,2
 2026-09-19,Kingsville,2,Ballard,0
 2026-09-19,Green Ridge,2,Ballard,0
 2026-09-19,Herculaneum,0,Belle,2
@@ -2599,6 +2602,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-19,St. Teresa's Academy,0,Lee's Summit North,2
 2026-09-19,Lee's Summit West,0,Lee's Summit North,2
 2026-09-19,Park Hill South,0,Lee's Summit West,2
+2026-09-19,Orrick,1,Leeton with Chilhowee,2
 2026-09-19,New Haven,2,Leopold,0
 2026-09-19,Jefferson (Festus),1,Licking,1
 2026-09-19,Grandview,0,Lincoln College Prep,2
@@ -2736,6 +2740,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-20,Bunker,1,Ava,1
 2026-09-20,Thayer,1,Ava,1
 2026-09-20,Hollister,2,Ava,0
+2026-09-20,Leeton with Chilhowee,0,Ballard,2
 2026-09-20,Kingsville,2,Ballard,0
 2026-09-20,Green Ridge,2,Ballard,0
 2026-09-20,Herculaneum,0,Belle,2
@@ -2897,6 +2902,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-20,St. Teresa's Academy,0,Lee's Summit North,2
 2026-09-20,Lee's Summit West,0,Lee's Summit North,2
 2026-09-20,Park Hill South,0,Lee's Summit West,2
+2026-09-20,Orrick,1,Leeton with Chilhowee,2
 2026-09-20,New Haven,2,Leopold,0
 2026-09-20,Jefferson (Festus),1,Licking,1
 2026-09-20,Grandview,0,Lincoln College Prep,2
@@ -3102,6 +3108,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-21,Knob Noster,0,Oak Grove,3
 2026-09-21,La Monte,3,Orrick,0
 2026-09-21,Jefferson (Festus),0,Perryville,3
+2026-09-21,Park Hill,3,Platte County,0
 2026-09-21,Smithton,3,Prairie Home,0
 2026-09-21,Smithville,2,Raymore-Peculiar,3
 2026-09-21,Lutheran North,1,Ritenour,3
@@ -3139,6 +3146,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-21,St. Charles West,1,Wright City,3
 2026-09-22,Pembroke Hill,2,Adrian,3
 2026-09-22,Drexel,3,Appleton City with Montrose,2
+2026-09-22,North County,3,Arcadia Valley,1
 2026-09-22,Diamond,1,Ash Grove,3
 2026-09-22,Salem,3,Ava,2
 2026-09-22,Hancock,0,Bayless,3
@@ -3151,12 +3159,16 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-22,Branson,3,Carl Junction,1
 2026-09-22,Portageville,3,Caruthersville,0
 2026-09-22,Bunceton,0,Christian Fellowship Sr.,3
+2026-09-22,Central (New Madrid County),3,Clarkton,2
 2026-09-22,Stover,2,Cole Camp,3
 2026-09-22,Wellington-Napoleon,0,Concordia,3
 2026-09-22,Cardinal Ritter,3,Confluence Prep Academy Charter with Grand Center Arts Charter,1
 2026-09-22,Gideon,3,Cooter,0
+2026-09-22,Frontier STEM,1,Cristo Rey,3
 2026-09-22,Valley Park,3,Crossroads College Preparatory,0
 2026-09-22,Clearwater,0,Doniphan,3
+2026-09-22,Trenton,0,East Buchanan,2
+2026-09-22,Penney,0,East Buchanan,2
 2026-09-22,Logan-Rogersville,3,Fair Grove,0
 2026-09-22,Montgomery County,0,Father Tolton,3
 2026-09-22,DeSoto,0,Festus,3
@@ -3173,10 +3185,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-22,Fox,3,Hazelwood West,0
 2026-09-22,Smith-Cotton,0,Helias Catholic,3
 2026-09-22,Crystal City,3,Herculaneum,0
+2026-09-22,Pacific,3,Hermann,0
 2026-09-22,Orchard Farm,3,Holt,1
 2026-09-22,Ewing Marion Kauffman,3,KIPP KC Legacy,0
 2026-09-22,Holden,0,Knob Noster,3
 2026-09-22,Carrollton,0,Lafayette County,3
+2026-09-22,Rich Hill,2,Lakeland,3
 2026-09-22,McDonald County,0,Lamar,3
 2026-09-22,Eugene,3,Laquey,0
 2026-09-22,Chillicothe,0,Lawson,2
@@ -3190,8 +3204,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-22,Rock Bridge,2,Marquette,3
 2026-09-22,Bolivar,0,Marshfield,3
 2026-09-22,Faith Christian Academy,3,Maysville,1
+2026-09-22,Hazelwood Central,3,McCluer North,0
+2026-09-22,South Iron,0,Meadow Heights,3
 2026-09-22,Visitation Academy,0,MICDS,3
 2026-09-22,Sherwood,0,Midway,3
+2026-09-22,Nevada,2,Mt. Vernon,3
+2026-09-22,Parkway Central,1,Nerinx Hall,3
 2026-09-22,Spokane,0,New Covenant Academy,3
 2026-09-22,Exeter,0,New Heights Christian,3
 2026-09-22,Carthage,1,Nixa,3
@@ -3213,6 +3231,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-22,Ballard,3,Sheldon,1
 2026-09-22,Jackson,3,Sikeston,1
 2026-09-22,Ruskin,0,Smithville,3
+2026-09-22,Rock Port,3,South Holt with Craig,0
 2026-09-22,East (Kansas City),0,Southeast,3
 2026-09-22,Osage,3,Southern Boone,2
 2026-09-22,Sarcoxie,3,Southwest (Washburn),0
@@ -3220,15 +3239,21 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-22,Winfield,0,St. Charles West,3
 2026-09-22,Sullivan,2,St. Clair,3
 2026-09-22,Owensville,3,St. James,0
+2026-09-22,Cor Jesu Academy,0,St. Joseph's Academy,3
 2026-09-22,Kingston,1,Steelville,3
 2026-09-22,Skyline,3,Stockton,0
 2026-09-22,McAuley Catholic,0,Thomas Jefferson Independent Day,3
+2026-09-22,Ft. Zumwalt East,0,Timberland,3
 2026-09-22,Penney,0,Trenton,2
-2026-09-22,East Buchanan,2,Trenton,0
 2026-09-22,Liberty (Wentzville),2,Troy Buchanan,3
 2026-09-22,William Chrisman,3,Truman,0
+2026-09-22,New Haven,0,Union,3
 2026-09-22,Jennings,1,University City,3
+2026-09-22,St. Dominic,3,Ursuline Academy,0
+2026-09-22,Notre Dame (St. Louis),2,Villa Duchesne,3
 2026-09-22,Versailles,0,Warsaw,3
 2026-09-22,Ft. Zumwalt North,3,Washington,0
 2026-09-22,Jefferson (Festus),3,West County,0
 2026-09-22,Winona,2,West Plains,3
+2026-09-22,Houston,3,Willow Springs,0
+2026-09-22,Central (Park Hills),2,Windsor (Imperial),3
