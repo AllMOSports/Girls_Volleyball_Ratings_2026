@@ -6,6 +6,8 @@ import re
 import pandas as pd
 from datetime import datetime, date, timedelta
 import time
+import urllib.request
+from datetime import timezone
 from collections import Counter
  
 # ---------------------------------------------------------------------------
@@ -20,6 +22,16 @@ MAX_POINTS    = 4
 OUTPUT_PATH   = f"girls_volleyball_ratings_{SEASON_YEAR}.json"
 CSV_PATH      = f"girls_volleyball_scoreboard_{SEASON_YEAR}.csv"
 CLASSIFICATIONS_PATH  = "classifications.json"
+ 
+# --- Schedule build (formerly build_girls_volleyball_schedule_2026.py) ---
+# Input is the flat games file from scrape_girls_volleyball_games_2026.py
+# (every match, played or upcoming, including non-classified opponents).
+# Can be a local path or an http(s) URL.
+GAMES_ALL_SOURCE      = f"girls_volleyball_games_{SEASON_YEAR}_all.json"
+GAMES_ALL_CSV_PATH    = f"girls_volleyball_games_{SEASON_YEAR}_all.csv"
+GAMES_CSV_PATH        = f"girls_volleyball_games_{SEASON_YEAR}.csv"     # classified-vs-classified only
+SCHEDULE_JSON_PATH    = f"girls_volleyball_schedule_{SEASON_YEAR}.json"
+SCHEDULE_CSV_PATH     = f"girls_volleyball_schedule_{SEASON_YEAR}.csv"
 SCHOOLS_CSV           = "mshsaa_schools.csv"
 ITERATIONS            = 1000
 LEARNING_RATE         = 0.1
@@ -187,6 +199,8 @@ def build_id_to_classname(team_to_class, schools_csv=SCHOOLS_CSV):
   "469": "Sweet Springs",
   "131": "Miller Career Academy",
   "1567": "Academie Lafayette",
+  "456": "Sparta",
+  "468": "Summersville",
     }
  
     df = pd.read_csv(schools_csv)
@@ -594,6 +608,145 @@ def save_csv(all_games):
  
  
 # ---------------------------------------------------------------------------
+# SCHEDULE BUILD (formerly build_girls_volleyball_schedule_2026.py)
+# ---------------------------------------------------------------------------
+# Converts the flat games file (team1/team2/score1/score2, one row per match)
+# into the per-team schedule file the Sport Detail snippet reads:
+#   {"season": ..., "generated": ..., "teams": {schoolName: [game, ...]}}
+# Logic is unchanged from the standalone script, so the JSON output is
+# identical apart from the "generated" timestamp.
+#
+# Ratings-dependent fields (predicted_team_score, predicted_opp_score,
+# ovr_delta) are still written as null. off_delta/def_delta stay null
+# permanently -- girls volleyball has no offense/defense split.
+# home_away is null because the source file has no home/away indicator;
+# the front-end falls back to "at".
+# Only "forfeit" is carried through -- volleyball has no overtime/extra
+# innings equivalent at the match level.
+ 
+def load_games_all(source=GAMES_ALL_SOURCE):
+    """Load the flat game list from a local path or an http(s) URL."""
+    if source.startswith("http://") or source.startswith("https://"):
+        with urllib.request.urlopen(source) as resp:
+            return json.load(resp)
+    with open(source, "r", encoding="utf-8") as f:
+        return json.load(f)
+ 
+ 
+def compute_result(team_score, opp_score):
+    """W/L/T, or None for an upcoming/unplayed match (either score missing).
+    A "T" can't happen in volleyball; this just mirrors the shared logic."""
+    if team_score is None or opp_score is None:
+        return None
+    if team_score > opp_score:
+        return "W"
+    if team_score < opp_score:
+        return "L"
+    return "T"
+ 
+ 
+def make_schedule_entry(game_date, opponent, team_score, opp_score, forfeit):
+    return {
+        "date": game_date,
+        "opponent": opponent,
+        "home_away": None,
+        "team_score": team_score,
+        "opp_score": opp_score,
+        "result": compute_result(team_score, opp_score),
+        "predicted_team_score": None,
+        "predicted_opp_score": None,
+        "off_delta": None,
+        "def_delta": None,
+        "ovr_delta": None,
+        "forfeit": bool(forfeit),
+    }
+ 
+ 
+def build_schedule(games, season=SEASON_YEAR):
+    teams = {}
+    for g in games:
+        game_date = g.get("date")
+        team1, team2 = g.get("team1"), g.get("team2")
+        score1, score2 = g.get("score1"), g.get("score2")
+        forfeit = g.get("forfeit", False)
+ 
+        if not team1 or not team2:
+            print(f"  Skipping malformed game (missing team name): {g}")
+            continue
+ 
+        teams.setdefault(team1, []).append(
+            make_schedule_entry(game_date, team2, score1, score2, forfeit))
+        teams.setdefault(team2, []).append(
+            make_schedule_entry(game_date, team1, score2, score1, forfeit))
+ 
+    # Chronological per team (ISO strings sort correctly; None dates last)
+    for schedule in teams.values():
+        schedule.sort(key=lambda entry: entry["date"] or "9999-99-99")
+ 
+    return {
+        "season": season,
+        "generated": datetime.now(timezone.utc).isoformat(),
+        "teams": teams,
+    }
+ 
+ 
+def _write_dict_csv(path, rows, fieldnames):
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(rows)
+ 
+ 
+def save_games_csvs(games):
+    """CSV copies of the flat games files: _all, and the
+    classified-vs-classified subset (same rows as girls_volleyball_games_2026.json)."""
+    all_fields = []
+    for g in games:
+        for k in g:
+            if k not in all_fields:
+                all_fields.append(k)
+    _write_dict_csv(GAMES_ALL_CSV_PATH, games, all_fields)
+    print(f"  Saved {len(games)} games to {GAMES_ALL_CSV_PATH}")
+ 
+    classified = [g for g in games
+                  if g.get("team1_classified", True) and g.get("team2_classified", True)]
+    sub_fields = [k for k in all_fields if not k.endswith("_classified")]
+    _write_dict_csv(GAMES_CSV_PATH, classified, sub_fields)
+    print(f"  Saved {len(classified)} games to {GAMES_CSV_PATH}")
+ 
+ 
+def save_schedule(schedule):
+    with open(SCHEDULE_JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(schedule, f, indent=2)
+ 
+    fields = ["team", "date", "opponent", "home_away", "team_score",
+              "opp_score", "result", "predicted_team_score",
+              "predicted_opp_score", "off_delta", "def_delta", "ovr_delta",
+              "forfeit"]
+    rows = [{"team": team, **entry}
+            for team in sorted(schedule["teams"])
+            for entry in schedule["teams"][team]]
+    _write_dict_csv(SCHEDULE_CSV_PATH, rows, fields)
+ 
+    print(f"  Built {SCHEDULE_JSON_PATH} + {SCHEDULE_CSV_PATH}: "
+          f"{len(schedule['teams'])} teams, {len(rows)} team-game rows.")
+ 
+ 
+def run_schedule_build(source=GAMES_ALL_SOURCE):
+    """Whole schedule step. A missing/unreadable games file only skips this
+    step -- it never stops the ratings from being saved."""
+    try:
+        games = load_games_all(source)
+    except Exception as e:
+        print(f"  *** Schedule build SKIPPED -- couldn't load {source}: {e} ***")
+        return False
+    print(f"  Loaded {len(games)} source games from {source}")
+    save_games_csvs(games)
+    save_schedule(build_schedule(games))
+    return True
+ 
+ 
+# ---------------------------------------------------------------------------
 # RATING ENGINE (v2 -- soft competitiveness weighting + shrinkage regularization)
 # ---------------------------------------------------------------------------
 #
@@ -907,9 +1060,13 @@ if __name__ == "__main__":
     save_all_rankings_csvs(off_rating, def_rating, ovr_rating,
                            team_to_class, team_to_district)
  
+    print("\nBuilding schedule files...")
+    run_schedule_build()
+ 
     not_rated = report_teams_not_rated(ovr_rating, team_to_class)
  
     print("\n=== Done ===")
  
     send_missing_teams_notification(not_rated)
+ 
  
