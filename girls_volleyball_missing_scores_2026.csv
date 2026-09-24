@@ -6,10 +6,10 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-15,one team's score only,Caruthersville,3,Southland,,True
 2026-09-16,one team's score only,Columbia Independent,1,Chamois,,True
 2026-09-17,one team's score only,Hayti,0,Campbell,,True
+2026-09-17,one team's score only,Green Ridge,0,Smithton,,True
 2026-09-17,one team's score only,Paseo Academy,0,"Turner(Kansas City, KS)",,False
-2026-09-18,one team's score only,Branson,2,Webb City,,True
-2026-09-21,one team's score only,Leeton with Chilhowee,0,Green Ridge,,True
-2026-09-21,one team's score only,Kingsville,1,Green Ridge,,True
+2026-09-22,one team's score only,Bell City,0,Leopold,,True
+2026-09-22,one team's score only,Pembroke Hill,2,Odessa,,True
 2026-08-20,no score,Raytown South,,Raytown,,True
 2026-08-20,no score,Grandview,,Raytown,,True
 2026-08-21,no score,Lutheran St. Charles,,Holt,,True
@@ -39,8 +39,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-08-25,no score,Cooter,,Hayti,,True
 2026-08-25,no score,St. Paul Lutheran (Farmington),,Leopold,,True
 2026-08-25,no score,Crystal City,,Leopold,,True
-2026-08-25,no score,Fredericktown,,Meadow Heights,,True
-2026-08-25,no score,Puxico,,Meadow Heights,,True
 2026-08-25,no score,Gateway with Soldan International Studies,,Miller Career Academy,,True
 2026-08-25,no score,Sullivan,,Potosi,,True
 2026-08-25,no score,Owensville,,Potosi,,True
@@ -91,12 +89,10 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-12,no score,Scott City,,Grandview (Hillsboro),,True
 2026-09-12,no score,Webster Groves,,Pattonville,,True
 2026-09-12,no score,Sweet Springs,,Richmond,,True
-2026-09-14,no score,Round Grove Christian Acad,,Ash Grove,,False
 2026-09-14,no score,Hazelwood East,,Normandy Collaborative,,False
 2026-09-15,no score,Dora,,Alton,,False
 2026-09-15,no score,Hancock,,Brentwood,,True
 2026-09-15,no score,Camdenton,,Capital City,,True
-2026-09-15,no score,Calvary Lutheran,,Chamois,,True
 2026-09-15,no score,McCluer North,,Lift for Life Academy Charter,,True
 2026-09-15,no score,New Bloomfield,,Lighthouse Sr.,,False
 2026-09-15,no score,Webster Groves,,Parkway West,,True
@@ -104,26 +100,20 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-16,no score,Hancock,,Crossroads College Preparatory,,True
 2026-09-16,no score,McCluer,,Normandy Collaborative,,False
 2026-09-16,no score,Hazelwood Central,,Normandy Collaborative,,False
-2026-09-17,no score,East Prairie,,Bell City,,True
 2026-09-17,no score,St. Louis Ignite,,Hillsboro,,False
 2026-09-17,no score,Gateway with Soldan International Studies,,Lift for Life Academy Charter,,True
 2026-09-17,no score,Chamois,,Lighthouse Sr.,,False
 2026-09-17,no score,Miller Career Academy,,Normandy Collaborative,,False
 2026-09-17,no score,Fox,,Parkway North,,True
-2026-09-17,no score,Green Ridge,,Smithton,,True
 2026-09-17,no score,St. Louis Christian Sr.,,St. Francis Borgia,,False
-2026-09-17,no score,Ewing Marion Kauffman,,University Academy Charter,,True
 2026-09-17,no score,Valley,,Viburnum,,True
 2026-09-17,no score,Rockwood Summit,,Webster Groves,,True
 2026-09-17,no score,Lutheran North,,Westminster Christian Academy,,True
 2026-09-18,no score,Crossroads College Preparatory,,Brentwood,,True
-2026-09-18,no score,Webb City,,Camdenton,,True
-2026-09-18,no score,Willard,,Camdenton,,True
 2026-09-18,no score,East Prairie,,Kelly,,True
 2026-09-18,no score,Villa Duchesne,,Lutheran South,,True
 2026-09-18,no score,Normandy Collaborative,,McCluer North,,False
 2026-09-18,no score,Leopold,,Puxico,,True
-2026-09-18,no score,Willard,,Webb City,,True
 2026-09-19,no score,Viburnum,,Belle,,True
 2026-09-19,no score,St. Joseph's Academy,,"Belleville East(Belleville, IL)",,False
 2026-09-19,no score,Leopold,,Bowling Green,,True
@@ -148,18 +138,40 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-20,no score,Van Horn,,Raytown,,True
 2026-09-20,no score,Grandview,,Ruskin,,True
 2026-09-20,no score,Warrenton,,Viburnum,,True
-2026-09-21,no score,Sacred Heart,,Bunceton,,True
-2026-09-21,no score,Licking,,Capital City,,True
 2026-09-21,no score,North Callaway,,Centralia,,True
 2026-09-21,no score,Southland,,East Prairie,,True
 2026-09-21,no score,Fair Grove,,Glendale,,True
-2026-09-21,no score,St. Louis Christian Sr.,,Holt,,False
 2026-09-21,no score,Northeast (Kansas City),,"J.C. Harmon High Schoo(Kansas City, KS)",,False
 2026-09-21,no score,Koshkonong,,"Mammoth Spring(Mammoth Spring, AR)",,False
-2026-09-21,no score,Leopold,,Meadow Heights,,True
 2026-09-21,no score,Hillsboro,,North County,,True
 2026-09-21,no score,Kearney,,Oak Park,,True
 2026-09-21,no score,Richland (Essex),,Risco,,True
-2026-09-21,no score,Sparta,,Seymour,,True
 2026-09-21,no score,Villa Duchesne,,St. Joseph's Academy,,True
 2026-09-21,no score,Purdy,,Wheaton,,True
+2026-09-22,no score,Centralia,,Bowling Green,,True
+2026-09-22,no score,North Platte,,Brookfield,,True
+2026-09-22,no score,Hillcrest,,Buffalo,,True
+2026-09-22,no score,St. Joseph Christian,,Cameron,,True
+2026-09-22,no score,Farmington,,Central (Cape Girardeau),,True
+2026-09-22,no score,"Bishop Ward(Kansas City, KS)",,Central (Kansas City),,False
+2026-09-22,no score,Northwest (Cedar Hill),,Clayton,,True
+2026-09-22,no score,Verona,,Everton,,True
+2026-09-22,no score,Winnetonka,,Grandview,,True
+2026-09-22,no score,Perryville,,Hillsboro,,True
+2026-09-22,no score,School of the Ozarks,,Hurley,,True
+2026-09-22,no score,Guadalupe Centers Charter,,"Kansas School for the Deaf(Olathe, KS)",,False
+2026-09-22,no score,McKinley Classical Leadership,,KIPP St. Louis Sr.,,True
+2026-09-22,no score,Oakville,,Ladue Horton Watkins,,True
+2026-09-22,no score,Kirkwood,,Lafayette (Wildwood),,True
+2026-09-22,no score,Lee's Summit,,Liberty North,,True
+2026-09-22,no score,St. Louis Ignite,,Mehlville,,False
+2026-09-22,no score,East Newton,,Monett,,True
+2026-09-22,no score,Gloria Deo Academy,,Niangua,,True
+2026-09-22,no score,West Plains,,Normandy Collaborative,,False
+2026-09-22,no score,Liberty,,North Kansas City,,True
+2026-09-22,no score,Neosho,,Ozark,,True
+2026-09-22,no score,Southland,,Risco,,True
+2026-09-22,no score,Union Star with King City,,South Harrison,,True
+2026-09-22,no score,Warrenton,,St. Charles,,True
+2026-09-22,no score,Blue Springs,,Staley,,True
+2026-09-22,no score,Excelsior Springs,,West Platte,,True
