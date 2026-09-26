@@ -97,55 +97,37 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-17,no score,St. Louis Ignite,,Hillsboro,,False
 2026-09-17,no score,Gateway with Soldan International Studies,,Lift for Life Academy Charter,,True
 2026-09-17,no score,Chamois,,Lighthouse Sr.,,False
-2026-09-17,no score,Fox,,Parkway North,,True
 2026-09-17,no score,St. Louis Christian Sr.,,St. Francis Borgia,,False
-2026-09-17,no score,Valley,,Viburnum,,True
 2026-09-17,no score,Rockwood Summit,,Webster Groves,,True
 2026-09-17,no score,Lutheran North,,Westminster Christian Academy,,True
 2026-09-18,no score,Crossroads College Preparatory,,Brentwood,,True
 2026-09-18,no score,Villa Duchesne,,Lutheran South,,True
 2026-09-18,no score,Normandy Collaborative,,McCluer North,,False
 2026-09-18,no score,Leopold,,Puxico,,True
-2026-09-19,no score,Viburnum,,Belle,,True
-2026-09-19,no score,Staley,,"Bryant(Bryant, AR)",,False
 2026-09-19,no score,Veritas Christian Academy,,"Collinsville(Collinsville, IL)",,False
-2026-09-19,no score,Northeast (Kansas City),,"F L Schlagle(Kansas City , KS)",,False
-2026-09-19,no score,Platte County,,Hickman,,True
 2026-09-19,no score,New Heights Christian,,McAuley Catholic,,True
 2026-09-19,no score,Grandview,,Raytown,,True
 2026-09-19,no score,Van Horn,,Raytown,,True
-2026-09-19,no score,Warrenton,,Viburnum,,True
-2026-09-20,no score,Viburnum,,Belle,,True
-2026-09-20,no score,Staley,,"Bryant(Bryant, AR)",,False
 2026-09-20,no score,Veritas Christian Academy,,"Collinsville(Collinsville, IL)",,False
-2026-09-20,no score,Northeast (Kansas City),,"F L Schlagle(Kansas City , KS)",,False
-2026-09-20,no score,Platte County,,Hickman,,True
 2026-09-20,no score,New Heights Christian,,McAuley Catholic,,True
 2026-09-20,no score,Grandview,,Raytown,,True
 2026-09-20,no score,Van Horn,,Raytown,,True
-2026-09-20,no score,Warrenton,,Viburnum,,True
 2026-09-21,no score,North Callaway,,Centralia,,True
 2026-09-21,no score,Northeast (Kansas City),,"J.C. Harmon High Schoo(Kansas City, KS)",,False
 2026-09-21,no score,Hillsboro,,North County,,True
 2026-09-21,no score,Kearney,,Oak Park,,True
 2026-09-21,no score,Richland (Essex),,Risco,,True
 2026-09-22,no score,Hillcrest,,Buffalo,,True
-2026-09-22,no score,St. Joseph Christian,,Cameron,,True
 2026-09-22,no score,Farmington,,Central (Cape Girardeau),,True
 2026-09-22,no score,Northwest (Cedar Hill),,Clayton,,True
 2026-09-22,no score,Verona,,Everton,,True
 2026-09-22,no score,Perryville,,Hillsboro,,True
 2026-09-22,no score,Guadalupe Centers Charter,,"Kansas School for the Deaf(Olathe, KS)",,False
-2026-09-22,no score,McKinley Classical Leadership,,KIPP St. Louis Sr.,,True
 2026-09-22,no score,Kirkwood,,Lafayette (Wildwood),,True
 2026-09-22,no score,Lee's Summit,,Liberty North,,True
 2026-09-22,no score,St. Louis Ignite,,Mehlville,,False
-2026-09-22,no score,East Newton,,Monett,,True
 2026-09-22,no score,West Plains,,Normandy Collaborative,,False
 2026-09-22,no score,Neosho,,Ozark,,True
-2026-09-22,no score,Union Star with King City,,South Harrison,,True
-2026-09-22,no score,Warrenton,,St. Charles,,True
-2026-09-22,no score,Blue Springs,,Staley,,True
 2026-09-23,no score,Bishop DuBourg,,Brentwood,,True
 2026-09-23,no score,Whitfield,,Duchesne,,True
 2026-09-23,no score,DeSoto,,Farmington,,True
@@ -157,3 +139,40 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-23,no score,Vashon,,Roosevelt,,False
 2026-09-23,no score,Gateway Legacy Sr. H.,,St. Pius X (Festus),,False
 2026-09-23,no score,Parkway Central,,Webster Groves,,True
+2026-09-24,no score,Northeast Vernon County,,Ballard,,True
+2026-09-24,no score,Ellington,,Bunker,,True
+2026-09-24,no score,Kelly,,"Cairo(Cairo, IL)",,False
+2026-09-24,no score,Rock Bridge,,Capital City,,True
+2026-09-24,no score,Saxony Lutheran,,Central (Cape Girardeau),,True
+2026-09-24,no score,South Pemiscot,,Charleston,,True
+2026-09-24,no score,Risco,,Clarkton,,True
+2026-09-24,no score,Hancock,,Crystal City,,True
+2026-09-24,no score,Hurley,,Everton,,True
+2026-09-24,no score,Van Horn,,Excelsior Springs,,True
+2026-09-24,no score,Clayton,,Fox,,True
+2026-09-24,no score,Spokane,,Greenwood,,True
+2026-09-24,no score,Risco,,Hayti,,True
+2026-09-24,no score,McCluer,,Hazelwood Central,,True
+2026-09-24,no score,McCluer North,,Hazelwood East,,True
+2026-09-24,no score,Windsor (Imperial),,Hillsboro,,True
+2026-09-24,no score,Lexington,,Holden,,True
+2026-09-24,no score,Valley,,Kingston,,True
+2026-09-24,no score,North Platte,,Lathrop,,True
+2026-09-24,no score,Zalma,,Leopold,,True
+2026-09-24,no score,Park Hill,,Liberty,,True
+2026-09-24,no score,Timberland,,Liberty (Wentzville),,True
+2026-09-24,no score,Crossroads College Preparatory,,Lutheran North,,True
+2026-09-24,no score,Ladue Horton Watkins,,Mehlville,,True
+2026-09-24,no score,Bradleyville,,Niangua,,True
+2026-09-24,no score,Sunnydale Adventist Acad HS,,North Callaway,,False
+2026-09-24,no score,Central (Park Hills),,North County,,True
+2026-09-24,no score,Parkway South,,Northwest (Cedar Hill),,True
+2026-09-24,no score,Kennett,,Poplar Bluff,,True
+2026-09-24,no score,Oak Ridge,,Puxico,,True
+2026-09-24,no score,Lincoln,,Smithton,,True
+2026-09-24,no score,Park Hill South,,Smithville,,True
+2026-09-24,no score,Buffalo,,Strafford,,True
+2026-09-24,no score,Maysville,,Trenton,,True
+2026-09-24,no score,Nerinx Hall,,Visitation Academy,,True
+2026-09-24,no score,Verona,,Wheaton,,True
+2026-09-24,no score,Raytown,,William Chrisman,,True
