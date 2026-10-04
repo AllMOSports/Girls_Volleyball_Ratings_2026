@@ -13,12 +13,12 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-26,one team's score only,Skyline,,Central (Springfield),0,True
 2026-09-27,one team's score only,Skyline,,Central (Springfield),0,True
 2026-09-28,one team's score only,Houston,1,Eminence,,True
-2026-09-28,one team's score only,Purdy,3,Northeast Vernon County,,True
 2026-09-28,one team's score only,Koshkonong,0,Thayer,,True
 2026-09-28,one team's score only,Miller Career Academy,,Vashon,1,True
 2026-09-28,one team's score only,Bishop DuBourg,0,Windsor (Imperial),,True
 2026-09-29,one team's score only,Doniphan,0,Ellington,,True
 2026-09-29,one team's score only,Potosi,,Farmington,1,True
+2026-10-02,one team's score only,Hurley,0,Crane,,True
 2026-08-20,no score,Raytown South,,Raytown,,True
 2026-08-20,no score,Grandview,,Raytown,,True
 2026-08-21,no score,Lutheran St. Charles,,Holt,,True
@@ -66,7 +66,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-08-29,no score,Visitation Academy,,St. Vincent,,True
 2026-08-29,no score,Visitation Academy,,Villa Duchesne,,True
 2026-08-31,no score,Believe Acad Charter,,Maplewood-Richmond Hts.,,True
-2026-08-31,no score,Francis Howell Central,,Parkway West,,True
 2026-09-01,no score,Bishop DuBourg,,KIPP St. Louis Sr.,,True
 2026-09-02,no score,Crossroads College Preparatory,,Maplewood-Richmond Hts.,,True
 2026-09-02,no score,STEAM Academy,,Normandy Collaborative,,False
@@ -108,7 +107,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-22,no score,West Plains,,Normandy Collaborative,,False
 2026-09-23,no score,Marquand-Zion,,Kelly,,False
 2026-09-23,no score,Parkway Central,,Webster Groves,,True
-2026-09-24,no score,Northeast Vernon County,,Ballard,,True
 2026-09-24,no score,Crossroads College Preparatory,,Lutheran North,,True
 2026-09-24,no score,Nerinx Hall,,Visitation Academy,,True
 2026-09-25,no score,Bayless,,Crossroads College Preparatory,,True
@@ -127,33 +125,26 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-29,no score,Hancock,,Crossroads College Preparatory,,True
 2026-09-29,no score,McCluer,,Lift for Life Academy Charter,,True
 2026-09-29,no score,Couch,,Lutie,,True
-2026-09-29,no score,Miami (Amoret),,Northeast Vernon County,,True
-2026-09-29,no score,Oak Grove,,Odessa,,True
-2026-09-29,no score,Diamond,,Pierce City,,True
 2026-09-29,no score,Richland (Essex),,Twin Rivers,,True
 2026-09-29,no score,Visitation Academy,,Villa Duchesne,,True
-2026-09-29,no score,North Kansas City,,Winnetonka,,True
 2026-09-30,no score,Normandy Collaborative,,Jennings,,False
 2026-09-30,no score,"Madison High (IL)(Madison, IL)",,Lift for Life Academy Charter,,False
 2026-09-30,no score,McCluer,,Normandy Collaborative,,False
 2026-09-30,no score,"Belleville East(Belleville, IL)",,Oakville,,False
 2026-09-30,no score,Oak Grove,,Van Horn,,True
 2026-10-01,no score,Northwest (Cedar Hill),,Affton,,True
-2026-10-01,no score,Jasper,,Archie,,True
 2026-10-01,no score,Pierce City,,Ash Grove,,True
 2026-10-01,no score,Lutheran North,,Bayless,,True
 2026-10-01,no score,Lee's Summit,,Blue Springs,,True
 2026-10-01,no score,Fulton,,Boonville,,True
 2026-10-01,no score,North Callaway,,Bowling Green,,True
 2026-10-01,no score,St. Louis Ignite,,Brentwood,,False
-2026-10-01,no score,Northeast Vernon County,,Bronaugh,,True
 2026-10-01,no score,Hermann,,Chamois,,True
 2026-10-01,no score,Ritenour,,Clayton,,True
 2026-10-01,no score,Roosevelt,,Confluence Prep Academy Charter with Grand Center Arts Charter,,False
 2026-10-01,no score,Thomas Jefferson Sr.,,Crossroads College Preparatory,,False
 2026-10-01,no score,Academie Lafayette,,Ewing Marion Kauffman,,True
 2026-10-01,no score,Pattonville,,Fox,,True
-2026-10-01,no score,Ft. Zumwalt South,,Ft. Zumwalt North,,True
 2026-10-01,no score,Round Grove Christian Acad,,Greenfield,,False
 2026-10-01,no score,Neosho,,Joplin,,True
 2026-10-01,no score,Seymour,,Koshkonong,,True
@@ -163,7 +154,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-01,no score,Kirksville,,Marshall,,True
 2026-10-01,no score,McCluer North,,McCluer,,True
 2026-10-01,no score,South Holt with Craig,,Mound City,,True
-2026-10-01,no score,Park Hill South,,North Kansas City,,True
 2026-10-01,no score,Kirkwood,,Oakville,,True
 2026-10-01,no score,Mehlville,,Parkway Central,,True
 2026-10-01,no score,Niangua,,Plato,,True
@@ -180,6 +170,27 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-01,no score,Visitation Academy,,St. Joseph's Academy,,True
 2026-10-01,no score,Oak Grove,,St. Michael the Archangel,,True
 2026-10-01,no score,Hillsboro,,Union,,True
-2026-10-01,no score,El Dorado Springs,,Versailles,,True
 2026-10-01,no score,Holt,,Warrenton,,True
 2026-10-01,no score,Licking,,Winona,,True
+2026-10-02,no score,Steelville,,Belle,,True
+2026-10-02,no score,Liberty (Wentzville),,"Belleville East(Belleville, IL)",,False
+2026-10-02,no score,Gateway Science Charter,,Brentwood,,True
+2026-10-02,no score,Holcomb,,Clarkton,,True
+2026-10-02,no score,Parkway South,,Clayton,,True
+2026-10-02,no score,Hogan Prep Academy Charter,,Cristo Rey,,True
+2026-10-02,no score,Maplewood-Richmond Hts.,,Crossroads College Preparatory,,True
+2026-10-02,no score,Ellington,,Greenville,,True
+2026-10-02,no score,Notre Dame (Cape Girardeau),,Leopold,,True
+2026-10-02,no score,Vashon,,Lutheran North,,True
+2026-10-02,no score,Hazelwood East,,Lutheran North,,True
+2026-10-02,no score,Vashon,,McKinley Classical Leadership,,True
+2026-10-02,no score,STEAM Academy,,Miller Career Academy,,True
+2026-10-02,no score,Parkway West,,Parkway Central,,True
+2026-10-02,no score,Gideon,,"Piggott(Piggott , AR)",,False
+2026-10-02,no score,Zalma,,Puxico,,True
+2026-10-02,no score,Richland (Essex),,Risco,,True
+2026-10-02,no score,Southland,,South Pemiscot,,True
+2026-10-02,no score,Liberty (Wentzville),,"St. Pius(Festus , MO)",,False
+2026-10-02,no score,Fatima,,Stover,,True
+2026-10-02,no score,Bloomfield,,Twin Rivers,,True
+2026-10-02,no score,Rosati-Kain,,Villa Duchesne,,True
