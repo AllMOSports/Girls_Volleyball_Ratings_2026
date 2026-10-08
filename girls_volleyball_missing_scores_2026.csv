@@ -31,7 +31,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-08-25,no score,Hillcrest,,Buffalo,,True
 2026-08-25,no score,Hayti,,Delta (Deering),,True
 2026-08-25,no score,Cooter,,Delta (Deering),,True
-2026-08-25,no score,Ft. Zumwalt West,,Ft. Zumwalt East,,True
 2026-08-25,no score,Archie,,South Harrison,,True
 2026-08-25,no score,Mid-Buchanan,,South Harrison,,True
 2026-08-25,no score,Blue Springs South,,Staley,,True
@@ -61,13 +60,11 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-11,no score,Visitation Academy,,"Glenwood Chatham(Chatham, IL)",,False
 2026-09-11,no score,Miller Career Academy,,KIPP St. Louis Sr.,,True
 2026-09-11,no score,Richland (Essex),,Marquand-Zion,,False
-2026-09-11,no score,Confluence Prep Academy Charter with Grand Center Arts Charter,,Normandy Collaborative,,False
 2026-09-12,no score,Visitation Academy,,"Champaign Centennial(Champaign, IL)",,False
 2026-09-12,no score,Visitation Academy,,"Fairfield Community(Fairfield , IL)",,False
 2026-09-12,no score,Visitation Academy,,"Windsor/Stewardson-Strasburg( Strasburg, IL)",,False
 2026-09-14,no score,Hazelwood East,,Normandy Collaborative,,False
 2026-09-16,no score,McCluer,,Normandy Collaborative,,False
-2026-09-17,no score,Gateway with Soldan International Studies,,Lift for Life Academy Charter,,True
 2026-09-17,no score,Chamois,,Lighthouse Sr.,,False
 2026-09-17,no score,St. Louis Christian Sr.,,St. Francis Borgia,,False
 2026-09-19,no score,Liberty (Wentzville),,Fox,,True
@@ -82,25 +79,36 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-30,no score,"Madison High (IL)(Madison, IL)",,Lift for Life Academy Charter,,False
 2026-10-01,no score,Hermann,,Chamois,,True
 2026-10-01,no score,Thomas Jefferson Sr.,,Crossroads College Preparatory,,False
-2026-10-01,no score,Visitation Academy,,St. Joseph's Academy,,True
 2026-10-02,no score,Liberty (Wentzville),,"Belleville East(Belleville, IL)",,False
-2026-10-02,no score,Holcomb,,Clarkton,,True
 2026-10-02,no score,Vashon,,Lutheran North,,True
-2026-10-03,no score,Liberty North,,"Blue Valley North(Overland Park, KS)",,False
 2026-10-03,no score,Marshall,,Carrollton,,True
-2026-10-03,no score,Rock Bridge,,"Maize South(Wichita, KS)",,False
-2026-10-03,no score,Liberty North,,St. Dominic,,True
-2026-10-04,no score,Liberty North,,"Blue Valley North(Overland Park, KS)",,False
 2026-10-04,no score,Marshall,,Carrollton,,True
-2026-10-04,no score,Rock Bridge,,"Maize South(Wichita, KS)",,False
-2026-10-04,no score,Liberty North,,St. Dominic,,True
 2026-10-05,no score,Miller Career Academy,,"Cahokia(Cahokia, IL)",,False
-2026-10-05,no score,Cooter,,Charleston,,True
 2026-10-05,no score,"KC Metro(Kansas City, KS)",,Ewing Marion Kauffman,,False
 2026-10-05,no score,Center,,Grandview,,True
 2026-10-05,no score,"Viola(Viola, AR)",,Koshkonong,,False
 2026-10-05,no score,McCluer North,,Normandy Collaborative,,False
 2026-10-05,no score,North Kansas City,,Platte County,,True
 2026-10-05,no score,North Pemiscot,,Southland,,True
-2026-10-05,no score,Vashon,,West Plains,,True
 2026-10-05,no score,Veritas Christian Academy,,Visitation Academy,,True
+2026-10-06,no score,Bloomfield,,Advance,,True
+2026-10-06,no score,Guadalupe Centers Charter,,"Bishop Ward(Kansas City, KS)",,False
+2026-10-06,no score,Odessa,,Center,,True
+2026-10-06,no score,East Prairie,,Charleston,,True
+2026-10-06,no score,Brentwood,,Crossroads College Preparatory,,True
+2026-10-06,no score,Frontier STEM,,"Daniel(Kansas City, MO)",,False
+2026-10-06,no score,North County,,Farmington,,True
+2026-10-06,no score,Strafford,,Forsyth,,True
+2026-10-06,no score,Zalma,,Greenville,,True
+2026-10-06,no score,Calvary Lutheran,,Heritage Athletics,,False
+2026-10-06,no score,Lutie,,Koshkonong,,True
+2026-10-06,no score,Parkway West,,Ladue Horton Watkins,,True
+2026-10-06,no score,Trenton,,Lathrop,,True
+2026-10-06,no score,Risco,,North Pemiscot,,True
+2026-10-06,no score,Ballard,,Northeast Vernon County,,True
+2026-10-06,no score,Fox,,Northwest (Cedar Hill),,True
+2026-10-06,no score,Smith-Cotton,,Oak Grove,,True
+2026-10-06,no score,Marionville,,Pierce City,,True
+2026-10-06,no score,Notre Dame (Cape Girardeau),,St. Pius X (Festus),,True
+2026-10-06,no score,Hancock,,Valley Park,,True
+2026-10-06,no score,University Academy Charter,,Van Horn,,True
