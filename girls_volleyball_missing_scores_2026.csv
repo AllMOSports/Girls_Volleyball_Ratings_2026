@@ -17,6 +17,7 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-29,one team's score only,Potosi,,Farmington,1,True
 2026-10-02,one team's score only,Hazelwood East,1,Lutheran North,,True
 2026-10-07,one team's score only,Steelville,,Dixon,2,True
+2026-10-08,one team's score only,Jennings,1,West Plains,,True
 2026-08-20,no score,Grandview,,Raytown,,True
 2026-08-21,no score,Lutheran St. Charles,,Holt,,True
 2026-08-21,no score,Westminster Christian Academy,,Holt,,True
@@ -72,8 +73,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-19,no score,Visitation Academy,,Ft. Zumwalt South,,True
 2026-09-22,no score,West Plains,,Normandy Collaborative,,False
 2026-09-23,no score,Marquand-Zion,,Kelly,,False
-2026-09-26,no score,STEAM Academy,,North Callaway,,True
-2026-09-29,no score,Bronaugh,,Ballard,,True
 2026-09-30,no score,Normandy Collaborative,,Jennings,,False
 2026-09-30,no score,"Madison High (IL)(Madison, IL)",,Lift for Life Academy Charter,,False
 2026-10-01,no score,Hermann,,Chamois,,True
@@ -87,17 +86,12 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-05,no score,McCluer North,,Normandy Collaborative,,False
 2026-10-05,no score,Veritas Christian Academy,,Visitation Academy,,True
 2026-10-06,no score,Guadalupe Centers Charter,,"Bishop Ward(Kansas City, KS)",,False
-2026-10-06,no score,Odessa,,Center,,True
 2026-10-06,no score,East Prairie,,Charleston,,True
 2026-10-06,no score,Frontier STEM,,"Daniel(Kansas City, MO)",,False
 2026-10-06,no score,Calvary Lutheran,,Heritage Athletics,,False
 2026-10-06,no score,Lutie,,Koshkonong,,True
-2026-10-06,no score,Ballard,,Northeast Vernon County,,True
 2026-10-06,no score,Fox,,Northwest (Cedar Hill),,True
-2026-10-06,no score,Marionville,,Pierce City,,True
-2026-10-06,no score,Hancock,,Valley Park,,True
 2026-10-06,no score,University Academy Charter,,Van Horn,,True
-2026-10-07,no score,Guadalupe Centers Charter,,Cristo Rey,,True
 2026-10-07,no score,Fordland,,Greenwood,,True
 2026-10-07,no score,Normandy Collaborative,,Hazelwood East,,False
 2026-10-07,no score,"Cairo(Cairo, IL)",,Kelly,,False
@@ -106,3 +100,42 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-07,no score,McCluer North,,Normandy Collaborative,,False
 2026-10-07,no score,Perryville,,Northwest (Cedar Hill),,True
 2026-10-07,no score,"Chester(Chester , IL)",,Perryville,,False
+2026-10-08,no score,"Pleasanton(Pleasanton, KS)",,Bronaugh,,False
+2026-10-08,no score,Maysville,,Brookfield,,True
+2026-10-08,no score,Hurley,,Chadwick,,True
+2026-10-08,no score,Bishop DuBourg,,Duchesne,,True
+2026-10-08,no score,Versailles,,Eldon,,True
+2026-10-08,no score,Tarkio with Fairfax,,"Essex Community School District(Essex, IA)",,False
+2026-10-08,no score,Lindbergh,,Eureka,,True
+2026-10-08,no score,Fredericktown,,Farmington,,True
+2026-10-08,no score,Fair Grove,,Forsyth,,True
+2026-10-08,no score,Notre Dame (St. Louis),,Fox,,True
+2026-10-08,no score,Confluence Prep Academy Charter with Grand Center Arts Charter,,Gateway Legacy Sr. H.,,False
+2026-10-08,no score,Ruskin,,Grandview,,True
+2026-10-08,no score,Lakeland,,Jasper,,True
+2026-10-08,no score,Raytown South,,Kearney,,True
+2026-10-08,no score,Charleston,,Kelly,,True
+2026-10-08,no score,Liberty North,,Lee's Summit,,True
+2026-10-08,no score,Believe Acad Charter,,Lift for Life Academy Charter,,True
+2026-10-08,no score,Miller Career Academy,,Lutheran North,,True
+2026-10-08,no score,Gloria Deo Academy,,Lutie,,True
+2026-10-08,no score,Cassville,,McDonald County,,True
+2026-10-08,no score,Winona,,Mountain Grove,,True
+2026-10-08,no score,Oak Park,,North Kansas City,,True
+2026-10-08,no score,Lindbergh,,Northwest (Cedar Hill),,True
+2026-10-08,no score,"Christ Preparatory(Lenexa, KS)",,Pleasant Hill,,False
+2026-10-08,no score,North County,,Potosi,,True
+2026-10-08,no score,Buffalo,,Reeds Spring,,True
+2026-10-08,no score,Parkway South,,Ritenour,,True
+2026-10-08,no score,Ladue Horton Watkins,,Seckman,,True
+2026-10-08,no score,Capital City,,Smith-Cotton,,True
+2026-10-08,no score,Clayton,,St. Charles,,True
+2026-10-08,no score,Ursuline Academy,,St. Pius X (Festus),,True
+2026-10-08,no score,Francis Howell Central,,Timberland,,True
+2026-10-08,no score,Southland,,Twin Rivers,,True
+2026-10-08,no score,West County,,Valley,,True
+2026-10-08,no score,STEAM Academy,,Valley Park,,True
+2026-10-08,no score,Pembroke Hill,,Van Horn,,True
+2026-10-08,no score,Thomas Jefferson Independent Day,,Verona,,True
+2026-10-08,no score,Whitfield,,Westminster Christian Academy,,True
+2026-10-08,no score,Warrenton,,Wright City,,True
