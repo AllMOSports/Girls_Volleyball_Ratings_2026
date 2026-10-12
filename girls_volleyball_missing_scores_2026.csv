@@ -18,6 +18,7 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-07,one team's score only,Steelville,,Dixon,2,True
 2026-10-08,one team's score only,Jennings,1,West Plains,,True
 2026-10-09,one team's score only,Hume,0,Ballard,,True
+2026-10-10,one team's score only,Conway,0,Greenfield,,True
 2026-08-20,no score,Grandview,,Raytown,,True
 2026-08-21,no score,Lutheran St. Charles,,Holt,,True
 2026-08-21,no score,Westminster Christian Academy,,Holt,,True
@@ -76,7 +77,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-02,no score,Liberty (Wentzville),,"Belleville East(Belleville, IL)",,False
 2026-10-02,no score,Vashon,,Lutheran North,,True
 2026-10-03,no score,Marshall,,Carrollton,,True
-2026-10-04,no score,Marshall,,Carrollton,,True
 2026-10-05,no score,Miller Career Academy,,"Cahokia(Cahokia, IL)",,False
 2026-10-05,no score,"KC Metro(Kansas City, KS)",,Ewing Marion Kauffman,,False
 2026-10-05,no score,"Viola(Viola, AR)",,Koshkonong,,False
@@ -114,19 +114,16 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-08,no score,Winona,,Mountain Grove,,True
 2026-10-08,no score,Oak Park,,North Kansas City,,True
 2026-10-08,no score,Lindbergh,,Northwest (Cedar Hill),,True
-2026-10-08,no score,"Christ Preparatory(Lenexa, KS)",,Pleasant Hill,,False
 2026-10-08,no score,North County,,Potosi,,True
 2026-10-08,no score,Buffalo,,Reeds Spring,,True
 2026-10-08,no score,Parkway South,,Ritenour,,True
 2026-10-08,no score,Ladue Horton Watkins,,Seckman,,True
 2026-10-08,no score,Capital City,,Smith-Cotton,,True
 2026-10-08,no score,Clayton,,St. Charles,,True
-2026-10-08,no score,Ursuline Academy,,St. Pius X (Festus),,True
 2026-10-08,no score,Southland,,Twin Rivers,,True
 2026-10-08,no score,West County,,Valley,,True
 2026-10-08,no score,STEAM Academy,,Valley Park,,True
 2026-10-08,no score,Pembroke Hill,,Van Horn,,True
-2026-10-08,no score,Thomas Jefferson Independent Day,,Verona,,True
 2026-10-08,no score,Whitfield,,Westminster Christian Academy,,True
 2026-10-09,no score,Ellington,,Arcadia Valley,,True
 2026-10-09,no score,Clarkton,,Bloomfield,,True
@@ -137,11 +134,8 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-09,no score,Eureka,,"Greenwood(Greenwood, AR)",,False
 2026-10-09,no score,Sparta,,Hurley,,True
 2026-10-09,no score,Miller Career Academy,,Jennings,,True
-2026-10-09,no score,Nerinx Hall,,John Burroughs,,True
 2026-10-09,no score,Couch,,Koshkonong,,True
 2026-10-09,no score,Doniphan,,Lesterville,,True
-2026-10-09,no score,Bradleyville,,Lutie,,True
-2026-10-09,no score,Brentwood,,Maplewood-Richmond Hts.,,True
 2026-10-09,no score,Campbell,,North Pemiscot,,True
 2026-10-09,no score,Holcomb,,"Piggott(Piggott, AR)",,False
 2026-10-09,no score,West Plains,,Rosati-Kain,,True
@@ -150,3 +144,38 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-09,no score,Parkway North,,Whitfield,,True
 2026-10-09,no score,Richland (Essex),,Zalma,,True
 2026-10-09,no score,Eagle Ridge Christian,,Zalma,,False
+2026-10-10,no score,Lindbergh,,Advance,,True
+2026-10-10,no score,Kirkwood,,Advance,,True
+2026-10-10,no score,Brentwood,,Bayless,,True
+2026-10-10,no score,Bourbon,,Belle,,True
+2026-10-10,no score,Herculaneum,,Bismarck,,True
+2026-10-10,no score,Fulton,,Boonville,,True
+2026-10-10,no score,Dixon,,Bourbon,,True
+2026-10-10,no score,Maysville,,Brookfield,,True
+2026-10-10,no score,Valley,,Bunker,,True
+2026-10-10,no score,West County,,Bunker,,True
+2026-10-10,no score,Bunker,,Crystal City,,True
+2026-10-10,no score,Sarcoxie,,Diamond,,True
+2026-10-10,no score,Bishop LeBlond,,Excelsior Springs,,True
+2026-10-10,no score,Kirkwood,,Festus,,True
+2026-10-10,no score,Jefferson City,,"Greenwood(Greenwook, AR)",,False
+2026-10-10,no score,Viburnum,,Herculaneum,,True
+2026-10-10,no score,Hickman,,Hermann,,True
+2026-10-10,no score,Northland Christian,,Holden,,True
+2026-10-10,no score,Lakeland,,Holden,,True
+2026-10-10,no score,Saxony Lutheran,,Kirkwood,,True
+2026-10-10,no score,El Dorado Springs,,Knob Noster,,True
+2026-10-10,no score,Northland Christian,,Lakeland,,True
+2026-10-10,no score,Blair Oaks,,"Louisburg(Louisburg, KS)",,False
+2026-10-10,no score,Plato,,Mansfield,,True
+2026-10-10,no score,Excelsior Springs,,Mound City,,True
+2026-10-10,no score,Bishop LeBlond,,Mound City,,True
+2026-10-10,no score,Bourbon,,North Callaway,,True
+2026-10-10,no score,Blair Oaks,,"Perry-Lecompton(Perry, KS)",,False
+2026-10-10,no score,St. Clair,,Rolla,,True
+2026-10-10,no score,Stockton,,Russellville,,True
+2026-10-10,no score,Blair Oaks,,"Shawnee Mission South(Overland Park , KS)",,False
+2026-10-10,no score,School of the Ozarks,,Stockton,,True
+2026-10-10,no score,Brookfield,,Trenton,,True
+2026-10-10,no score,Saxony Lutheran,,Winona,,True
+2026-10-10,no score,Incarnate Word Academy,,Winona,,True

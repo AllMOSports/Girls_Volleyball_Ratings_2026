@@ -569,7 +569,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-01,Liberty (Mountain View),3,Licking,1
 2026-09-01,Ozark,3,Logan-Rogersville,1
 2026-09-01,Lafayette County,3,Lone Jack,1
-2026-09-01,STEAM Academy,2,Lutheran North,2
+2026-09-01,STEAM Academy,1,Lutheran North,3
 2026-09-01,Nerinx Hall,3,Lutheran South,1
 2026-09-01,John Burroughs,3,Lutheran St. Charles,2
 2026-09-01,Houston,3,Lutie,0
@@ -4867,6 +4867,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-08,Mexico,0,Southern Boone,3
 2026-10-08,Pierce City,0,Spokane,3
 2026-10-08,Parkway North,2,St. Charles West,3
+2026-10-08,Ursuline Academy,3,St. Pius X (Festus),1
 2026-10-08,Belle,2,Steelville,3
 2026-10-08,Sarcoxie,2,Stockton,3
 2026-10-08,Sacred Heart,0,Stover,2
@@ -4880,6 +4881,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-08,Summit Christian Academy,3,University Academy Charter,0
 2026-10-08,Gateway with Soldan International Studies,0,University City,3
 2026-10-08,Kingston,0,Valle Catholic,3
+2026-10-08,Thomas Jefferson Independent Day,3,Verona,1
 2026-10-08,Adrian,3,Warsaw,0
 2026-10-08,Rock Port,3,West Nodaway with Nodaway-Holt,0
 2026-10-08,Mid-Buchanan,3,West Platte,0
@@ -4890,8 +4892,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-09,Wheaton,3,Exeter,2
 2026-10-09,Bell City,1,Gideon,3
 2026-10-09,Logan-Rogersville,2,Jefferson City,1
+2026-10-09,Nerinx Hall,1,John Burroughs,3
 2026-10-09,McKinley Classical Leadership,3,KIPP St. Louis Sr.,0
 2026-10-09,St. Francis Borgia,0,Logan-Rogersville,2
+2026-10-09,Bradleyville,1,Lutie,3
+2026-10-09,Brentwood,3,Maplewood-Richmond Hts.,1
 2026-10-09,Metro,0,MICDS,3
 2026-10-09,Clever,0,New Covenant Academy,3
 2026-10-09,Lutheran South,0,Nixa,2
@@ -4904,21 +4909,34 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-09,Francis Howell Central,3,Parkway West,1
 2026-10-09,Lutheran North,1,Principia,3
 2026-10-09,St. Francis Borgia,0,West Plains,2
+2026-10-10,Valle Catholic,1,Advance,2
 2026-10-10,Nerinx Hall,2,Advance,0
 2026-10-10,Thomas Jefferson Independent Day,2,Appleton City with Montrose,0
+2026-10-10,Sherwood,1,Appleton City with Montrose,1
 2026-10-10,Archie,1,Appleton City with Montrose,1
+2026-10-10,Holden,2,Appleton City with Montrose,1
 2026-10-10,Thomas Jefferson Independent Day,1,Archie,1
 2026-10-10,Sherwood,0,Archie,2
 2026-10-10,Midway,2,Archie,0
 2026-10-10,Excelsior Springs,0,Benton,2
 2026-10-10,Bishop LeBlond,2,Benton,0
+2026-10-10,Mansfield,0,Blue Eye,2
+2026-10-10,Seymour,0,Blue Eye,2
+2026-10-10,Niangua,0,Blue Eye,2
 2026-10-10,Gainesville,0,Blue Eye,2
+2026-10-10,Plato,0,Blue Eye,2
+2026-10-10,Lebanon,2,Bolivar,0
 2026-10-10,Eldon,1,Boonville,1
 2026-10-10,Montgomery County,0,Boonville,2
 2026-10-10,Licking,1,Boonville,1
+2026-10-10,Calvary Lutheran,0,Boonville,2
+2026-10-10,South Harrison,2,Brookfield,0
+2026-10-10,Sarcoxie,0,Butler,2
+2026-10-10,Diamond,0,Butler,2
 2026-10-10,Knob Noster,0,Cabool,2
 2026-10-10,El Dorado Springs,0,Cabool,2
 2026-10-10,Harrisonville,0,Cabool,2
+2026-10-10,Butler,2,Cabool,0
 2026-10-10,Sarcoxie,0,Clinton,2
 2026-10-10,Butler,0,Clinton,2
 2026-10-10,Harrisonville,0,Clinton,2
@@ -4926,31 +4944,55 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-10,Smithton,0,Cole Camp,2
 2026-10-10,Stover,0,Cole Camp,2
 2026-10-10,Sweet Springs,1,Concordia,2
+2026-10-10,Santa Fe,0,Concordia,2
+2026-10-10,Russellville,1,Conway,1
+2026-10-10,School of the Ozarks,2,Conway,0
+2026-10-10,Stockton,1,Conway,1
+2026-10-10,Wheaton,1,Conway,2
 2026-10-10,St. Paul Lutheran (Concordia),1,Crest Ridge,1
+2026-10-10,Santa Fe,2,Crest Ridge,0
+2026-10-10,Valley,0,Crystal City,2
+2026-10-10,Viburnum,0,Crystal City,2
+2026-10-10,Herculaneum,0,Crystal City,2
+2026-10-10,Bismarck,2,Crystal City,1
+2026-10-10,Cuba,2,Dixon,0
 2026-10-10,Montgomery County,1,Eldon,1
 2026-10-10,Licking,1,Eldon,1
 2026-10-10,Calvary Lutheran,1,Eldon,1
+2026-10-10,Logan-Rogersville,0,Eureka,2
 2026-10-10,Ozark,1,Eureka,2
 2026-10-10,West Plains,1,Eureka,2
 2026-10-10,Nerinx Hall,2,Festus,0
+2026-10-10,Jackson,2,Festus,0
 2026-10-10,Plato,2,Fordland,0
 2026-10-10,Gainesville,1,Fordland,1
 2026-10-10,Montgomery County,0,Fulton,2
 2026-10-10,Licking,1,Fulton,1
 2026-10-10,Eldon,0,Fulton,2
+2026-10-10,Calvary Lutheran,1,Fulton,1
 2026-10-10,Plato,0,Gainesville,2
 2026-10-10,Mansfield,0,Gainesville,2
+2026-10-10,Wheaton,0,Greenfield,2
 2026-10-10,Lockwood,1,Greenfield,1
 2026-10-10,Pleasant Hope,0,Greenfield,2
+2026-10-10,Houston,2,Greenfield,0
 2026-10-10,Bayless,2,Hancock,1
 2026-10-10,Brentwood,0,Hancock,2
 2026-10-10,Knob Noster,1,Harrisonville,1
 2026-10-10,El Dorado Springs,0,Harrisonville,2
+2026-10-10,Lebanon,2,Hermann,0
+2026-10-10,Bolivar,2,Hermann,0
 2026-10-10,Battle,2,Hermann,0
+2026-10-10,Lebanon,2,Hickman,0
+2026-10-10,Bolivar,0,Hickman,2
 2026-10-10,Midway,2,Holden,0
 2026-10-10,Pleasant Hope,0,Houston,2
 2026-10-10,Marionville,0,Houston,2
 2026-10-10,Jasper,1,Houston,1
+2026-10-10,Valle Catholic,0,Incarnate Word Academy,2
+2026-10-10,Kirkwood,0,Jackson,2
+2026-10-10,Lindbergh,0,Jackson,2
+2026-10-10,Incarnate Word Academy,0,Jackson,2
 2026-10-10,Pleasant Hope,2,Jasper,0
 2026-10-10,Marionville,2,Jasper,0
 2026-10-10,St. Joseph's Academy,2,Jefferson City,0
@@ -4961,27 +5003,41 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-10,Gainesville,2,Koshkonong,0
 2026-10-10,Otterville,2,La Monte,0
 2026-10-10,Maryville,3,Lafayette County,0
+2026-10-10,Lawson,3,Lafayette County,1
+2026-10-10,Odessa,2,Lafayette County,3
 2026-10-10,Midway,2,Lakeland,0
+2026-10-10,Sherwood,0,Lakeland,2
+2026-10-10,Odessa,3,Lawson,1
 2026-10-10,St. Paul Lutheran (Farmington),0,Leopold,2
 2026-10-10,Montgomery County,2,Licking,0
 2026-10-10,Calvary Lutheran,0,Licking,2
+2026-10-10,Valle Catholic,1,Lindbergh,2
 2026-10-10,Wheaton,0,Lockwood,2
 2026-10-10,Houston,0,Lockwood,2
 2026-10-10,Stockton,0,Lockwood,2
 2026-10-10,Conway,0,Lockwood,2
+2026-10-10,St. Joseph's Academy,2,Logan-Rogersville,1
 2026-10-10,St. Paul Lutheran (Concordia),1,Lone Jack,1
 2026-10-10,Jennings,0,Lutheran North,3
 2026-10-10,Pleasant Hope,1,Marionville,1
 2026-10-10,Battle,1,Marshfield,1
+2026-10-10,Willard,1,Marshfield,1
+2026-10-10,Union,0,Marshfield,2
+2026-10-10,Bolivar,0,Marshfield,2
+2026-10-10,Lebanon,0,Marshfield,2
 2026-10-10,Lawson,0,Maryville,3
 2026-10-10,Odessa,2,Maryville,3
+2026-10-10,South Harrison,2,Maysville,0
 2026-10-10,St. Paul Lutheran (Farmington),0,Meadow Heights,2
 2026-10-10,Northland Christian,1,Midway,1
 2026-10-10,Thomas Jefferson Independent Day,2,Midway,1
 2026-10-10,Calvary Lutheran,2,Montgomery County,0
+2026-10-10,Savannah,1,Mound City,1
 2026-10-10,Benton,0,Mound City,2
 2026-10-10,Saxony Lutheran,1,Nerinx Hall,2
+2026-10-10,Cuba,0,North Callaway,2
 2026-10-10,St. Paul Lutheran (Concordia),2,Orrick,0
+2026-10-10,Santa Fe,2,Orrick,0
 2026-10-10,Stover,2,Otterville,1
 2026-10-10,Smithton,2,Otterville,1
 2026-10-10,St. Francis Borgia,1,Ozark,2
@@ -4989,16 +5045,24 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-10,Nixa,2,Park Hill South,0
 2026-10-10,West Platte,0,Rock Port,3
 2026-10-10,University Academy Charter,0,Rock Port,3
+2026-10-10,Waynesville,1,Rolla,2
 2026-10-10,Sweet Springs,1,Santa Fe,1
+2026-10-10,Wellington-Napoleon,0,Santa Fe,2
 2026-10-10,Benton,2,Savannah,0
+2026-10-10,Excelsior Springs,0,Savannah,2
+2026-10-10,Bishop LeBlond,2,Savannah,0
 2026-10-10,Thomas Jefferson Independent Day,2,Sherwood,0
 2026-10-10,Cuba,1,Steelville,1
 2026-10-10,St. Paul Lutheran (Concordia),2,Sweet Springs,0
 2026-10-10,Wellington-Napoleon,0,Sweet Springs,2
 2026-10-10,Northland Christian,0,Thomas Jefferson Independent Day,2
+2026-10-10,South Harrison,2,Trenton,0
 2026-10-10,Battle,2,Union,0
+2026-10-10,Lebanon,2,Union,0
 2026-10-10,West Platte,3,University Academy Charter,1
 2026-10-10,Nixa,2,West Plains,1
 2026-10-10,Lutheran St. Charles,2,West Plains,0
 2026-10-10,Battle,1,Willard,1
+2026-10-10,Lebanon,2,Willard,1
 2026-10-10,Nerinx Hall,0,Winona,2
+2026-10-10,Valle Catholic,2,Winona,0
