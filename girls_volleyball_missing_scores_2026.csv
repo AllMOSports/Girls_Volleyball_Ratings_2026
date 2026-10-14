@@ -17,9 +17,9 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-29,one team's score only,Potosi,,Farmington,1,True
 2026-10-07,one team's score only,Steelville,,Dixon,2,True
 2026-10-08,one team's score only,Jennings,1,West Plains,,True
-2026-10-09,one team's score only,Hume,0,Ballard,,True
 2026-10-10,one team's score only,Conway,0,Greenfield,,True
 2026-10-11,one team's score only,Conway,0,Greenfield,,True
+2026-10-12,one team's score only,Diamond,1,Monett,,True
 2026-08-20,no score,Grandview,,Raytown,,True
 2026-08-21,no score,Lutheran St. Charles,,Holt,,True
 2026-08-21,no score,Westminster Christian Academy,,Holt,,True
@@ -83,11 +83,9 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-05,no score,McCluer North,,Normandy Collaborative,,False
 2026-10-05,no score,Veritas Christian Academy,,Visitation Academy,,True
 2026-10-06,no score,Guadalupe Centers Charter,,"Bishop Ward(Kansas City, KS)",,False
-2026-10-06,no score,East Prairie,,Charleston,,True
 2026-10-06,no score,Frontier STEM,,"Daniel(Kansas City, MO)",,False
 2026-10-06,no score,Calvary Lutheran,,Heritage Athletics,,False
 2026-10-06,no score,Lutie,,Koshkonong,,True
-2026-10-06,no score,Fox,,Northwest (Cedar Hill),,True
 2026-10-06,no score,University Academy Charter,,Van Horn,,True
 2026-10-07,no score,Normandy Collaborative,,Hazelwood East,,False
 2026-10-07,no score,"Cairo(Cairo, IL)",,Kelly,,False
@@ -99,7 +97,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-08,no score,Fair Grove,,Forsyth,,True
 2026-10-08,no score,Notre Dame (St. Louis),,Fox,,True
 2026-10-08,no score,Confluence Prep Academy Charter with Grand Center Arts Charter,,Gateway Legacy Sr. H.,,False
-2026-10-08,no score,Ruskin,,Grandview,,True
 2026-10-08,no score,Lakeland,,Jasper,,True
 2026-10-08,no score,Raytown South,,Kearney,,True
 2026-10-08,no score,Charleston,,Kelly,,True
@@ -109,39 +106,44 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-08,no score,Oak Park,,North Kansas City,,True
 2026-10-08,no score,Ladue Horton Watkins,,Seckman,,True
 2026-10-08,no score,Southland,,Twin Rivers,,True
-2026-10-08,no score,West County,,Valley,,True
-2026-10-08,no score,Pembroke Hill,,Van Horn,,True
 2026-10-09,no score,Visitation Academy,,Clayton,,True
 2026-10-09,no score,Puxico,,Greenville,,True
-2026-10-09,no score,Eureka,,"Greenwood(Greenwood, AR)",,False
 2026-10-09,no score,Couch,,Koshkonong,,True
 2026-10-09,no score,Campbell,,North Pemiscot,,True
 2026-10-09,no score,Holcomb,,"Piggott(Piggott, AR)",,False
-2026-10-09,no score,West Plains,,Rosati-Kain,,True
 2026-10-09,no score,Richland (Essex),,Zalma,,True
-2026-10-10,no score,Bourbon,,Belle,,True
-2026-10-10,no score,Herculaneum,,Bismarck,,True
 2026-10-10,no score,Valley,,Bismarck,,True
-2026-10-10,no score,Dixon,,Bourbon,,True
 2026-10-10,no score,Maysville,,Brookfield,,True
 2026-10-10,no score,Jefferson City,,"Greenwood(Greenwook, AR)",,False
-2026-10-10,no score,Viburnum,,Herculaneum,,True
 2026-10-10,no score,Lakeland,,Holden,,True
-2026-10-10,no score,El Dorado Springs,,Knob Noster,,True
-2026-10-10,no score,Plato,,Mansfield,,True
 2026-10-10,no score,Bishop LeBlond,,Mound City,,True
-2026-10-10,no score,Bourbon,,North Callaway,,True
 2026-10-10,no score,Brookfield,,Trenton,,True
-2026-10-11,no score,Bourbon,,Belle,,True
-2026-10-11,no score,Herculaneum,,Bismarck,,True
 2026-10-11,no score,Valley,,Bismarck,,True
-2026-10-11,no score,Dixon,,Bourbon,,True
 2026-10-11,no score,Maysville,,Brookfield,,True
 2026-10-11,no score,Jefferson City,,"Greenwood(Greenwook, AR)",,False
-2026-10-11,no score,Viburnum,,Herculaneum,,True
 2026-10-11,no score,Lakeland,,Holden,,True
-2026-10-11,no score,El Dorado Springs,,Knob Noster,,True
-2026-10-11,no score,Plato,,Mansfield,,True
 2026-10-11,no score,Bishop LeBlond,,Mound City,,True
-2026-10-11,no score,Bourbon,,North Callaway,,True
 2026-10-11,no score,Brookfield,,Trenton,,True
+2026-10-12,no score,Bernie,,Advance,,True
+2026-10-12,no score,"Northeast Arma, KS",,Bronaugh,,False
+2026-10-12,no score,"Chetopa, KS",,Bronaugh,,False
+2026-10-12,no score,Penney,,Brookfield,,True
+2026-10-12,no score,Kelly,,Charleston,,True
+2026-10-12,no score,Carl Junction,,Joplin,,True
+2026-10-12,no score,Tipton,,Lincoln,,True
+2026-10-12,no score,Hancock,,Maplewood-Richmond Hts.,,True
+2026-10-12,no score,Gateway with Soldan International Studies,,Maplewood-Richmond Hts.,,True
+2026-10-12,no score,Zalma,,Marquand-Zion,,False
+2026-10-12,no score,St. Louis Christian Sr.,,Marquette,,False
+2026-10-12,no score,Glendale,,Marshfield,,True
+2026-10-12,no score,Normandy Collaborative,,McCluer,,False
+2026-10-12,no score,Lutie,,Niangua,,True
+2026-10-12,no score,Parkway South,,Parkway Central,,True
+2026-10-12,no score,Ladue Horton Watkins,,Pattonville,,True
+2026-10-12,no score,Odessa,,Pleasant Hill,,True
+2026-10-12,no score,Center,,Raytown,,True
+2026-10-12,no score,Festus,,Seckman,,True
+2026-10-12,no score,Belle,,St. James,,True
+2026-10-12,no score,Vashon,,St. Louis Ignite,,False
+2026-10-12,no score,St. Joseph's Academy,,St. Pius X (Festus),,True
+2026-10-12,no score,Lexington,,Trenton,,True
