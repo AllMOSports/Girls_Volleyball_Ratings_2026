@@ -46,8 +46,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-08-25,no score,Lexington,,Sweet Springs,,True
 2026-08-25,no score,Wellington-Napoleon,,Sweet Springs,,True
 2026-08-25,no score,Richmond,,Sweet Springs,,True
-2026-08-27,no score,Everton,,Greenfield,,True
-2026-08-27,no score,Golden City,,Greenfield,,True
 2026-08-29,no score,Visitation Academy,,St. Vincent,,True
 2026-08-29,no score,Visitation Academy,,Villa Duchesne,,True
 2026-08-31,no score,Believe Acad Charter,,Maplewood-Richmond Hts.,,True
@@ -71,7 +69,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-16,no score,McCluer,,Normandy Collaborative,,False
 2026-09-17,no score,Chamois,,Lighthouse Sr.,,False
 2026-09-17,no score,St. Louis Christian Sr.,,St. Francis Borgia,,False
-2026-09-19,no score,Liberty (Wentzville),,Fox,,True
 2026-09-19,no score,Visitation Academy,,Ft. Zumwalt South,,True
 2026-09-22,no score,West Plains,,Normandy Collaborative,,False
 2026-09-23,no score,Marquand-Zion,,Kelly,,False
@@ -82,13 +79,10 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-03,no score,Marshall,,Carrollton,,True
 2026-10-05,no score,Miller Career Academy,,"Cahokia(Cahokia, IL)",,False
 2026-10-05,no score,"KC Metro(Kansas City, KS)",,Ewing Marion Kauffman,,False
-2026-10-05,no score,"Viola(Viola, AR)",,Koshkonong,,False
 2026-10-05,no score,McCluer North,,Normandy Collaborative,,False
 2026-10-05,no score,Veritas Christian Academy,,Visitation Academy,,True
 2026-10-06,no score,Guadalupe Centers Charter,,"Bishop Ward(Kansas City, KS)",,False
-2026-10-06,no score,Frontier STEM,,"Daniel(Kansas City, MO)",,False
 2026-10-06,no score,Calvary Lutheran,,Heritage Athletics,,False
-2026-10-06,no score,Lutie,,Koshkonong,,True
 2026-10-06,no score,University Academy Charter,,Van Horn,,True
 2026-10-07,no score,Normandy Collaborative,,Hazelwood East,,False
 2026-10-07,no score,"Cairo(Cairo, IL)",,Kelly,,False
@@ -106,13 +100,8 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-08,no score,Ladue Horton Watkins,,Seckman,,True
 2026-10-08,no score,Southland,,Twin Rivers,,True
 2026-10-09,no score,Puxico,,Greenville,,True
-2026-10-09,no score,Couch,,Koshkonong,,True
-2026-10-09,no score,Campbell,,North Pemiscot,,True
-2026-10-09,no score,Holcomb,,"Piggott(Piggott, AR)",,False
 2026-10-09,no score,Richland (Essex),,Zalma,,True
-2026-10-10,no score,Valley,,Bismarck,,True
 2026-10-10,no score,Lakeland,,Holden,,True
-2026-10-11,no score,Valley,,Bismarck,,True
 2026-10-11,no score,Lakeland,,Holden,,True
 2026-10-12,no score,"Northeast Arma, KS",,Bronaugh,,False
 2026-10-12,no score,"Chetopa, KS",,Bronaugh,,False
@@ -120,37 +109,37 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-12,no score,Tipton,,Lincoln,,True
 2026-10-12,no score,Gateway with Soldan International Studies,,Maplewood-Richmond Hts.,,True
 2026-10-12,no score,Zalma,,Marquand-Zion,,False
-2026-10-12,no score,St. Louis Christian Sr.,,Marquette,,False
 2026-10-12,no score,Normandy Collaborative,,McCluer,,False
 2026-10-12,no score,Ladue Horton Watkins,,Pattonville,,True
 2026-10-12,no score,Center,,Raytown,,True
 2026-10-12,no score,Vashon,,St. Louis Ignite,,False
 2026-10-12,no score,St. Joseph's Academy,,St. Pius X (Festus),,True
-2026-10-12,no score,Lexington,,Trenton,,True
-2026-10-13,no score,Forsyth,,Buffalo,,True
-2026-10-13,no score,Cristo Rey,,Ewing Marion Kauffman,,True
 2026-10-13,no score,Maryville,,Excelsior Springs,,True
 2026-10-13,no score,Timberland,,Ft. Zumwalt South,,True
 2026-10-13,no score,Chadwick,,Greenfield,,True
 2026-10-13,no score,Meadow Heights,,Hillsboro,,True
-2026-10-13,no score,North Pemiscot,,Holcomb,,True
 2026-10-13,no score,Notre Dame de Sion,,Kearney,,True
 2026-10-13,no score,Holden,,Lexington,,True
-2026-10-13,no score,Lutheran South,,Lutheran North,,True
 2026-10-13,no score,Kirkwood,,Mehlville,,True
 2026-10-13,no score,Park Hill,,North Kansas City,,True
-2026-10-13,no score,Central (St. Joseph),,Park Hill South,,True
 2026-10-13,no score,Ritenour,,Pattonville,,True
 2026-10-13,no score,Center,,Pleasant Hill,,True
-2026-10-13,no score,Saxony Lutheran,,Poplar Bluff,,True
 2026-10-13,no score,Green Ridge,,Sacred Heart,,True
-2026-10-13,no score,Marquette,,St. Dominic,,True
-2026-10-13,no score,Lee's Summit,,Staley,,True
 2026-10-13,no score,Believe Acad Charter,,West Plains,,True
-2026-10-13,no score,Clearwater,,Twin Rivers,,True
 2026-10-13,no score,Brentwood,,Villa Duchesne,,True
 2026-10-13,no score,Lift for Life Academy Charter,,Visitation Academy,,True
 2026-10-13,no score,Ladue Horton Watkins,,Webster Groves,,True
 2026-10-13,no score,Parkway West,,Westminster Christian Academy,,True
 2026-10-13,no score,Webster Groves,,Windsor (Imperial),,True
 2026-10-13,no score,Grandview,,Winnetonka,,True
+2026-10-14,no score,Arcadia Valley,,Bismarck,,True
+2026-10-14,no score,Chesterton Acad StL,,Crossroads College Preparatory,,False
+2026-10-14,no score,St. James,,Gateway Legacy Sr. H.,,False
+2026-10-14,no score,Lift for Life Academy Charter,,Hazelwood West,,True
+2026-10-14,no score,Lincoln College Prep,,"JC Harmon(Kansas City, KS)",,False
+2026-10-14,no score,Hazelwood Central,,McCluer,,True
+2026-10-14,no score,Hazelwood East,,McCluer North,,True
+2026-10-14,no score,Central (Cape Girardeau),,Notre Dame (Cape Girardeau),,True
+2026-10-14,no score,Kelly,,Oran,,True
+2026-10-14,no score,Brookfield,,Orrick,,True
+2026-10-14,no score,Westminster Christian Academy,,Visitation Academy,,True
