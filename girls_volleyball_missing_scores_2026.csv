@@ -9,7 +9,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-17,one team's score only,Green Ridge,0,Smithton,,True
 2026-09-17,one team's score only,Paseo Academy,0,"Turner(Kansas City, KS)",,False
 2026-09-18,one team's score only,Normandy Collaborative,0,McCluer North,,False
-2026-09-26,one team's score only,Skyline,,Central (Springfield),0,True
 2026-09-28,one team's score only,Houston,1,Eminence,,True
 2026-09-28,one team's score only,Koshkonong,0,Thayer,,True
 2026-09-28,one team's score only,Miller Career Academy,,Vashon,1,True
@@ -75,7 +74,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-30,no score,Normandy Collaborative,,Jennings,,False
 2026-09-30,no score,"Madison High (IL)(Madison, IL)",,Lift for Life Academy Charter,,False
 2026-10-01,no score,Hermann,,Chamois,,True
-2026-10-02,no score,Liberty (Wentzville),,"Belleville East(Belleville, IL)",,False
 2026-10-03,no score,Marshall,,Carrollton,,True
 2026-10-05,no score,Miller Career Academy,,"Cahokia(Cahokia, IL)",,False
 2026-10-05,no score,"KC Metro(Kansas City, KS)",,Ewing Marion Kauffman,,False
@@ -95,7 +93,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-08,no score,Charleston,,Kelly,,True
 2026-10-08,no score,Believe Acad Charter,,Lift for Life Academy Charter,,True
 2026-10-08,no score,Gloria Deo Academy,,Lutie,,True
-2026-10-08,no score,Winona,,Mountain Grove,,True
 2026-10-08,no score,Oak Park,,North Kansas City,,True
 2026-10-08,no score,Ladue Horton Watkins,,Seckman,,True
 2026-10-08,no score,Southland,,Twin Rivers,,True
@@ -111,7 +108,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-12,no score,Zalma,,Marquand-Zion,,False
 2026-10-12,no score,Normandy Collaborative,,McCluer,,False
 2026-10-12,no score,Ladue Horton Watkins,,Pattonville,,True
-2026-10-12,no score,Center,,Raytown,,True
 2026-10-12,no score,Vashon,,St. Louis Ignite,,False
 2026-10-12,no score,St. Joseph's Academy,,St. Pius X (Festus),,True
 2026-10-13,no score,Maryville,,Excelsior Springs,,True
@@ -119,27 +115,57 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-13,no score,Chadwick,,Greenfield,,True
 2026-10-13,no score,Meadow Heights,,Hillsboro,,True
 2026-10-13,no score,Notre Dame de Sion,,Kearney,,True
-2026-10-13,no score,Holden,,Lexington,,True
 2026-10-13,no score,Kirkwood,,Mehlville,,True
 2026-10-13,no score,Park Hill,,North Kansas City,,True
-2026-10-13,no score,Ritenour,,Pattonville,,True
-2026-10-13,no score,Center,,Pleasant Hill,,True
-2026-10-13,no score,Green Ridge,,Sacred Heart,,True
 2026-10-13,no score,Believe Acad Charter,,West Plains,,True
 2026-10-13,no score,Brentwood,,Villa Duchesne,,True
 2026-10-13,no score,Lift for Life Academy Charter,,Visitation Academy,,True
-2026-10-13,no score,Ladue Horton Watkins,,Webster Groves,,True
 2026-10-13,no score,Parkway West,,Westminster Christian Academy,,True
 2026-10-13,no score,Webster Groves,,Windsor (Imperial),,True
 2026-10-13,no score,Grandview,,Winnetonka,,True
 2026-10-14,no score,Arcadia Valley,,Bismarck,,True
 2026-10-14,no score,Chesterton Acad StL,,Crossroads College Preparatory,,False
-2026-10-14,no score,St. James,,Gateway Legacy Sr. H.,,False
 2026-10-14,no score,Lift for Life Academy Charter,,Hazelwood West,,True
 2026-10-14,no score,Lincoln College Prep,,"JC Harmon(Kansas City, KS)",,False
 2026-10-14,no score,Hazelwood Central,,McCluer,,True
 2026-10-14,no score,Hazelwood East,,McCluer North,,True
 2026-10-14,no score,Central (Cape Girardeau),,Notre Dame (Cape Girardeau),,True
-2026-10-14,no score,Kelly,,Oran,,True
 2026-10-14,no score,Brookfield,,Orrick,,True
 2026-10-14,no score,Westminster Christian Academy,,Visitation Academy,,True
+2026-10-15,no score,Lutheran North,,Bishop DuBourg,,True
+2026-10-15,no score,Fair Grove,,Buffalo,,True
+2026-10-15,no score,Richmond,,Carrollton,,True
+2026-10-15,no score,Hillcrest,,Central (Springfield),,True
+2026-10-15,no score,Lighthouse Sr.,,Chamois,,False
+2026-10-15,no score,Smithton,,Cole Camp,,True
+2026-10-15,no score,Veritas Christian Academy,,Duchesne,,True
+2026-10-15,no score,Rockwood Summit,,Kirkwood,,True
+2026-10-15,no score,Summersville,,Koshkonong,,True
+2026-10-15,no score,Gloria Deo Academy,,Laquey,,True
+2026-10-15,no score,Blue Springs South,,Lee's Summit,,True
+2026-10-15,no score,Believe Acad Charter,,Lift for Life Academy Charter,,True
+2026-10-15,no score,Sacred Heart,,Lincoln,,True
+2026-10-15,no score,Couch,,Lutie,,True
+2026-10-15,no score,Miller Career Academy,,"Madison(Madison, IL)",,False
+2026-10-15,no score,Mexico,,Marshall,,True
+2026-10-15,no score,Lafayette (Wildwood),,"Mater Dei(Breese, IL)",,False
+2026-10-15,no score,Tarkio with Fairfax,,Mound City,,True
+2026-10-15,no score,Ursuline Academy,,Nerinx Hall,,True
+2026-10-15,no score,Hurley,,Niangua,,True
+2026-10-15,no score,West Plains,,Normandy Collaborative,,False
+2026-10-15,no score,Holt,,Orchard Farm,,True
+2026-10-15,no score,Festus,,Perryville,,True
+2026-10-15,no score,Truman,,Raytown,,True
+2026-10-15,no score,Conway,,Seymour,,True
+2026-10-15,no score,Boonville,,Smith-Cotton,,True
+2026-10-15,no score,Maysville,,South Harrison,,True
+2026-10-15,no score,Crane,,Sparta,,True
+2026-10-15,no score,Crest Ridge,,St. Paul Lutheran (Concordia),,True
+2026-10-15,no score,Gateway with Soldan International Studies,,STEAM Academy,,True
+2026-10-15,no score,Springfield Catholic,,Strafford,,True
+2026-10-15,no score,Kennett,,Twin Rivers,,True
+2026-10-15,no score,Pembroke Hill,,University Academy Charter,,True
+2026-10-15,no score,Gateway Science Charter,,Valley Park,,True
+2026-10-15,no score,St. Charles,,Warrenton,,True
+2026-10-15,no score,North Nodaway,,West Nodaway with Nodaway-Holt,,True
+2026-10-15,no score,St. Dominic,,Westminster Christian Academy,,True
