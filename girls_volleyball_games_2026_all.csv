@@ -2152,9 +2152,9 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-12,Notre Dame (Cape Girardeau),True,2,Perryville,True,0,False,False
 2026-09-12,St. Vincent,True,1,Perryville,True,2,False,False
 2026-09-12,Owensville,True,2,"Piggot(Piggot , AR)",False,1,False,False
+2026-09-12,Lutheran North,True,0,"Piggot(Piggott, AR)",False,2,False,False
 2026-09-12,Central (New Madrid County),True,1,"Piggott(Piggott , AR)",False,2,False,False
 2026-09-12,Twin Rivers,True,0,"Piggott(Piggott, AR)",False,2,False,False
-2026-09-12,Lutheran North,True,0,"Piggott(Piggott, AR)",False,2,False,False
 2026-09-12,Wheaton,True,0,Pleasant Hope,True,2,False,False
 2026-09-12,Greenwood,True,1,Pleasant Hope,True,1,False,False
 2026-09-12,School of the Ozarks,True,2,Pleasant Hope,True,0,False,False
@@ -4231,7 +4231,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-28,Southwest (Washburn),True,0,"Gentry(Gentry, AR)",False,3,False,False
 2026-09-28,Central (Springfield),True,0,Glendale,True,3,False,False
 2026-09-28,New Heights Christian,True,3,Golden City,True,0,False,False
-2026-09-28,Appleton City with Montrose,True,2,Green Ridge,True,3,False,False
+2026-09-28,Appleton City with Montrose,True,1,Green Ridge,True,0,False,False
 2026-09-28,Pleasant Hope,True,2,Greenfield,True,3,False,False
 2026-09-28,Clearwater,True,3,Greenville,True,0,False,False
 2026-09-28,Chadwick,True,0,Greenwood,True,3,False,False
@@ -4374,7 +4374,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-29,Campbell,True,0,Gideon,True,3,False,False
 2026-09-29,Republic,True,1,Glendale,True,3,False,False
 2026-09-29,Raytown,True,0,Grain Valley,True,3,False,False
-2026-09-29,La Monte,True,2,Green Ridge,True,3,False,False
+2026-09-29,La Monte,True,1,Green Ridge,True,0,False,False
 2026-09-29,Greenwood,True,2,Greenfield,True,3,False,False
 2026-09-29,Academie Lafayette,True,0,Guadalupe Centers Charter,True,3,False,False
 2026-09-29,Centralia,True,2,Hallsville,True,3,False,False
@@ -5790,6 +5790,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-10,Plato,True,0,Gainesville,True,2,False,False
 2026-10-10,Mansfield,True,0,Gainesville,True,2,False,False
 2026-10-10,Smithton,True,2,Green Ridge,True,1,False,False
+2026-10-10,La Monte,True,0,Green Ridge,True,2,False,False
 2026-10-10,Wheaton,True,0,Greenfield,True,2,False,False
 2026-10-10,Lockwood,True,1,Greenfield,True,1,False,False
 2026-10-10,Pleasant Hope,True,0,Greenfield,True,2,False,False
@@ -5942,8 +5943,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-10,Valle Catholic,True,2,Winona,True,0,False,False
 2026-10-10,Incarnate Word Academy,True,2,Winona,True,0,False,False
 2026-10-10,Lakeland,True,,Holden,True,,False,False
-2026-10-11,Conway,True,0,Greenfield,True,,False,False
-2026-10-11,Lakeland,True,,Holden,True,,False,False
 2026-10-12,Bernie,True,0,Advance,True,3,False,False
 2026-10-12,Gateway Science Charter,True,0,Affton,True,3,False,False
 2026-10-12,Conway,True,3,Ava,True,2,False,False
@@ -6116,6 +6115,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-13,New Heights Christian,True,2,El Dorado Springs,True,3,False,False
 2026-10-13,Viburnum,True,0,Ellington,True,3,False,False
 2026-10-13,Cristo Rey,True,0,Ewing Marion Kauffman,True,3,False,False
+2026-10-13,Maryville,True,3,Excelsior Springs,True,0,False,False
 2026-10-13,Strafford,True,3,Fair Grove,True,0,False,False
 2026-10-13,Ste. Genevieve,True,0,Farmington,True,2,False,False
 2026-10-13,West County,True,0,Farmington,True,2,False,False
@@ -6242,7 +6242,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-13,Lincoln,True,3,Windsor,True,0,False,False
 2026-10-13,Warrenton,True,1,Winfield,True,3,False,False
 2026-10-13,Eagle Ridge Christian,False,3,Zalma,True,0,False,False
-2026-10-13,Maryville,True,,Excelsior Springs,True,,False,False
 2026-10-13,Timberland,True,,Ft. Zumwalt South,True,,False,False
 2026-10-13,Chadwick,True,,Greenfield,True,,False,False
 2026-10-13,Meadow Heights,True,,Hillsboro,True,,False,False
@@ -6306,6 +6305,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-15,Rich Hill,True,1,Appleton City with Montrose,True,3,False,False
 2026-10-15,Bernie,True,0,Bell City,True,3,False,False
 2026-10-15,Plato,True,1,Belle,True,3,False,False
+2026-10-15,Lutheran North,True,3,Bishop DuBourg,True,1,False,False
 2026-10-15,Arcadia Valley,True,0,Bismarck,True,2,False,False
 2026-10-15,Rock Bridge,True,1,Blair Oaks,True,3,False,False
 2026-10-15,Raymore-Peculiar,True,1,Blue Springs,True,3,False,False
@@ -6316,6 +6316,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-15,Christian Fellowship Sr.,True,0,Calvary Lutheran,True,3,False,False
 2026-10-15,Bishop LeBlond,True,3,Cameron,True,0,False,False
 2026-10-15,West Plains,True,1,Carl Junction,True,3,False,False
+2026-10-15,Richmond,True,1,Carrollton,True,3,False,False
 2026-10-15,Joplin,True,2,Carthage,True,3,False,False
 2026-10-15,Warrensburg,True,2,Center,True,3,False,False
 2026-10-15,Sikeston,True,3,Central (New Madrid County),True,0,False,False
@@ -6332,6 +6333,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-15,Jackson,True,3,Eureka,True,2,False,False
 2026-10-15,Central (Kansas City),True,0,Ewing Marion Kauffman,True,3,False,False
 2026-10-15,Valle Catholic,True,0,Farmington,True,2,False,False
+2026-10-15,Potosi,True,2,Farmington,True,1,False,False
 2026-10-15,Capital City,True,2,Fatima,True,3,False,False
 2026-10-15,Marion C. Early,True,0,Fordland,True,3,False,False
 2026-10-15,Francis Howell North,True,1,Francis Howell,True,3,False,False
@@ -6373,6 +6375,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-15,Portageville,True,1,Malden,True,3,False,False
 2026-10-15,Dora,True,3,Mansfield,True,1,False,False
 2026-10-15,Pattonville,True,1,Marquette,True,3,False,False
+2026-10-15,Mexico,True,3,Marshall,True,1,False,False
 2026-10-15,Logan-Rogersville,True,1,Marshfield,True,3,False,False
 2026-10-15,St. Paul Lutheran (Farmington),True,3,McKinley Classical Leadership,True,0,False,False
 2026-10-15,Seckman,True,3,Mehlville,True,0,False,False
@@ -6380,6 +6383,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-15,Willow Springs,True,0,Mountain Grove,True,3,False,False
 2026-10-15,Branson,True,3,Mt. Vernon,True,0,False,False
 2026-10-15,Willard,True,3,Neosho,True,0,False,False
+2026-10-15,Ursuline Academy,True,3,Nerinx Hall,True,1,False,False
 2026-10-15,Bolivar,True,0,Nevada,True,3,False,False
 2026-10-15,Linn,True,3,New Bloomfield,True,0,False,False
 2026-10-15,Wheaton,True,0,New Heights Christian,True,3,False,False
@@ -6411,6 +6415,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-15,Seneca,True,0,Sarcoxie,True,3,False,False
 2026-10-15,Excelsior Springs,True,0,Savannah,True,3,False,False
 2026-10-15,Meadow Heights,True,3,Scott City,True,0,False,False
+2026-10-15,Conway,True,3,Seymour,True,0,False,False
 2026-10-15,Ash Grove,True,3,Skyline,True,0,False,False
 2026-10-15,Billings,True,3,Spokane,True,0,False,False
 2026-10-15,New Haven,True,0,St. Clair,True,3,False,False
@@ -6434,9 +6439,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-15,Van Horn,True,1,William Chrisman,True,3,False,False
 2026-10-15,Poplar Bluff,True,3,Windsor (Imperial),True,2,False,False
 2026-10-15,"Pocahontas(Pocahontas, AR)",False,0,Winona,True,3,False,False
-2026-10-15,Lutheran North,True,,Bishop DuBourg,True,,False,False
 2026-10-15,Fair Grove,True,,Buffalo,True,,False,False
-2026-10-15,Richmond,True,,Carrollton,True,,False,False
 2026-10-15,Hillcrest,True,,Central (Springfield),True,,False,False
 2026-10-15,Lighthouse Sr.,False,,Chamois,True,,False,False
 2026-10-15,Smithton,True,,Cole Camp,True,,False,False
@@ -6449,15 +6452,12 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-15,Sacred Heart,True,,Lincoln,True,,False,False
 2026-10-15,Couch,True,,Lutie,True,,False,False
 2026-10-15,Miller Career Academy,True,,"Madison(Madison, IL)",False,,False,False
-2026-10-15,Mexico,True,,Marshall,True,,False,False
 2026-10-15,Lafayette (Wildwood),True,,"Mater Dei(Breese, IL)",False,,False,False
 2026-10-15,Tarkio with Fairfax,True,,Mound City,True,,False,False
-2026-10-15,Ursuline Academy,True,,Nerinx Hall,True,,False,False
 2026-10-15,Hurley,True,,Niangua,True,,False,False
 2026-10-15,West Plains,True,,Normandy Collaborative,False,,False,False
 2026-10-15,Holt,True,,Orchard Farm,True,,False,False
 2026-10-15,Truman,True,,Raytown,True,,False,False
-2026-10-15,Conway,True,,Seymour,True,,False,False
 2026-10-15,Boonville,True,,Smith-Cotton,True,,False,False
 2026-10-15,Maysville,True,,South Harrison,True,,False,False
 2026-10-15,Crane,True,,Sparta,True,,False,False
@@ -6470,6 +6470,9 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-15,St. Charles,True,,Warrenton,True,,False,False
 2026-10-15,North Nodaway,True,,West Nodaway with Nodaway-Holt,True,,False,False
 2026-10-15,St. Dominic,True,,Westminster Christian Academy,True,,False,False
+2026-10-16,Woodland,True,3,Advance,True,1,False,False
+2026-10-16,Lutheran North,True,0,Clayton,True,3,False,False
+2026-10-16,Kelly,True,1,Eagle Ridge Christian,False,3,False,False
 2026-10-16,School of the Ozarks,True,3,Exeter,True,1,False,False
 2026-10-16,Metro,True,3,Hancock,True,0,False,False
 2026-10-16,Confluence Prep Academy Charter with Grand Center Arts Charter,True,3,KIPP St. Louis Sr.,True,0,False,False
@@ -6479,13 +6482,10 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-16,Meadow Heights,True,3,St. Paul Lutheran (Farmington),True,0,False,False
 2026-10-16,St. Charles West,True,3,Winfield,True,1,False,False
 2026-10-16,Leopold,True,2,Winona,True,3,False,False
-2026-10-16,Woodland,True,,Advance,True,,False,False
 2026-10-16,Twin Rivers,True,,Campbell,True,,False,False
-2026-10-16,Lutheran North,True,,Clayton,True,,False,False
 2026-10-16,Ellington,True,,Clearwater,True,,False,False
 2026-10-16,Bradleyville,True,,Couch,True,,False,False
 2026-10-16,Puxico,True,,Dexter,True,,False,False
-2026-10-16,Kelly,True,,Eagle Ridge Christian,False,,False,False
 2026-10-16,St. Francis Borgia,True,,Fatima,True,,False,False
 2026-10-16,Plato,True,,Laquey,True,,False,False
 2026-10-16,Prairie Home,True,,Lighthouse Sr.,False,,False,False
@@ -6499,6 +6499,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-17,Concordia,True,2,Adrian,True,0,False,False
 2026-10-17,Clinton,True,2,Adrian,True,0,False,False
 2026-10-17,Hume,True,0,Ballard,True,2,False,False
+2026-10-17,Pembroke Hill,True,2,Benton,True,1,False,False
 2026-10-17,Smithville,True,1,"Bentonville(Bentonville, AR)",False,2,False,False
 2026-10-17,Golden City,True,0,Billings,True,2,False,False
 2026-10-17,Jasper,True,0,Billings,True,2,False,False
@@ -6510,25 +6511,37 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-17,Truman,True,0,Central (St. Joseph),True,2,False,False
 2026-10-17,Van Horn,True,0,Central (St. Joseph),True,2,False,False
 2026-10-17,Eugene,True,0,Centralia,True,2,False,False
+2026-10-17,Calvary Lutheran,True,1,Centralia,True,2,False,False
 2026-10-17,Odessa,True,0,Clinton,True,2,False,False
 2026-10-17,Lakeland,True,0,Clinton,True,2,False,False
 2026-10-17,Concordia,True,0,Clinton,True,2,False,False
+2026-10-17,Calvary Lutheran,True,2,Columbia Independent,True,0,False,False
 2026-10-17,Columbia Independent,True,0,Eugene,True,2,False,False
 2026-10-17,Russellville,True,2,Eugene,True,0,False,False
 2026-10-17,Incarnate Word Academy,True,2,Francis Howell North,True,0,False,False
 2026-10-17,Marquette,True,1,Francis Howell North,True,2,False,False
 2026-10-17,Skyline,True,1,Fulton,True,1,False,False
-2026-10-17,Hallsville,True,0,Fulton,True,,False,False
+2026-10-17,Hallsville,True,0,Fulton,True,2,False,False
+2026-10-17,Osage,True,2,Fulton,True,0,False,False
+2026-10-17,Green Ridge,True,0,Fulton,True,2,False,False
 2026-10-17,Osceola,True,2,Golden City,True,0,False,False
 2026-10-17,Skyline,True,1,Green Ridge,True,1,False,False
 2026-10-17,Warsaw,True,2,Green Ridge,True,0,False,False
+2026-10-17,Versailles,True,1,Green Ridge,True,1,False,False
 2026-10-17,Jasper,True,0,Greenfield,True,2,False,False
 2026-10-17,Purdy,True,0,Greenfield,True,2,False,False
 2026-10-17,Billings,True,2,Greenfield,True,0,False,False
 2026-10-17,Warsaw,True,1,Hallsville,True,1,False,False
 2026-10-17,Tipton,True,0,Hallsville,True,2,False,False
+2026-10-17,Lutheran North,True,2,Hazelwood West,True,0,False,False
+2026-10-17,Ritenour,True,2,Hazelwood West,True,1,False,False
 2026-10-17,Sheldon,True,2,Hume,True,2,False,False
+2026-10-17,STEAM Academy,True,1,Lutheran North,True,2,False,False
+2026-10-17,Lutheran North,True,0,Maplewood-Richmond Hts.,True,2,False,False
+2026-10-17,Ritenour,True,0,Maplewood-Richmond Hts.,True,2,False,False
 2026-10-17,Cor Jesu Academy,True,0,"Mater Dei Catholic(Breese, IL)",False,2,False,False
+2026-10-17,Lutheran North,True,2,McCluer,True,0,False,False
+2026-10-17,Raymore-Peculiar,True,2,North Kansas City,True,0,False,False
 2026-10-17,Warsaw,True,0,Osage,True,2,False,False
 2026-10-17,Hallsville,True,1,Osage,True,1,False,False
 2026-10-17,Tipton,True,0,Osage,True,2,False,False
@@ -6538,13 +6551,21 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-17,Gloria Deo Academy,True,0,Purdy,True,2,False,False
 2026-10-17,Osceola,True,2,Purdy,True,0,False,False
 2026-10-17,Golden City,True,0,Purdy,True,2,False,False
+2026-10-17,Notre Dame de Sion,True,0,Raymore-Peculiar,True,2,False,False
+2026-10-17,Truman,True,0,Raymore-Peculiar,True,2,False,False
+2026-10-17,Van Horn,True,0,Raymore-Peculiar,True,2,False,False
+2026-10-17,STEAM Academy,True,2,Ritenour,True,0,False,False
+2026-10-17,Gateway Science Charter,True,0,Ritenour,True,2,False,False
+2026-10-17,Calvary Lutheran,True,1,Russellville,True,1,False,False
 2026-10-17,Smithville,True,2,"Shawnee Mission East(Shawnee Mission, KS)",False,0,False,False
+2026-10-17,Benton,True,2,"Shawnee Mission West(Overland Park, KS)",False,1,False,False
 2026-10-17,Versailles,True,1,Skyline,True,1,False,False
+2026-10-17,Benton,True,0,"St. Teresa's(Kansas City, MO)",False,2,False,False
 2026-10-17,Warsaw,True,2,Tipton,True,0,False,False
+2026-10-17,Lutheran North,True,2,University City,True,0,False,False
 2026-10-17,Marion C. Early,True,,Ava,True,,False,False
 2026-10-17,Sheldon,True,,Bronaugh,True,,False,False
 2026-10-17,Jackson,True,,Central (Cape Girardeau),True,,False,False
-2026-10-17,Calvary Lutheran,True,,Columbia Independent,True,,False,False
 2026-10-17,Smithton,True,,Concordia,True,,False,False
 2026-10-17,Maryville,True,,Excelsior Springs,True,,False,False
 2026-10-17,Lesterville,True,,Fordland,True,,False,False
@@ -6554,19 +6575,13 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-17,Maplewood-Richmond Hts.,True,,Gateway with Soldan International Studies,True,,False,False
 2026-10-17,Ritenour,True,,Gateway with Soldan International Studies,True,,False,False
 2026-10-17,STEAM Academy,True,,Gateway with Soldan International Studies,True,,False,False
-2026-10-17,Lutheran North,True,,Hazelwood West,True,,False,False
 2026-10-17,McCluer,True,,Hazelwood West,True,,False,False
 2026-10-17,University City,True,,Hazelwood West,True,,False,False
 2026-10-17,Gloria Deo Academy,True,,Jasper,True,,False,False
 2026-10-17,Marion C. Early,True,,Lesterville,True,,False,False
 2026-10-17,Spokane,True,,Marion C. Early,True,,False,False
 2026-10-17,Incarnate Word Academy,True,,Marquette,True,,False,False
-2026-10-17,Lutheran North,True,,McCluer,True,,False,False
 2026-10-17,Jasper,True,,Purdy,True,,False,False
-2026-10-17,Columbia Independent,True,,Russellville,True,,False,False
-2026-10-17,Benton,True,,"Shawnee Mission West(Overland Park, KS)",False,,False,False
-2026-10-17,Benton,True,,"St. Teresa's(Kansas City, MO)",False,,False,False
-2026-10-17,Lutheran North,True,,University City,True,,False,False
 2026-10-19,New Heights Christian,True,,Billings,True,,False,False
 2026-10-19,Veritas Christian Academy,True,,Brentwood,True,,False,False
 2026-10-19,Plattsburg,True,,Cameron,True,,False,False

@@ -17,7 +17,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-07,one team's score only,Steelville,,Dixon,2,True
 2026-10-08,one team's score only,Jennings,1,West Plains,,True
 2026-10-10,one team's score only,Conway,0,Greenfield,,True
-2026-10-11,one team's score only,Conway,0,Greenfield,,True
 2026-10-12,one team's score only,Diamond,1,Monett,,True
 2026-10-13,one team's score only,Kirksville,2,Centralia,,True
 2026-10-13,one team's score only,Kickapoo,0,Nixa,,True
@@ -99,7 +98,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-09,no score,Puxico,,Greenville,,True
 2026-10-09,no score,Richland (Essex),,Zalma,,True
 2026-10-10,no score,Lakeland,,Holden,,True
-2026-10-11,no score,Lakeland,,Holden,,True
 2026-10-12,no score,"Northeast Arma, KS",,Bronaugh,,False
 2026-10-12,no score,"Chetopa, KS",,Bronaugh,,False
 2026-10-12,no score,Kelly,,Charleston,,True
@@ -110,7 +108,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-12,no score,Ladue Horton Watkins,,Pattonville,,True
 2026-10-12,no score,Vashon,,St. Louis Ignite,,False
 2026-10-12,no score,St. Joseph's Academy,,St. Pius X (Festus),,True
-2026-10-13,no score,Maryville,,Excelsior Springs,,True
 2026-10-13,no score,Timberland,,Ft. Zumwalt South,,True
 2026-10-13,no score,Chadwick,,Greenfield,,True
 2026-10-13,no score,Meadow Heights,,Hillsboro,,True
@@ -132,9 +129,7 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-14,no score,Central (Cape Girardeau),,Notre Dame (Cape Girardeau),,True
 2026-10-14,no score,Brookfield,,Orrick,,True
 2026-10-14,no score,Westminster Christian Academy,,Visitation Academy,,True
-2026-10-15,no score,Lutheran North,,Bishop DuBourg,,True
 2026-10-15,no score,Fair Grove,,Buffalo,,True
-2026-10-15,no score,Richmond,,Carrollton,,True
 2026-10-15,no score,Hillcrest,,Central (Springfield),,True
 2026-10-15,no score,Lighthouse Sr.,,Chamois,,False
 2026-10-15,no score,Smithton,,Cole Camp,,True
@@ -147,15 +142,12 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-15,no score,Sacred Heart,,Lincoln,,True
 2026-10-15,no score,Couch,,Lutie,,True
 2026-10-15,no score,Miller Career Academy,,"Madison(Madison, IL)",,False
-2026-10-15,no score,Mexico,,Marshall,,True
 2026-10-15,no score,Lafayette (Wildwood),,"Mater Dei(Breese, IL)",,False
 2026-10-15,no score,Tarkio with Fairfax,,Mound City,,True
-2026-10-15,no score,Ursuline Academy,,Nerinx Hall,,True
 2026-10-15,no score,Hurley,,Niangua,,True
 2026-10-15,no score,West Plains,,Normandy Collaborative,,False
 2026-10-15,no score,Holt,,Orchard Farm,,True
 2026-10-15,no score,Truman,,Raytown,,True
-2026-10-15,no score,Conway,,Seymour,,True
 2026-10-15,no score,Boonville,,Smith-Cotton,,True
 2026-10-15,no score,Maysville,,South Harrison,,True
 2026-10-15,no score,Crane,,Sparta,,True
@@ -168,13 +160,10 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-15,no score,St. Charles,,Warrenton,,True
 2026-10-15,no score,North Nodaway,,West Nodaway with Nodaway-Holt,,True
 2026-10-15,no score,St. Dominic,,Westminster Christian Academy,,True
-2026-10-16,no score,Woodland,,Advance,,True
 2026-10-16,no score,Twin Rivers,,Campbell,,True
-2026-10-16,no score,Lutheran North,,Clayton,,True
 2026-10-16,no score,Ellington,,Clearwater,,True
 2026-10-16,no score,Bradleyville,,Couch,,True
 2026-10-16,no score,Puxico,,Dexter,,True
-2026-10-16,no score,Kelly,,Eagle Ridge Christian,,False
 2026-10-16,no score,St. Francis Borgia,,Fatima,,True
 2026-10-16,no score,Plato,,Laquey,,True
 2026-10-16,no score,Prairie Home,,Lighthouse Sr.,,False
@@ -184,3 +173,22 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-16,no score,Hazelwood Central,,Parkway North,,True
 2026-10-16,no score,Parkway West,,St. Joseph's Academy,,True
 2026-10-16,no score,Gateway Legacy Sr. H.,,Villa Duchesne,,False
+2026-10-17,no score,Marion C. Early,,Ava,,True
+2026-10-17,no score,Sheldon,,Bronaugh,,True
+2026-10-17,no score,Jackson,,Central (Cape Girardeau),,True
+2026-10-17,no score,Smithton,,Concordia,,True
+2026-10-17,no score,Maryville,,Excelsior Springs,,True
+2026-10-17,no score,Lesterville,,Fordland,,True
+2026-10-17,no score,Sparta,,Fordland,,True
+2026-10-17,no score,Miller,,Fordland,,True
+2026-10-17,no score,Marion C. Early,,Forsyth,,True
+2026-10-17,no score,Maplewood-Richmond Hts.,,Gateway with Soldan International Studies,,True
+2026-10-17,no score,Ritenour,,Gateway with Soldan International Studies,,True
+2026-10-17,no score,STEAM Academy,,Gateway with Soldan International Studies,,True
+2026-10-17,no score,McCluer,,Hazelwood West,,True
+2026-10-17,no score,University City,,Hazelwood West,,True
+2026-10-17,no score,Gloria Deo Academy,,Jasper,,True
+2026-10-17,no score,Marion C. Early,,Lesterville,,True
+2026-10-17,no score,Spokane,,Marion C. Early,,True
+2026-10-17,no score,Incarnate Word Academy,,Marquette,,True
+2026-10-17,no score,Jasper,,Purdy,,True
