@@ -5209,6 +5209,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-12,Carrollton,0,Knob Noster,3
 2026-10-12,Faith Christian Academy,0,Lawson,3
 2026-10-12,Ritenour,2,Lift for Life Academy Charter,3
+2026-10-12,Tipton,3,Lincoln,2
 2026-10-12,Golden City,0,Lockwood,3
 2026-10-12,Rockwood Summit,2,Lutheran St. Charles,3
 2026-10-12,Fordland,3,Mansfield,0
@@ -5462,6 +5463,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-14,Duchesne,3,Notre Dame (St. Louis),2
 2026-10-14,Webster Groves,0,Oakville,3
 2026-10-14,Kelly,3,Oran,1
+2026-10-14,Brookfield,3,Orrick,1
 2026-10-14,Parkway North,0,Parkway South,3
 2026-10-14,Northeast (Kansas City),3,Southeast,1
 2026-10-14,Northwest (Cedar Hill),0,St. Clair,3
@@ -5491,9 +5493,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-15,Joplin,2,Carthage,3
 2026-10-15,Warrensburg,2,Center,3
 2026-10-15,Sikeston,3,Central (New Madrid County),0
+2026-10-15,Hillcrest,0,Central (Springfield),3
 2026-10-15,Park Hill,3,Central (St. Joseph),0
 2026-10-15,Maryville,3,Chillicothe,0
 2026-10-15,Oak Grove,3,Clinton,0
+2026-10-15,Smithton,1,Cole Camp,3
 2026-10-15,Santa Fe,3,Concordia,0
 2026-10-15,KIPP KC Legacy,1,Crossroads Prep Charter,3
 2026-10-15,Licking,2,Cuba,3
@@ -5532,11 +5536,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-15,Otterville,0,La Monte,3
 2026-10-15,Holden,1,Lafayette County,3
 2026-10-15,Lawson,3,Lathrop,0
+2026-10-15,Blue Springs South,2,Lee's Summit,3
 2026-10-15,Park Hill South,0,Lee's Summit North,3
 2026-10-15,Staley,0,Lee's Summit West,3
 2026-10-15,Jasper,0,Liberal,3
 2026-10-15,North Kansas City,0,Liberty,3
 2026-10-15,Troy Buchanan,0,Liberty (Wentzville),3
+2026-10-15,Sacred Heart,1,Lincoln,3
 2026-10-15,Cor Jesu Academy,3,Lindbergh,0
 2026-10-15,Greenfield,0,Lockwood,3
 2026-10-15,Butler,3,Lone Jack,1
@@ -5550,6 +5556,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-15,St. Paul Lutheran (Farmington),3,McKinley Classical Leadership,0
 2026-10-15,Seckman,3,Mehlville,0
 2026-10-15,Centralia,1,Montgomery County,3
+2026-10-15,Tarkio with Fairfax,0,Mound City,3
 2026-10-15,Willow Springs,0,Mountain Grove,3
 2026-10-15,Branson,3,Mt. Vernon,0
 2026-10-15,Willard,3,Neosho,0
@@ -5587,12 +5594,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-15,Meadow Heights,3,Scott City,0
 2026-10-15,Conway,3,Seymour,0
 2026-10-15,Ash Grove,3,Skyline,0
+2026-10-15,Boonville,1,Smith-Cotton,3
 2026-10-15,Billings,3,Spokane,0
 2026-10-15,New Haven,0,St. Clair,3
 2026-10-15,Pacific,3,St. James,0
 2026-10-15,Trenton,0,St. Joseph Christian,3
 2026-10-15,Liberty North,2,St. Michael the Archangel,3
 2026-10-15,Northland Christian,0,St. Pius X (Kansas City),3
+2026-10-15,Gateway with Soldan International Studies,0,STEAM Academy,3
 2026-10-15,Bunker,0,Steelville,3
 2026-10-15,Windsor,0,Stover,3
 2026-10-15,Barstow,0,Summit Christian Academy,3
@@ -5609,12 +5618,17 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-15,Van Horn,1,William Chrisman,3
 2026-10-15,Poplar Bluff,3,Windsor (Imperial),2
 2026-10-16,Woodland,3,Advance,1
+2026-10-16,Twin Rivers,0,Campbell,3
 2026-10-16,Lutheran North,0,Clayton,3
+2026-10-16,Bradleyville,0,Couch,3
 2026-10-16,School of the Ozarks,3,Exeter,1
+2026-10-16,St. Francis Borgia,3,Fatima,1
 2026-10-16,Metro,3,Hancock,0
 2026-10-16,Confluence Prep Academy Charter with Grand Center Arts Charter,3,KIPP St. Louis Sr.,0
+2026-10-16,Plato,3,Laquey,0
 2026-10-16,Springfield Catholic,1,Logan-Rogersville,3
 2026-10-16,Lockwood,3,McAuley Catholic,0
+2026-10-16,Greenville,0,Oak Ridge,3
 2026-10-16,Valley,3,South Iron,1
 2026-10-16,Meadow Heights,3,St. Paul Lutheran (Farmington),0
 2026-10-16,St. Charles West,3,Winfield,1
@@ -5622,6 +5636,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-17,Smithton,0,Adrian,2
 2026-10-17,Concordia,2,Adrian,0
 2026-10-17,Clinton,2,Adrian,0
+2026-10-17,Marion C. Early,0,Ava,2
+2026-10-17,Spokane,1,Ava,1
+2026-10-17,Forsyth,2,Ava,0
+2026-10-17,Sparta,0,Ava,2
+2026-10-17,Fordland,1,Ava,2
 2026-10-17,Hume,0,Ballard,2
 2026-10-17,Pembroke Hill,2,Benton,1
 2026-10-17,Golden City,0,Billings,2
@@ -5629,6 +5648,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-17,Gloria Deo Academy,0,Billings,2
 2026-10-17,Osceola,0,Billings,2
 2026-10-17,Hume,2,Bronaugh,0
+2026-10-17,Jackson,3,Central (Cape Girardeau),0
 2026-10-17,Notre Dame de Sion,2,Central (St. Joseph),0
 2026-10-17,Truman,0,Central (St. Joseph),2
 2026-10-17,Van Horn,0,Central (St. Joseph),2
@@ -5638,14 +5658,21 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-17,Lakeland,0,Clinton,2
 2026-10-17,Concordia,0,Clinton,2
 2026-10-17,Calvary Lutheran,2,Columbia Independent,0
+2026-10-17,Smithton,0,Concordia,2
 2026-10-17,Columbia Independent,0,Eugene,2
 2026-10-17,Russellville,2,Eugene,0
+2026-10-17,Maryville,3,Excelsior Springs,0
+2026-10-17,Lesterville,1,Fordland,1
+2026-10-17,Miller,2,Fordland,0
+2026-10-17,Miller,2,Forsyth,0
+2026-10-17,Spokane,2,Forsyth,0
 2026-10-17,Incarnate Word Academy,2,Francis Howell North,0
 2026-10-17,Marquette,1,Francis Howell North,2
 2026-10-17,Skyline,1,Fulton,1
 2026-10-17,Hallsville,0,Fulton,2
 2026-10-17,Osage,2,Fulton,0
 2026-10-17,Green Ridge,0,Fulton,2
+2026-10-17,Versailles,0,Fulton,2
 2026-10-17,Osceola,2,Golden City,0
 2026-10-17,Skyline,1,Green Ridge,1
 2026-10-17,Warsaw,2,Green Ridge,0
@@ -5658,11 +5685,21 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-17,Lutheran North,2,Hazelwood West,0
 2026-10-17,Ritenour,2,Hazelwood West,1
 2026-10-17,Sheldon,2,Hume,2
+2026-10-17,Smithton,2,Lakeland,0
+2026-10-17,Miller,1,Lesterville,1
+2026-10-17,Sparta,0,Lesterville,2
+2026-10-17,Spokane,1,Lesterville,2
 2026-10-17,STEAM Academy,1,Lutheran North,2
 2026-10-17,Lutheran North,0,Maplewood-Richmond Hts.,2
 2026-10-17,Ritenour,0,Maplewood-Richmond Hts.,2
+2026-10-17,STEAM Academy,0,Maplewood-Richmond Hts.,2
+2026-10-17,Spokane,2,Marion C. Early,0
+2026-10-17,Incarnate Word Academy,2,Marquette,1
 2026-10-17,Lutheran North,2,McCluer,0
+2026-10-17,Sparta,0,Miller,2
 2026-10-17,Raymore-Peculiar,2,North Kansas City,0
+2026-10-17,Concordia,2,Odessa,0
+2026-10-17,Lakeland,0,Odessa,2
 2026-10-17,Warsaw,0,Osage,2
 2026-10-17,Hallsville,1,Osage,1
 2026-10-17,Tipton,0,Osage,2
@@ -5681,5 +5718,19 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-17,Versailles,1,Skyline,1
 2026-10-17,Warsaw,2,Tipton,0
 2026-10-17,Lutheran North,2,University City,0
+2026-10-17,STEAM Academy,2,University City,0
+2026-10-19,New Heights Christian,0,Billings,3
+2026-10-19,Vashon,0,Cardinal Ritter,3
+2026-10-19,Sikeston,3,East Prairie,0
+2026-10-19,Helias Catholic,3,Eldon,0
+2026-10-19,Southern Boone,3,Father Tolton,1
+2026-10-19,Mansfield,0,Gainesville,3
+2026-10-19,St. Francis Borgia,3,Hermann,0
+2026-10-19,Russellville,3,Otterville,2
+2026-10-19,Advance,3,Scott City,1
+2026-10-19,Oak Ridge,3,St. Vincent,1
+2026-10-19,Buffalo,0,Warsaw,3
+2026-10-19,Bernie,0,Woodland,3
 2026-10-20,Hancock,1,Believe Acad Charter,0
+2026-10-20,McKinley Classical Leadership,1,KIPP St. Louis Sr.,0
 2026-10-22,St. Paul Lutheran (Farmington),1,Chamois,0
