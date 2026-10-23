@@ -4844,6 +4844,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-08,Miami (Amoret),0,Lutheran (Kansas City),3
 2026-10-08,Miller Career Academy,0,Lutheran North,2
 2026-10-08,St. Dominic,3,Lutheran St. Charles,0
+2026-10-08,Gloria Deo Academy,1,Lutie,3
 2026-10-08,Skyline,3,Marionville,0
 2026-10-08,Boonville,3,Marshall,0
 2026-10-08,Carl Junction,3,Marshfield,1
@@ -5325,6 +5326,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-13,Viburnum,0,Ellington,3
 2026-10-13,Cristo Rey,0,Ewing Marion Kauffman,3
 2026-10-13,Maryville,3,Excelsior Springs,0
+2026-10-13,Gloria Deo Academy,0,Exeter,3
 2026-10-13,Strafford,3,Fair Grove,0
 2026-10-13,Ste. Genevieve,0,Farmington,2
 2026-10-13,West County,0,Farmington,2
@@ -5334,9 +5336,9 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-13,Ft. Zumwalt West,3,Francis Howell North,1
 2026-10-13,Valley,0,Fredericktown,2
 2026-10-13,Bismarck,1,Fredericktown,2
+2026-10-13,Timberland,3,Ft. Zumwalt South,0
 2026-10-13,Hallsville,3,Fulton,0
 2026-10-13,Hurley,1,Galena,3
-2026-10-13,Exeter,3,Gloria Deo Academy,0
 2026-10-13,Chadwick,0,Greenfield,3
 2026-10-13,Doniphan,3,Greenville,1
 2026-10-13,DeSoto,3,Herculaneum,0
@@ -5468,6 +5470,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-14,Sweet Springs,3,La Monte,1
 2026-10-14,St. Vincent,0,Leopold,3
 2026-10-14,Nerinx Hall,3,Lindbergh,1
+2026-10-14,Hazelwood East,3,McCluer North,0
 2026-10-14,Stockton,0,Miller,3
 2026-10-14,Wright City,3,North Callaway,1
 2026-10-14,Ste. Genevieve,2,North County,0
@@ -5546,6 +5549,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-15,Ozark,3,Kickapoo,0
 2026-10-15,Father Tolton,3,Kirksville,2
 2026-10-15,Lexington,0,Knob Noster,3
+2026-10-15,Summersville,3,Koshkonong,0
 2026-10-15,Otterville,0,La Monte,3
 2026-10-15,Holden,1,Lafayette County,3
 2026-10-15,Gloria Deo Academy,2,Laquey,1
@@ -5623,11 +5627,13 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-15,Gateway with Soldan International Studies,0,STEAM Academy,3
 2026-10-15,Bunker,0,Steelville,3
 2026-10-15,Windsor,0,Stover,3
+2026-10-15,Springfield Catholic,0,Strafford,3
 2026-10-15,Barstow,0,Summit Christian Academy,3
 2026-10-15,Ava,3,Thayer,1
 2026-10-15,Golden City,0,Thomas Jefferson Independent Day,3
 2026-10-15,Kennett,2,Twin Rivers,3
 2026-10-15,Hermann,2,Union,3
+2026-10-15,Pembroke Hill,3,University Academy Charter,0
 2026-10-15,Maplewood-Richmond Hts.,3,University City,0
 2026-10-15,Cardinal Ritter,3,Vashon,0
 2026-10-15,Sheldon,1,Verona,3
@@ -5680,6 +5686,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-17,Van Horn,0,Central (St. Joseph),2
 2026-10-17,Eugene,0,Centralia,2
 2026-10-17,Calvary Lutheran,1,Centralia,2
+2026-10-17,Russellville,0,Centralia,2
 2026-10-17,Odessa,0,Clinton,2
 2026-10-17,Lakeland,0,Clinton,2
 2026-10-17,Concordia,0,Clinton,2
@@ -5833,6 +5840,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-20,Hancock,1,Believe Acad Charter,0
 2026-10-20,McKinley Classical Leadership,1,KIPP St. Louis Sr.,0
 2026-10-20,Brentwood,3,Valley Park,0
+2026-10-20,Whitfield,3,Rosati-Kain,0
 2026-10-20,North Callaway,1,Montgomery County,3
 2026-10-20,Hermann,3,New Bloomfield,0
 2026-10-20,Fatima,3,Veritas Christian Academy,0
@@ -5936,6 +5944,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-21,Principia,1,Lutheran North,3
 2026-10-21,Linn,3,Montgomery County,0
 2026-10-21,Hermann,0,Fatima,3
+2026-10-21,Licking,3,Belle,0
 2026-10-21,Steelville,3,Plato,2
 2026-10-21,New Covenant Academy,3,Pierce City,0
 2026-10-21,Spokane,2,Blue Eye,3
@@ -5970,6 +5979,89 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-21,Eureka,3,Lindbergh,0
 2026-10-21,Westminster Christian Academy,3,Marquette,0
 2026-10-21,Incarnate Word Academy,3,Hazelwood West,0
+2026-10-21,Ft. Zumwalt North,3,Ritenour,0
 2026-10-21,Ozark,3,Waynesville,0
 2026-10-21,Branson,3,Republic,2
+2026-10-21,Hayti,1,Delta (Deering),3
+2026-10-22,New Haven,1,Valley,3
 2026-10-22,St. Paul Lutheran (Farmington),1,Chamois,0
+2026-10-22,Crystal City,3,Crossroads College Preparatory,0
+2026-10-22,Russellville,3,Christian Fellowship Sr.,0
+2026-10-22,Calvary Lutheran,3,Columbia Independent,0
+2026-10-22,Bakersfield,3,Koshkonong,1
+2026-10-22,Couch,3,Lutie,0
+2026-10-22,Dora,3,Mansfield,0
+2026-10-22,School of the Ozarks,3,Galena,0
+2026-10-22,Greenwood,3,Gloria Deo Academy,1
+2026-10-22,Lockwood,3,Everton,0
+2026-10-22,Thomas Jefferson Independent Day,1,Greenfield,3
+2026-10-22,Archie,1,Concordia,3
+2026-10-22,Osceola,3,Crest Ridge,2
+2026-10-22,St. Paul Lutheran (Concordia),2,Sacred Heart,3
+2026-10-22,Northland Christian,3,Santa Fe,0
+2026-10-22,Mound City,3,South Holt with Craig,0
+2026-10-22,Rock Port,3,West Nodaway with Nodaway-Holt,0
+2026-10-22,Senath-Hornersville,3,Twin Rivers,0
+2026-10-22,Portageville,3,Caruthersville,0
+2026-10-22,Arcadia Valley,3,Kingston,0
+2026-10-22,Jefferson (Festus),3,West County,0
+2026-10-22,Collegiate School of Med-Bio Science,3,Bishop DuBourg,2
+2026-10-22,Hancock,3,McKinley Classical Leadership,0
+2026-10-22,Metro,3,Lutheran North,0
+2026-10-22,Brentwood,3,Whitfield,1
+2026-10-22,Liberty (Mountain View),3,Gainesville,0
+2026-10-22,Cabool,3,Houston,1
+2026-10-22,Springfield Catholic,3,Fordland,1
+2026-10-22,Pleasant Hope,0,Conway,3
+2026-10-22,Stockton,3,New Heights Christian,2
+2026-10-22,Sarcoxie,0,Diamond,3
+2026-10-22,Cole Camp,3,Tipton,0
+2026-10-22,Stover,0,Warsaw,3
+2026-10-22,Adrian,3,Butler,0
+2026-10-22,Mid-Buchanan,3,Plattsburg,0
+2026-10-22,East Buchanan,3,West Platte,2
+2026-10-22,Bishop LeBlond,3,Trenton,0
+2026-10-22,St. Joseph Christian,3,South Harrison,0
+2026-10-22,Fredericktown,3,Kennett,0
+2026-10-22,Dexter,3,Doniphan,0
+2026-10-22,Potosi,3,St. Vincent,0
+2026-10-22,Perryville,1,Ste. Genevieve,3
+2026-10-22,Lutheran South,3,Herculaneum,0
+2026-10-22,Notre Dame (St. Louis),3,Bayless,0
+2026-10-22,STEAM Academy,0,John Burroughs,3
+2026-10-22,Southern Boone,3,Centralia,1
+2026-10-22,Hallsville,0,Boonville,3
+2026-10-22,Versailles,3,Eldon,2
+2026-10-22,St. Clair,3,Salem,0
+2026-10-22,Sullivan,3,Owensville,0
+2026-10-22,Strafford,3,Ava,0
+2026-10-22,Fair Grove,1,Mountain Grove,3
+2026-10-22,Clever,3,Reeds Spring,0
+2026-10-22,Nevada,3,Monett,0
+2026-10-22,Lamar,3,East Newton,2
+2026-10-22,St. Pius X (Kansas City),3,Guadalupe Centers Charter,0
+2026-10-22,Pembroke Hill,3,Excelsior Springs,0
+2026-10-22,Maryville,3,Cameron,0
+2026-10-22,Savannah,3,Lawson,0
+2026-10-22,Helias Catholic,3,Capital City,0
+2026-10-22,Jefferson City,3,Marshfield,2
+2026-10-22,St. Teresa's Academy,3,Marshall,0
+2026-10-22,Harrisonville,3,Warrensburg,2
+2026-10-22,Belton,3,Raytown,0
+2026-10-22,Pleasant Hill,3,Grandview,0
+2026-10-22,Smithville,3,Lincoln College Prep,0
+2026-10-22,Benton,3,Kearney,0
+2026-10-22,Jackson,3,St. Pius X (Festus),0
+2026-10-22,Oakville,3,Seckman,2
+2026-10-22,Ft. Zumwalt West,3,Timberland,0
+2026-10-22,Battle,3,Francis Howell,1
+2026-10-22,Nixa,3,Smith-Cotton,0
+2026-10-22,Kickapoo,3,Glendale,0
+2026-10-22,Lee's Summit West,3,Lee's Summit,0
+2026-10-22,Carthage,0,Raymore-Peculiar,3
+2026-10-22,Lee's Summit North,3,Blue Springs,1
+2026-10-22,St. Michael the Archangel,2,Blue Springs South,3
+2026-10-22,Park Hill,3,Oak Park,0
+2026-10-22,Liberty North,3,Park Hill South,1
+2026-10-22,Platte County,0,North Kansas City,3
+2026-10-22,Liberty,2,Staley,3
