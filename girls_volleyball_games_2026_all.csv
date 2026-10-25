@@ -5408,6 +5408,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-06,Lutheran South,True,0,Ursuline Academy,True,3,False,False
 2026-10-06,Valle Catholic,True,3,Valley,True,0,False,False
 2026-10-06,Hancock,True,1,Valley Park,True,3,False,False
+2026-10-06,University Academy Charter,True,3,Van Horn,True,2,False,False
 2026-10-06,Roosevelt,False,0,Vashon,True,3,False,False
 2026-10-06,St. Louis Ignite,False,3,Veritas Christian Academy,True,1,False,False
 2026-10-06,Cuba,True,3,Viburnum,True,1,False,False
@@ -5427,7 +5428,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-06,Leopold,True,3,Woodland,True,1,False,False
 2026-10-06,Guadalupe Centers Charter,True,,"Bishop Ward(Kansas City, KS)",False,,False,False
 2026-10-06,Calvary Lutheran,True,,Heritage Athletics,False,,False,False
-2026-10-06,University Academy Charter,True,,Van Horn,True,,False,False
 2026-10-07,Fatima,True,0,Battle,True,3,False,False
 2026-10-07,Affton,True,3,Bishop DuBourg,True,0,False,False
 2026-10-07,St. Michael the Archangel,True,1,"Bishop Miege(Roeland Park, KS)",False,3,False,False
@@ -6967,7 +6967,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-23,Malden,True,3,Senath-Hornersville,True,0,False,False
 2026-10-23,Central (New Madrid County),True,0,Portageville,True,3,False,False
 2026-10-23,Metro,True,1,Brentwood,True,3,False,False
-2026-10-23,Licking,True,,Steelville,True,,False,False
+2026-10-23,Licking,True,3,Steelville,True,0,False,False
 2026-10-23,Springfield Catholic,True,3,Conway,True,0,False,False
 2026-10-23,New Covenant Academy,True,3,Blue Eye,True,0,False,False
 2026-10-23,Lutheran St. Charles,True,3,Duchesne,True,1,False,False
@@ -6975,40 +6975,40 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-23,MICDS,True,3,Parkway Central,True,1,False,False
 2026-10-23,Incarnate Word Academy,True,3,Francis Howell North,True,0,False,False
 2026-10-23,Ft. Zumwalt North,True,1,Francis Howell Central,True,3,False,False
-2026-10-24,Winona,True,,Dora,True,,False,False
-2026-10-24,Mound City,True,,Rock Port,True,,False,False
-2026-10-24,Woodland,True,,Scott City,True,,False,False
-2026-10-24,Collegiate School of Med-Bio Science,True,,Hancock,True,,False,False
-2026-10-24,Liberty (Mountain View),True,,Cabool,True,,False,False
-2026-10-24,Lafayette County,True,,Carrollton,True,,False,False
-2026-10-24,Mid-Buchanan,True,,East Buchanan,True,,False,False
-2026-10-24,Bishop LeBlond,True,,St. Joseph Christian,True,,False,False
+2026-10-24,Winona,True,3,Dora,True,0,False,False
+2026-10-24,Mound City,True,1,Rock Port,True,3,False,False
+2026-10-24,Woodland,True,3,Scott City,True,0,False,False
+2026-10-24,Collegiate School of Med-Bio Science,True,3,Hancock,True,0,False,False
+2026-10-24,Liberty (Mountain View),True,3,Cabool,True,2,False,False
+2026-10-24,Lafayette County,True,3,Carrollton,True,0,False,False
+2026-10-24,Mid-Buchanan,True,3,East Buchanan,True,0,False,False
+2026-10-24,Bishop LeBlond,True,3,St. Joseph Christian,True,0,False,False
 2026-10-24,Maplewood-Richmond Hts.,True,,John Burroughs,True,,False,False
-2026-10-24,Blair Oaks,True,,Versailles,True,,False,False
-2026-10-24,Osage,True,,California,True,,False,False
-2026-10-24,Clever,True,,Hollister,True,,False,False
+2026-10-24,Blair Oaks,True,3,Versailles,True,1,False,False
+2026-10-24,Osage,True,3,California,True,0,False,False
+2026-10-24,Clever,True,3,Hollister,True,2,False,False
 2026-10-24,Oak Grove,True,,Clinton,True,,False,False
-2026-10-24,Notre Dame de Sion,True,,Summit Christian Academy,True,,False,False
-2026-10-24,St. Pius X (Kansas City),True,,Pembroke Hill,True,,False,False
-2026-10-24,Maryville,True,,Savannah,True,,False,False
-2026-10-24,Farmington,True,,Windsor (Imperial),True,,False,False
-2026-10-24,Festus,True,,Hillsboro,True,,False,False
-2026-10-24,Rockwood Summit,True,,Nerinx Hall,True,,False,False
-2026-10-24,Pacific,True,,Ursuline Academy,True,,False,False
-2026-10-24,St. Dominic,True,,Holt,True,,False,False
-2026-10-24,Hannibal,True,,Orchard Farm,True,,False,False
-2026-10-24,Helias Catholic,True,,Jefferson City,True,,False,False
-2026-10-24,West Plains,True,,Logan-Rogersville,True,,False,False
-2026-10-24,Carl Junction,True,,Willard,True,,False,False
-2026-10-24,St. Teresa's Academy,True,,Harrisonville,True,,False,False
-2026-10-24,Belton,True,,Pleasant Hill,True,,False,False
-2026-10-24,Lafayette (Wildwood),True,,Kirkwood,True,,False,False
-2026-10-24,Eureka,True,,Westminster Christian Academy,True,,False,False
-2026-10-24,Ft. Zumwalt West,True,,Battle,True,,False,False
-2026-10-24,North Point,True,,Rock Bridge,True,,False,False
-2026-10-24,Ozark,True,,Branson,True,,False,False
-2026-10-24,Nixa,True,,Kickapoo,True,,False,False
-2026-10-24,Lee's Summit North,True,,Blue Springs South,True,,False,False
+2026-10-24,Notre Dame de Sion,True,3,Summit Christian Academy,True,0,False,False
+2026-10-24,St. Pius X (Kansas City),True,3,Pembroke Hill,True,0,False,False
+2026-10-24,Maryville,True,0,Savannah,True,3,False,False
+2026-10-24,Farmington,True,3,Windsor (Imperial),True,0,False,False
+2026-10-24,Festus,True,3,Hillsboro,True,2,False,False
+2026-10-24,Rockwood Summit,True,3,Nerinx Hall,True,2,False,False
+2026-10-24,Pacific,True,1,Ursuline Academy,True,3,False,False
+2026-10-24,St. Dominic,True,3,Holt,True,0,False,False
+2026-10-24,Hannibal,True,3,Orchard Farm,True,1,False,False
+2026-10-24,Helias Catholic,True,3,Jefferson City,True,1,False,False
+2026-10-24,West Plains,True,3,Logan-Rogersville,True,1,False,False
+2026-10-24,Carl Junction,True,3,Willard,True,2,False,False
+2026-10-24,St. Teresa's Academy,True,3,Harrisonville,True,1,False,False
+2026-10-24,Belton,True,3,Pleasant Hill,True,0,False,False
+2026-10-24,Lafayette (Wildwood),True,3,Kirkwood,True,1,False,False
+2026-10-24,Eureka,True,3,Westminster Christian Academy,True,0,False,False
+2026-10-24,Ft. Zumwalt West,True,3,Battle,True,0,False,False
+2026-10-24,North Point,True,1,Rock Bridge,True,3,False,False
+2026-10-24,Ozark,True,3,Branson,True,0,False,False
+2026-10-24,Nixa,True,2,Kickapoo,True,3,False,False
+2026-10-24,Lee's Summit North,True,3,Blue Springs South,True,0,False,False
 2026-10-26,North Pemiscot,True,,Delta (Deering),True,,False,False
 2026-10-26,Holcomb,True,,South Pemiscot,True,,False,False
 2026-10-26,Gideon,True,,Bell City,True,,False,False
@@ -7029,26 +7029,44 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-26,Potosi,True,,Ste. Genevieve,True,,False,False
 2026-10-26,St. Francis Borgia,True,,Wright City,True,,False,False
 2026-10-26,Southern Boone,True,,Boonville,True,,False,False
+2026-10-26,Blair Oaks,True,,Osage,True,,False,False
 2026-10-26,St. Clair,True,,Sullivan,True,,False,False
 2026-10-26,Strafford,True,,Mountain Grove,True,,False,False
 2026-10-26,Nevada,True,,Lamar,True,,False,False
+2026-10-26,Rockwood Summit,True,,Ursuline Academy,True,,False,False
 2026-10-26,Park Hill,True,,Liberty North,True,,False,False
 2026-10-26,Staley,True,,North Kansas City,True,,False,False
 2026-10-27,Arcadia Valley,True,,Jefferson (Festus),True,,False,False
 2026-10-27,Cole Camp,True,,Warsaw,True,,False,False
 2026-10-27,Lutheran South,True,,Notre Dame (St. Louis),True,,False,False
+2026-10-27,Farmington,True,,Festus,True,,False,False
 2026-10-27,St. Joseph's Academy,True,,MICDS,True,,False,False
+2026-10-27,St. Dominic,True,,Hannibal,True,,False,False
+2026-10-27,West Plains,True,,Carl Junction,True,,False,False
+2026-10-27,St. Teresa's Academy,True,,Belton,True,,False,False
 2026-10-27,Smithville,True,,Benton,True,,False,False
 2026-10-27,Jackson,True,,Oakville,True,,False,False
+2026-10-27,Lafayette (Wildwood),True,,Eureka,True,,False,False
 2026-10-27,Incarnate Word Academy,True,,Francis Howell Central,True,,False,False
+2026-10-27,Ft. Zumwalt West,True,,Rock Bridge,True,,False,False
+2026-10-27,Ozark,True,,Kickapoo,True,,False,False
 2026-10-27,Lee's Summit West,True,,Raymore-Peculiar,True,,False,False
 2026-10-29,TBD,False,,Calvary Lutheran,True,,False,False
-2026-10-29,School of the Ozarks,True,,TBD,False,,False,False
+2026-10-29,School of the Ozarks,True,,Winona,True,,False,False
 2026-10-29,TBD,False,,Billings,True,,False,False
 2026-10-29,Concordia,True,,TBD,False,,False,False
 2026-10-29,Sacred Heart,True,,Osceola,True,,False,False
-2026-10-29,TBD,False,,Northland Christian,True,,False,False
+2026-10-29,Rock Port,True,,Northland Christian,True,,False,False
+2026-10-29,Woodland,True,,TBD,False,,False,False
+2026-10-29,Collegiate School of Med-Bio Science,True,,TBD,False,,False,False
 2026-10-29,TBD,False,,Brentwood,True,,False,False
+2026-10-29,Liberty (Mountain View),True,,Licking,True,,False,False
 2026-10-29,New Covenant Academy,True,,Springfield Catholic,True,,False,False
-2026-10-29,TBD,False,,Adrian,True,,False,False
+2026-10-29,Lafayette County,True,,Adrian,True,,False,False
+2026-10-29,Bishop LeBlond,True,,Mid-Buchanan,True,,False,False
 2026-10-29,TBD,False,,Lutheran St. Charles,True,,False,False
+2026-10-29,TBD,False,,Clever,True,,False,False
+2026-10-29,Notre Dame de Sion,True,,TBD,False,,False,False
+2026-10-29,Savannah,True,,St. Pius X (Kansas City),True,,False,False
+2026-10-31,TBD,False,,Helias Catholic,True,,False,False
+2026-10-31,TBD,False,,Lee's Summit North,True,,False,False
