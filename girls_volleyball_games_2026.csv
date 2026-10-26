@@ -5866,12 +5866,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-17,McCluer,,Hazelwood West,,False,False
 2026-10-17,Gloria Deo Academy,,Jasper,,False,False
 2026-10-17,Jasper,,Purdy,,False,False
-2026-10-18,Maplewood-Richmond Hts.,,Gateway with Soldan International Studies,,False,False
-2026-10-18,Ritenour,,Gateway with Soldan International Studies,,False,False
-2026-10-18,STEAM Academy,,Gateway with Soldan International Studies,,False,False
-2026-10-18,McCluer,,Hazelwood West,,False,False
-2026-10-18,Gloria Deo Academy,,Jasper,,False,False
-2026-10-18,Jasper,,Purdy,,False,False
 2026-10-19,New Heights Christian,0,Billings,3,False,False
 2026-10-19,Plattsburg,1,Cameron,3,False,False
 2026-10-19,Clarkton,0,Campbell,3,False,False
@@ -6224,11 +6218,11 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-24,Lafayette County,3,Carrollton,0,False,False
 2026-10-24,Mid-Buchanan,3,East Buchanan,0,False,False
 2026-10-24,Bishop LeBlond,3,St. Joseph Christian,0,False,False
-2026-10-24,Maplewood-Richmond Hts.,,John Burroughs,,False,False
+2026-10-24,Maplewood-Richmond Hts.,0,John Burroughs,3,False,False
 2026-10-24,Blair Oaks,3,Versailles,1,False,False
 2026-10-24,Osage,3,California,0,False,False
 2026-10-24,Clever,3,Hollister,2,False,False
-2026-10-24,Oak Grove,,Clinton,,False,False
+2026-10-24,Oak Grove,3,Clinton,0,False,False
 2026-10-24,Notre Dame de Sion,3,Summit Christian Academy,0,False,False
 2026-10-24,St. Pius X (Kansas City),3,Pembroke Hill,0,False,False
 2026-10-24,Maryville,0,Savannah,3,False,False
@@ -6299,4 +6293,5 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-29,New Covenant Academy,,Springfield Catholic,,False,False
 2026-10-29,Lafayette County,,Adrian,,False,False
 2026-10-29,Bishop LeBlond,,Mid-Buchanan,,False,False
+2026-10-29,Notre Dame de Sion,,Oak Grove,,False,False
 2026-10-29,Savannah,,St. Pius X (Kansas City),,False,False

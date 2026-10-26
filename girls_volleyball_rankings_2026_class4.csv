@@ -1,69 +1,69 @@
 School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
 Helias Catholic,2.49,2.78,5.27,3,1,1
 St. Teresa's Academy,2.58,2.68,5.26,1,2,2
-St. Dominic,2.51,2.6,5.1,2,3,3
+St. Dominic,2.51,2.6,5.11,2,3,3
 St. Joseph's Academy,2.05,2.26,4.31,4,4,4
-Hannibal,1.94,2.21,4.15,7,5,5
+Hannibal,1.94,2.22,4.16,7,5,5
 West Plains,2.03,2.11,4.14,6,7,6
 Farmington,2.03,2.09,4.12,5,8,7
 Smithville,1.82,2.19,4.0,11,6,8
 Rockwood Summit,1.91,1.93,3.83,8,9,9
-MICDS,1.86,1.8,3.66,9,10,10
+MICDS,1.86,1.8,3.65,9,10,10
 Jefferson City,1.84,1.79,3.63,10,11,11
-Belton,1.77,1.53,3.29,12,14,12
-Marshfield,1.58,1.71,3.28,15,12,13
+Belton,1.77,1.53,3.3,12,14,12
+Marshfield,1.57,1.71,3.28,15,12,13
 Festus,1.47,1.7,3.16,18,13,14
-Pleasant Hill,1.65,1.41,3.06,14,15,15
+Pleasant Hill,1.65,1.41,3.05,14,15,15
 Hillsboro,1.52,1.31,2.83,16,18,16
 Ursuline Academy,1.67,1.07,2.74,13,24,17
 Benton,1.31,1.38,2.69,21,16,18
 Carl Junction,1.32,1.31,2.63,20,17,19
 Logan-Rogersville,1.51,1.06,2.57,17,25,20
 Nerinx Hall,1.37,1.04,2.41,19,26,21
-Webster Groves,1.23,1.14,2.37,24,21,22
+Webster Groves,1.23,1.14,2.38,24,21,22
 Pacific,1.19,1.18,2.37,25,19,23
 Willard,1.26,1.09,2.35,23,22,24
 Orchard Farm,1.29,1.0,2.29,22,27,25
 Parkway Central,1.13,1.14,2.27,27,20,26
 Holt,1.18,0.84,2.02,26,30,27
 Lebanon,0.87,1.07,1.94,30,23,28
-Harrisonville,1.07,0.8,1.87,28,31,29
-Windsor (Imperial),0.75,0.87,1.61,33,29,30
+Harrisonville,1.07,0.8,1.86,28,31,29
+Windsor (Imperial),0.75,0.87,1.62,33,29,30
 Capital City,0.97,0.57,1.54,29,34,31
 Warrensburg,0.8,0.7,1.5,32,32,32
 Washington,0.82,0.69,1.5,31,33,33
 Kearney,0.55,0.91,1.45,34,28,34
-Lincoln College Prep,0.51,0.24,0.76,36,40,35
+Lincoln College Prep,0.51,0.24,0.75,36,40,35
 Rolla,0.43,0.27,0.7,37,38,36
 Camdenton,0.34,0.33,0.67,41,36,37
 Union,0.52,0.13,0.65,35,42,38
-Sikeston,0.42,0.1,0.53,38,43,39
+Sikeston,0.43,0.11,0.53,38,43,39
 Clayton,0.41,0.02,0.44,39,46,40
-Hillcrest,0.05,0.33,0.38,44,35,41
+Hillcrest,0.05,0.33,0.37,44,35,41
 Bolivar,-0.02,0.31,0.29,45,37,42
 Ft. Zumwalt South,0.07,0.15,0.21,43,41,43
 Parkway North,0.36,-0.16,0.2,40,48,44
 Central (Cape Girardeau),-0.12,0.26,0.14,46,39,45
 Warrenton,0.09,0.02,0.12,42,45,46
-Central (Springfield),-0.29,0.03,-0.27,48,44,47
-Grandview,-0.37,-0.08,-0.44,50,47,48
-DeSoto,-0.32,-0.36,-0.69,49,50,49
+Central (Springfield),-0.3,0.03,-0.27,48,44,47
+Grandview,-0.37,-0.08,-0.45,50,47,48
+DeSoto,-0.32,-0.36,-0.68,49,50,49
 Raytown,-0.59,-0.22,-0.81,53,49,50
 St. Charles,-0.22,-0.78,-1.01,47,55,51
-Affton,-0.53,-0.64,-1.16,52,52,52
-Kirksville,-0.49,-0.68,-1.17,51,54,53
+Affton,-0.52,-0.64,-1.16,52,52,52
+Kirksville,-0.49,-0.68,-1.18,51,54,53
 Ft. Zumwalt East,-0.71,-0.58,-1.29,55,51,54
 Parkview,-0.78,-0.67,-1.45,56,53,55
 Raytown South,-0.69,-1.01,-1.7,54,57,56
-Van Horn,-1.05,-0.99,-2.04,58,56,57
+Van Horn,-1.05,-0.99,-2.05,58,56,57
 Marshall,-1.03,-1.07,-2.1,57,59,58
-Winnetonka,-1.06,-1.05,-2.11,59,58,59
-Hazelwood East,-1.1,-1.63,-2.72,60,60,60
-McDonald County,-1.47,-1.63,-3.1,61,61,61
-University City,-1.92,-2.15,-4.07,62,62,62
+Winnetonka,-1.07,-1.05,-2.11,59,58,59
+Hazelwood East,-1.1,-1.62,-2.72,60,60,60
+McDonald County,-1.47,-1.63,-3.11,61,61,61
+University City,-1.91,-2.15,-4.06,62,62,62
 Northeast (Kansas City),-2.88,-3.13,-6.0,63,63,63
 McCluer North,-3.01,-3.19,-6.2,64,64,64
-Confluence Prep Academy Charter with Grand Center Arts Charter,-3.03,-3.47,-6.51,65,66,65
+Confluence Prep Academy Charter with Grand Center Arts Charter,-3.03,-3.47,-6.5,65,66,65
 Gateway with Soldan International Studies,-3.34,-3.46,-6.8,66,65,66
-McCluer,-3.44,-3.87,-7.31,67,67,67
+McCluer,-3.44,-3.86,-7.3,67,67,67
 East (Kansas City),-4.05,-3.94,-7.98,68,68,68

@@ -6621,12 +6621,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-17,McCluer,True,,Hazelwood West,True,,False,False
 2026-10-17,Gloria Deo Academy,True,,Jasper,True,,False,False
 2026-10-17,Jasper,True,,Purdy,True,,False,False
-2026-10-18,Maplewood-Richmond Hts.,True,,Gateway with Soldan International Studies,True,,False,False
-2026-10-18,Ritenour,True,,Gateway with Soldan International Studies,True,,False,False
-2026-10-18,STEAM Academy,True,,Gateway with Soldan International Studies,True,,False,False
-2026-10-18,McCluer,True,,Hazelwood West,True,,False,False
-2026-10-18,Gloria Deo Academy,True,,Jasper,True,,False,False
-2026-10-18,Jasper,True,,Purdy,True,,False,False
 2026-10-19,New Heights Christian,True,0,Billings,True,3,False,False
 2026-10-19,Plattsburg,True,1,Cameron,True,3,False,False
 2026-10-19,Clarkton,True,0,Campbell,True,3,False,False
@@ -6983,11 +6977,11 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-24,Lafayette County,True,3,Carrollton,True,0,False,False
 2026-10-24,Mid-Buchanan,True,3,East Buchanan,True,0,False,False
 2026-10-24,Bishop LeBlond,True,3,St. Joseph Christian,True,0,False,False
-2026-10-24,Maplewood-Richmond Hts.,True,,John Burroughs,True,,False,False
+2026-10-24,Maplewood-Richmond Hts.,True,0,John Burroughs,True,3,False,False
 2026-10-24,Blair Oaks,True,3,Versailles,True,1,False,False
 2026-10-24,Osage,True,3,California,True,0,False,False
 2026-10-24,Clever,True,3,Hollister,True,2,False,False
-2026-10-24,Oak Grove,True,,Clinton,True,,False,False
+2026-10-24,Oak Grove,True,3,Clinton,True,0,False,False
 2026-10-24,Notre Dame de Sion,True,3,Summit Christian Academy,True,0,False,False
 2026-10-24,St. Pius X (Kansas City),True,3,Pembroke Hill,True,0,False,False
 2026-10-24,Maryville,True,0,Savannah,True,3,False,False
@@ -7064,9 +7058,10 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-29,New Covenant Academy,True,,Springfield Catholic,True,,False,False
 2026-10-29,Lafayette County,True,,Adrian,True,,False,False
 2026-10-29,Bishop LeBlond,True,,Mid-Buchanan,True,,False,False
+2026-10-29,John Burroughs,True,,TBD,False,,False,False
 2026-10-29,TBD,False,,Lutheran St. Charles,True,,False,False
 2026-10-29,TBD,False,,Clever,True,,False,False
-2026-10-29,Notre Dame de Sion,True,,TBD,False,,False,False
+2026-10-29,Notre Dame de Sion,True,,Oak Grove,True,,False,False
 2026-10-29,Savannah,True,,St. Pius X (Kansas City),True,,False,False
 2026-10-31,TBD,False,,Helias Catholic,True,,False,False
 2026-10-31,TBD,False,,Lee's Summit North,True,,False,False
