@@ -5123,6 +5123,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-10,Willard,2,Hickman,1,False,False
 2026-10-10,Northland Christian,1,Holden,1,False,False
 2026-10-10,Midway,2,Holden,0,False,False
+2026-10-10,Lakeland,2,Holden,0,False,False
 2026-10-10,Pleasant Hope,0,Houston,2,False,False
 2026-10-10,Marionville,0,Houston,2,False,False
 2026-10-10,Jasper,1,Houston,1,False,False
@@ -5234,7 +5235,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-10,Saxony Lutheran,2,Winona,1,False,False
 2026-10-10,Valle Catholic,2,Winona,0,False,False
 2026-10-10,Incarnate Word Academy,2,Winona,0,False,False
-2026-10-10,Lakeland,,Holden,,False,False
 2026-10-12,Bernie,0,Advance,3,False,False
 2026-10-12,Gateway Science Charter,0,Affton,3,False,False
 2026-10-12,Conway,3,Ava,2,False,False
@@ -5752,12 +5752,12 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-16,Springfield Catholic,1,Logan-Rogersville,3,False,False
 2026-10-16,Lockwood,3,McAuley Catholic,0,False,False
 2026-10-16,Greenville,0,Oak Ridge,3,False,False
+2026-10-16,Ladue Horton Watkins,1,Parkway Central,3,False,False
 2026-10-16,Valley,3,South Iron,1,False,False
 2026-10-16,Parkway West,0,St. Joseph's Academy,3,False,False
 2026-10-16,Meadow Heights,3,St. Paul Lutheran (Farmington),0,False,False
 2026-10-16,St. Charles West,3,Winfield,1,False,False
 2026-10-16,Leopold,2,Winona,3,False,False
-2026-10-16,Ladue Horton Watkins,,Parkway Central,,False,False
 2026-10-16,Hazelwood Central,,Parkway North,,False,False
 2026-10-17,Smithton,0,Adrian,2,False,False
 2026-10-17,Concordia,2,Adrian,0,False,False
@@ -5858,6 +5858,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-17,Calvary Lutheran,1,Russellville,1,False,False
 2026-10-17,Versailles,1,Skyline,1,False,False
 2026-10-17,Warsaw,2,Tipton,0,False,False
+2026-10-17,Notre Dame de Sion,2,Truman,0,False,False
 2026-10-17,Lutheran North,2,University City,0,False,False
 2026-10-17,STEAM Academy,2,University City,0,False,False
 2026-10-17,Maplewood-Richmond Hts.,,Gateway with Soldan International Studies,,False,False
@@ -6244,35 +6245,41 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-24,Ozark,3,Branson,0,False,False
 2026-10-24,Nixa,2,Kickapoo,3,False,False
 2026-10-24,Lee's Summit North,3,Blue Springs South,0,False,False
-2026-10-26,North Pemiscot,,Delta (Deering),,False,False
-2026-10-26,Holcomb,,South Pemiscot,,False,False
-2026-10-26,Gideon,,Bell City,,False,False
-2026-10-26,Leopold,,Advance,,False,False
-2026-10-26,Valle Catholic,,Oak Ridge,,False,False
-2026-10-26,Bismarck,,Crystal City,,False,False
-2026-10-26,Eminence,,Lesterville,,False,False
-2026-10-26,Ellington,,South Iron,,False,False
-2026-10-26,Lockwood,,Greenfield,,False,False
-2026-10-26,Liberal,,Hume,,False,False
-2026-10-26,Appleton City with Montrose,,Rich Hill,,False,False
-2026-10-26,Malden,,Portageville,,False,False
-2026-10-26,Linn,,Fatima,,False,False
-2026-10-26,Ash Grove,,Stockton,,False,False
-2026-10-26,Miller,,Diamond,,False,False
-2026-10-26,Saxony Lutheran,,Fredericktown,,False,False
-2026-10-26,Notre Dame (Cape Girardeau),,Dexter,,False,False
-2026-10-26,Potosi,,Ste. Genevieve,,False,False
-2026-10-26,St. Francis Borgia,,Wright City,,False,False
-2026-10-26,Southern Boone,,Boonville,,False,False
-2026-10-26,Blair Oaks,,Osage,,False,False
-2026-10-26,St. Clair,,Sullivan,,False,False
-2026-10-26,Strafford,,Mountain Grove,,False,False
-2026-10-26,Nevada,,Lamar,,False,False
-2026-10-26,Rockwood Summit,,Ursuline Academy,,False,False
-2026-10-26,Park Hill,,Liberty North,,False,False
-2026-10-26,Staley,,North Kansas City,,False,False
+2026-10-26,North Pemiscot,3,Delta (Deering),0,False,False
+2026-10-26,Holcomb,3,South Pemiscot,1,False,False
+2026-10-26,Gideon,3,Bell City,0,False,False
+2026-10-26,Leopold,0,Advance,3,False,False
+2026-10-26,Valle Catholic,3,Oak Ridge,1,False,False
+2026-10-26,Bismarck,3,Crystal City,0,False,False
+2026-10-26,Eminence,1,Lesterville,3,False,False
+2026-10-26,Ellington,3,South Iron,0,False,False
+2026-10-26,Lockwood,3,Greenfield,0,False,False
+2026-10-26,Liberal,3,Hume,0,False,False
+2026-10-26,Appleton City with Montrose,3,Rich Hill,1,False,False
+2026-10-26,Malden,2,Portageville,3,False,False
+2026-10-26,Linn,3,Fatima,1,False,False
+2026-10-26,Ash Grove,2,Stockton,,False,False
+2026-10-26,Miller,3,Diamond,0,False,False
+2026-10-26,Saxony Lutheran,3,Fredericktown,0,False,False
+2026-10-26,Notre Dame (Cape Girardeau),3,Dexter,1,False,False
+2026-10-26,Potosi,3,Ste. Genevieve,0,False,False
+2026-10-26,St. Francis Borgia,3,Wright City,0,False,False
+2026-10-26,Southern Boone,3,Boonville,0,False,False
+2026-10-26,Blair Oaks,3,Osage,0,False,False
+2026-10-26,St. Clair,0,Sullivan,3,False,False
+2026-10-26,Strafford,3,Mountain Grove,0,False,False
+2026-10-26,Nevada,3,Lamar,0,False,False
+2026-10-26,Rockwood Summit,3,Ursuline Academy,2,False,False
+2026-10-26,Park Hill,1,Liberty North,3,False,False
+2026-10-26,Staley,3,North Kansas City,1,False,False
+2026-10-27,North Pemiscot,,Holcomb,,False,False
+2026-10-27,Valle Catholic,,Advance,,False,False
+2026-10-27,Ellington,,Lesterville,,False,False
+2026-10-27,Liberal,,Appleton City with Montrose,,False,False
 2026-10-27,Arcadia Valley,,Jefferson (Festus),,False,False
+2026-10-27,Miller,,Stockton,,False,False
 2026-10-27,Cole Camp,,Warsaw,,False,False
+2026-10-27,Saxony Lutheran,,Notre Dame (Cape Girardeau),,False,False
 2026-10-27,Lutheran South,,Notre Dame (St. Louis),,False,False
 2026-10-27,Farmington,,Festus,,False,False
 2026-10-27,St. Joseph's Academy,,MICDS,,False,False
@@ -6286,12 +6293,58 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-27,Ft. Zumwalt West,,Rock Bridge,,False,False
 2026-10-27,Ozark,,Kickapoo,,False,False
 2026-10-27,Lee's Summit West,,Raymore-Peculiar,,False,False
+2026-10-27,Liberty North,,Staley,,False,False
+2026-10-28,North Pemiscot,,Holcomb,,False,False
+2026-10-28,Valle Catholic,,Advance,,False,False
+2026-10-28,Ellington,,Lesterville,,False,False
+2026-10-28,Liberal,,Appleton City with Montrose,,False,False
+2026-10-28,Arcadia Valley,,Jefferson (Festus),,False,False
+2026-10-28,Miller,,Stockton,,False,False
+2026-10-28,Cole Camp,,Warsaw,,False,False
+2026-10-28,Saxony Lutheran,,Notre Dame (Cape Girardeau),,False,False
+2026-10-28,Lutheran South,,Notre Dame (St. Louis),,False,False
+2026-10-28,Farmington,,Festus,,False,False
+2026-10-28,St. Joseph's Academy,,MICDS,,False,False
+2026-10-28,St. Dominic,,Hannibal,,False,False
+2026-10-28,West Plains,,Carl Junction,,False,False
+2026-10-28,St. Teresa's Academy,,Belton,,False,False
+2026-10-28,Smithville,,Benton,,False,False
+2026-10-28,Jackson,,Oakville,,False,False
+2026-10-28,Lafayette (Wildwood),,Eureka,,False,False
+2026-10-28,Incarnate Word Academy,,Francis Howell Central,,False,False
+2026-10-28,Ft. Zumwalt West,,Rock Bridge,,False,False
+2026-10-28,Ozark,,Kickapoo,,False,False
+2026-10-28,Lee's Summit West,,Raymore-Peculiar,,False,False
+2026-10-28,Liberty North,,Staley,,False,False
 2026-10-29,School of the Ozarks,,Winona,,False,False
+2026-10-29,Lockwood,,Billings,,False,False
 2026-10-29,Sacred Heart,,Osceola,,False,False
 2026-10-29,Rock Port,,Northland Christian,,False,False
+2026-10-29,Woodland,,Portageville,,False,False
+2026-10-29,Linn,,Brentwood,,False,False
 2026-10-29,Liberty (Mountain View),,Licking,,False,False
 2026-10-29,New Covenant Academy,,Springfield Catholic,,False,False
 2026-10-29,Lafayette County,,Adrian,,False,False
 2026-10-29,Bishop LeBlond,,Mid-Buchanan,,False,False
+2026-10-29,St. Francis Borgia,,Lutheran St. Charles,,False,False
+2026-10-29,Blair Oaks,,Southern Boone,,False,False
+2026-10-29,Strafford,,Sullivan,,False,False
+2026-10-29,Nevada,,Clever,,False,False
 2026-10-29,Notre Dame de Sion,,Oak Grove,,False,False
 2026-10-29,Savannah,,St. Pius X (Kansas City),,False,False
+2026-10-30,School of the Ozarks,,Winona,,False,False
+2026-10-30,Lockwood,,Billings,,False,False
+2026-10-30,Sacred Heart,,Osceola,,False,False
+2026-10-30,Rock Port,,Northland Christian,,False,False
+2026-10-30,Woodland,,Portageville,,False,False
+2026-10-30,Linn,,Brentwood,,False,False
+2026-10-30,Liberty (Mountain View),,Licking,,False,False
+2026-10-30,New Covenant Academy,,Springfield Catholic,,False,False
+2026-10-30,Lafayette County,,Adrian,,False,False
+2026-10-30,Bishop LeBlond,,Mid-Buchanan,,False,False
+2026-10-30,St. Francis Borgia,,Lutheran St. Charles,,False,False
+2026-10-30,Blair Oaks,,Southern Boone,,False,False
+2026-10-30,Strafford,,Sullivan,,False,False
+2026-10-30,Nevada,,Clever,,False,False
+2026-10-30,Notre Dame de Sion,,Oak Grove,,False,False
+2026-10-30,Savannah,,St. Pius X (Kansas City),,False,False
