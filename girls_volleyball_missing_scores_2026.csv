@@ -4,7 +4,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-12,one team's score only,Notre Dame (St. Louis),,Hazelwood East,0,True
 2026-09-12,one team's score only,Webster Groves,,Pattonville,0,True
 2026-09-15,one team's score only,Caruthersville,3,Southland,,True
-2026-09-16,one team's score only,Columbia Independent,1,Chamois,,True
 2026-09-17,one team's score only,Hayti,0,Campbell,,True
 2026-09-17,one team's score only,Green Ridge,0,Smithton,,True
 2026-09-17,one team's score only,Paseo Academy,0,"Turner(Kansas City, KS)",,False
@@ -73,7 +72,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-22,no score,West Plains,,Normandy Collaborative,,False
 2026-09-23,no score,Marquand-Zion,,Kelly,,False
 2026-09-30,no score,Normandy Collaborative,,Jennings,,False
-2026-10-01,no score,Hermann,,Chamois,,True
 2026-10-05,no score,Miller Career Academy,,"Cahokia(Cahokia, IL)",,False
 2026-10-05,no score,"KC Metro(Kansas City, KS)",,Ewing Marion Kauffman,,False
 2026-10-05,no score,McCluer North,,Normandy Collaborative,,False
@@ -106,7 +104,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-13,no score,Lift for Life Academy Charter,,Visitation Academy,,True
 2026-10-13,no score,Parkway West,,Westminster Christian Academy,,True
 2026-10-13,no score,Webster Groves,,Windsor (Imperial),,True
-2026-10-13,no score,Grandview,,Winnetonka,,True
 2026-10-14,no score,Chesterton Acad StL,,Crossroads College Preparatory,,False
 2026-10-14,no score,Lift for Life Academy Charter,,Hazelwood West,,True
 2026-10-14,no score,Lincoln College Prep,,"JC Harmon(Kansas City, KS)",,False
@@ -114,13 +111,11 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-14,no score,Westminster Christian Academy,,Visitation Academy,,True
 2026-10-15,no score,Fair Grove,,Buffalo,,True
 2026-10-15,no score,Lighthouse Sr.,,Chamois,,False
-2026-10-15,no score,Rockwood Summit,,Kirkwood,,True
 2026-10-15,no score,Miller Career Academy,,"Madison(Madison, IL)",,False
 2026-10-15,no score,Hurley,,Niangua,,True
 2026-10-15,no score,West Plains,,Normandy Collaborative,,False
 2026-10-15,no score,Gateway Science Charter,,Valley Park,,True
 2026-10-15,no score,St. Charles,,Warrenton,,True
-2026-10-15,no score,St. Dominic,,Westminster Christian Academy,,True
 2026-10-16,no score,Viburnum,,Marquand-Zion,,False
 2026-10-16,no score,Hazelwood Central,,Parkway North,,True
 2026-10-16,no score,Gateway Legacy Sr. H.,,Villa Duchesne,,False
@@ -130,7 +125,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-17,no score,McCluer,,Hazelwood West,,True
 2026-10-17,no score,Gloria Deo Academy,,Jasper,,True
 2026-10-17,no score,Jasper,,Purdy,,True
-2026-10-19,no score,Veritas Christian Academy,,Brentwood,,True
 2026-10-19,no score,Believe Acad Charter,,West Plains,,True
 2026-10-19,no score,Winfield,,Sunnydale Adventist Acad HS,,False
 2026-10-20,no score,Believe Acad Charter,,KIPP St. Louis Sr.,,True
