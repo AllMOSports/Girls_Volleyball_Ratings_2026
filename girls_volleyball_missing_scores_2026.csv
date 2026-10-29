@@ -19,6 +19,7 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-12,one team's score only,Diamond,1,Monett,,True
 2026-10-13,one team's score only,Kirksville,2,Centralia,,True
 2026-10-13,one team's score only,Kickapoo,0,Nixa,,True
+2026-10-17,one team's score only,St. Teresa's Academy,,"Shawnee Mission North(Shawnee Mission, KS)",0,False
 2026-10-22,one team's score only,Maplewood-Richmond Hts.,,Cardinal Ritter,0,True
 2026-10-22,one team's score only,Mt. Vernon,2,Hollister,,True
 2026-08-20,no score,Grandview,,Raytown,,True
@@ -112,10 +113,8 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-15,no score,Fair Grove,,Buffalo,,True
 2026-10-15,no score,Lighthouse Sr.,,Chamois,,False
 2026-10-15,no score,Miller Career Academy,,"Madison(Madison, IL)",,False
-2026-10-15,no score,Hurley,,Niangua,,True
 2026-10-15,no score,West Plains,,Normandy Collaborative,,False
 2026-10-15,no score,Gateway Science Charter,,Valley Park,,True
-2026-10-15,no score,St. Charles,,Warrenton,,True
 2026-10-16,no score,Viburnum,,Marquand-Zion,,False
 2026-10-16,no score,Hazelwood Central,,Parkway North,,True
 2026-10-16,no score,Gateway Legacy Sr. H.,,Villa Duchesne,,False
