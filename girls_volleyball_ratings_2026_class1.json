@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 30, 2026 at 09:44 AM",
+  "last_updated": "October 31, 2026 at 09:44 AM",
   "league_average": 1.49,
   "classification": 1,
   "teams": [
@@ -533,17 +533,6 @@
     },
     {
       "ovr_rank": 49,
-      "school": "La Monte",
-      "classification": 1,
-      "district": 14,
-      "ovr_rating": -1.36,
-      "off_rating": -0.74,
-      "off_rank": 49,
-      "def_rating": -0.62,
-      "def_rank": 48
-    },
-    {
-      "ovr_rank": 50,
       "school": "Green Ridge",
       "classification": 1,
       "district": 13,
@@ -552,6 +541,17 @@
       "off_rank": 56,
       "def_rating": -0.53,
       "def_rank": 43
+    },
+    {
+      "ovr_rank": 50,
+      "school": "La Monte",
+      "classification": 1,
+      "district": 14,
+      "ovr_rating": -1.36,
+      "off_rating": -0.74,
+      "off_rank": 49,
+      "def_rating": -0.62,
+      "def_rank": 48
     },
     {
       "ovr_rank": 51,
@@ -610,17 +610,6 @@
     },
     {
       "ovr_rank": 56,
-      "school": "Greenwood",
-      "classification": 1,
-      "district": 8,
-      "ovr_rating": -1.86,
-      "off_rating": -0.8,
-      "off_rank": 53,
-      "def_rating": -1.05,
-      "def_rank": 58
-    },
-    {
-      "ovr_rank": 57,
       "school": "Lincoln",
       "classification": 1,
       "district": 13,
@@ -629,6 +618,17 @@
       "off_rank": 54,
       "def_rating": -1.05,
       "def_rank": 57
+    },
+    {
+      "ovr_rank": 57,
+      "school": "Greenwood",
+      "classification": 1,
+      "district": 8,
+      "ovr_rating": -1.86,
+      "off_rating": -0.8,
+      "off_rank": 53,
+      "def_rating": -1.05,
+      "def_rank": 58
     },
     {
       "ovr_rank": 58,
@@ -665,17 +665,6 @@
     },
     {
       "ovr_rank": 61,
-      "school": "Purdy",
-      "classification": 1,
-      "district": 9,
-      "ovr_rating": -2.13,
-      "off_rating": -1.02,
-      "off_rank": 65,
-      "def_rating": -1.11,
-      "def_rank": 60
-    },
-    {
-      "ovr_rank": 62,
       "school": "Verona",
       "classification": 1,
       "district": 9,
@@ -684,6 +673,17 @@
       "off_rank": 61,
       "def_rating": -1.15,
       "def_rank": 61
+    },
+    {
+      "ovr_rank": 62,
+      "school": "Purdy",
+      "classification": 1,
+      "district": 9,
+      "ovr_rating": -2.13,
+      "off_rating": -1.02,
+      "off_rank": 65,
+      "def_rating": -1.11,
+      "def_rank": 60
     },
     {
       "ovr_rank": 63,
@@ -830,17 +830,6 @@
     },
     {
       "ovr_rank": 76,
-      "school": "Northwest (Hughesville)",
-      "classification": 1,
-      "district": 14,
-      "ovr_rating": -2.89,
-      "off_rating": -1.56,
-      "off_rank": 81,
-      "def_rating": -1.33,
-      "def_rank": 72
-    },
-    {
-      "ovr_rank": 77,
       "school": "Wheaton",
       "classification": 1,
       "district": 9,
@@ -849,6 +838,17 @@
       "off_rank": 75,
       "def_rating": -1.48,
       "def_rank": 76
+    },
+    {
+      "ovr_rank": 77,
+      "school": "Northwest (Hughesville)",
+      "classification": 1,
+      "district": 14,
+      "ovr_rating": -2.89,
+      "off_rating": -1.56,
+      "off_rank": 81,
+      "def_rating": -1.33,
+      "def_rank": 72
     },
     {
       "ovr_rank": 78,

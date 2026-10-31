@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 30, 2026 at 09:44 AM",
+  "last_updated": "October 31, 2026 at 09:44 AM",
   "league_average": 1.49,
   "classification": 5,
   "teams": [
@@ -280,17 +280,6 @@
     },
     {
       "ovr_rank": 26,
-      "school": "Marquette",
-      "classification": 5,
-      "district": 2,
-      "ovr_rating": 3.37,
-      "off_rating": 1.83,
-      "off_rank": 26,
-      "def_rating": 1.54,
-      "def_rank": 29
-    },
-    {
-      "ovr_rank": 27,
       "school": "Seckman",
       "classification": 5,
       "district": 1,
@@ -299,6 +288,17 @@
       "off_rank": 25,
       "def_rating": 1.53,
       "def_rank": 30
+    },
+    {
+      "ovr_rank": 27,
+      "school": "Marquette",
+      "classification": 5,
+      "district": 2,
+      "ovr_rating": 3.37,
+      "off_rating": 1.83,
+      "off_rank": 26,
+      "def_rating": 1.54,
+      "def_rank": 29
     },
     {
       "ovr_rank": 28,
@@ -324,17 +324,6 @@
     },
     {
       "ovr_rank": 30,
-      "school": "Park Hill South",
-      "classification": 5,
-      "district": 8,
-      "ovr_rating": 3.17,
-      "off_rating": 1.51,
-      "off_rank": 33,
-      "def_rating": 1.65,
-      "def_rank": 24
-    },
-    {
-      "ovr_rank": 31,
       "school": "Republic",
       "classification": 5,
       "district": 5,
@@ -343,6 +332,17 @@
       "off_rank": 30,
       "def_rating": 1.57,
       "def_rank": 26
+    },
+    {
+      "ovr_rank": 31,
+      "school": "Park Hill South",
+      "classification": 5,
+      "district": 8,
+      "ovr_rating": 3.17,
+      "off_rating": 1.51,
+      "off_rank": 33,
+      "def_rating": 1.65,
+      "def_rank": 24
     },
     {
       "ovr_rank": 32,

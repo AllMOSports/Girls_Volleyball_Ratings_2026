@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 30, 2026 at 09:44 AM",
+  "last_updated": "October 31, 2026 at 09:44 AM",
   "league_average": 1.49,
   "classification": 4,
   "teams": [
@@ -247,17 +247,6 @@
     },
     {
       "ovr_rank": 23,
-      "school": "Webster Groves",
-      "classification": 4,
-      "district": 2,
-      "ovr_rating": 2.35,
-      "off_rating": 1.22,
-      "off_rank": 24,
-      "def_rating": 1.14,
-      "def_rank": 20
-    },
-    {
-      "ovr_rank": 24,
       "school": "Willard",
       "classification": 4,
       "district": 6,
@@ -266,6 +255,17 @@
       "off_rank": 23,
       "def_rating": 1.09,
       "def_rank": 22
+    },
+    {
+      "ovr_rank": 24,
+      "school": "Webster Groves",
+      "classification": 4,
+      "district": 2,
+      "ovr_rating": 2.35,
+      "off_rating": 1.22,
+      "off_rank": 24,
+      "def_rating": 1.14,
+      "def_rank": 20
     },
     {
       "ovr_rank": 25,

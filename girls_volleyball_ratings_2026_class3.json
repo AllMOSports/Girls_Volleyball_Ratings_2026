@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 30, 2026 at 09:44 AM",
+  "last_updated": "October 31, 2026 at 09:44 AM",
   "league_average": 1.49,
   "classification": 3,
   "teams": [
@@ -335,17 +335,6 @@
     },
     {
       "ovr_rank": 31,
-      "school": "California",
-      "classification": 3,
-      "district": 8,
-      "ovr_rating": 1.36,
-      "off_rating": 0.7,
-      "off_rank": 31,
-      "def_rating": 0.67,
-      "def_rank": 31
-    },
-    {
-      "ovr_rank": 32,
       "school": "Mountain Grove",
       "classification": 3,
       "district": 10,
@@ -354,6 +343,17 @@
       "off_rank": 34,
       "def_rating": 0.71,
       "def_rank": 29
+    },
+    {
+      "ovr_rank": 32,
+      "school": "California",
+      "classification": 3,
+      "district": 8,
+      "ovr_rating": 1.36,
+      "off_rating": 0.7,
+      "off_rank": 31,
+      "def_rating": 0.67,
+      "def_rank": 31
     },
     {
       "ovr_rank": 33,
@@ -500,17 +500,6 @@
     },
     {
       "ovr_rank": 46,
-      "school": "North County",
-      "classification": 3,
-      "district": 2,
-      "ovr_rating": 0.46,
-      "off_rating": 0.46,
-      "off_rank": 39,
-      "def_rating": 0.0,
-      "def_rank": 53
-    },
-    {
-      "ovr_rank": 47,
       "school": "Center",
       "classification": 3,
       "district": 14,
@@ -519,6 +508,17 @@
       "off_rank": 51,
       "def_rating": 0.3,
       "def_rank": 41
+    },
+    {
+      "ovr_rank": 47,
+      "school": "North County",
+      "classification": 3,
+      "district": 2,
+      "ovr_rating": 0.46,
+      "off_rating": 0.46,
+      "off_rank": 39,
+      "def_rating": 0.0,
+      "def_rank": 53
     },
     {
       "ovr_rank": 48,
@@ -654,17 +654,6 @@
     },
     {
       "ovr_rank": 60,
-      "school": "Villa Duchesne",
-      "classification": 3,
-      "district": 5,
-      "ovr_rating": -0.64,
-      "off_rating": -0.28,
-      "off_rank": 62,
-      "def_rating": -0.35,
-      "def_rank": 61
-    },
-    {
-      "ovr_rank": 61,
       "school": "Chillicothe",
       "classification": 3,
       "district": 16,
@@ -673,6 +662,17 @@
       "off_rank": 63,
       "def_rating": -0.33,
       "def_rank": 60
+    },
+    {
+      "ovr_rank": 61,
+      "school": "Villa Duchesne",
+      "classification": 3,
+      "district": 5,
+      "ovr_rating": -0.64,
+      "off_rating": -0.28,
+      "off_rank": 62,
+      "def_rating": -0.35,
+      "def_rank": 61
     },
     {
       "ovr_rank": 62,

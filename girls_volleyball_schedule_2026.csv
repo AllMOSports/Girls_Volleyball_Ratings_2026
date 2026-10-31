@@ -1027,7 +1027,6 @@ Blue Springs South,2026-10-24,Lee's Summit North,,0,3,L,0.96,2.45,-0.96,-0.55,-1
 "Blue Valley(Stillwell, KS)",2026-09-19,Liberty North,,0,2,L,,,,,,False
 "Blytheville(Blytheville , AR)",2026-08-27,Delta (Deering),,0,3,L,,,,,,False
 "Blytheville(Blytheville , AR)",2026-09-21,Hayti,,3,2,W,,,,,,False
-Bolivar,2026-08-25,Buffalo,,,,,2.23,0.37,,,,False
 Bolivar,2026-08-29,Helias Catholic,,0,2,L,-1.34,3.68,1.34,1.68,3.02,False
 Bolivar,2026-08-29,Lebanon,,0,2,L,0.39,2.04,-0.39,0.04,-0.34,False
 Bolivar,2026-08-29,Summit Christian Academy,,0,2,L,0.51,1.88,-0.51,-0.12,-0.63,False
@@ -1290,9 +1289,6 @@ Brookfield,2026-10-20,South Harrison,,0,3,L,0.49,2.64,-0.49,-0.36,-0.85,False
 "Bryant(Bryant, AR)",2026-09-19,Nixa,,0,2,L,,,,,,False
 "Bryant(Bryant, AR)",2026-09-19,Republic,,2,1,W,,,,,,False
 "Bryant(Bryant, AR)",2026-09-19,Ozark,,1,2,L,,,,,,False
-Buffalo,2026-08-25,Bolivar,,,,,0.37,2.23,,,,False
-Buffalo,2026-08-25,Osage,,,,,-0.7,3.67,,,,False
-Buffalo,2026-08-25,Hillcrest,,,,,0.35,2.3,,,,False
 Buffalo,2026-08-29,Ash Grove,,0,2,L,0.38,2.55,-0.38,0.55,0.17,False
 Buffalo,2026-08-29,El Dorado Springs,,2,0,W,1.58,1.53,0.42,1.53,1.95,False
 Buffalo,2026-08-29,Sparta,,2,0,W,2.24,0.84,-0.24,0.84,0.61,False
@@ -5120,7 +5116,6 @@ Highland,2026-09-19,Lincoln College Prep,,0,2,L,,,,,,False
 "Highland(Highland, AR)",2026-09-12,Marshfield,,0,2,L,,,,,,False
 "Highland(Highland, AR)",2026-09-12,Salem,,0,2,L,,,,,,False
 "Highland(Highland, AR)",2026-09-12,Liberty (Mountain View),,0,2,L,,,,,,False
-Hillcrest,2026-08-25,Buffalo,,,,,2.3,0.35,,,,False
 Hillcrest,2026-08-27,Greenwood,,3,1,W,2.58,0.36,0.42,-0.64,-0.22,False
 Hillcrest,2026-09-01,Glendale,,0,3,L,0.09,2.43,-0.09,-0.57,-0.66,False
 Hillcrest,2026-09-03,Hickman,,0,2,L,0.47,2.04,-0.47,0.04,-0.43,False
@@ -9228,7 +9223,6 @@ Orrick,2026-10-10,Santa Fe,,0,2,L,-1.14,4.04,1.14,2.04,3.18,False
 Orrick,2026-10-12,Sweet Springs,,0,3,L,-0.46,3.87,0.46,0.87,1.33,False
 Orrick,2026-10-14,Brookfield,,1,3,L,1.08,2.17,-0.08,-0.83,-0.91,False
 Orrick,2026-10-20,Santa Fe,,0,3,L,-1.14,4.04,1.14,1.04,2.18,False
-Osage,2026-08-25,Buffalo,,,,,3.67,-0.7,,,,False
 Osage,2026-08-27,Capital City,,3,1,W,2.34,1.08,0.66,0.08,0.74,False
 Osage,2026-09-01,Smith-Cotton,,3,1,W,2.43,0.81,0.57,-0.19,0.37,False
 Osage,2026-09-03,Blair Oaks,,1,3,L,1.09,2.08,-0.09,-0.92,-1.01,False

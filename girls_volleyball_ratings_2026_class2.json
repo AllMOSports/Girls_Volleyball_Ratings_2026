@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 30, 2026 at 09:44 AM",
+  "last_updated": "October 31, 2026 at 09:44 AM",
   "league_average": 1.49,
   "classification": 2,
   "teams": [
@@ -137,17 +137,6 @@
     },
     {
       "ovr_rank": 13,
-      "school": "Lone Jack",
-      "classification": 2,
-      "district": 13,
-      "ovr_rating": 1.28,
-      "off_rating": 0.62,
-      "off_rank": 13,
-      "def_rating": 0.66,
-      "def_rank": 13
-    },
-    {
-      "ovr_rank": 14,
       "school": "Warsaw",
       "classification": 2,
       "district": 12,
@@ -156,6 +145,17 @@
       "off_rank": 12,
       "def_rating": 0.61,
       "def_rank": 15
+    },
+    {
+      "ovr_rank": 14,
+      "school": "Lone Jack",
+      "classification": 2,
+      "district": 13,
+      "ovr_rating": 1.28,
+      "off_rating": 0.62,
+      "off_rank": 13,
+      "def_rating": 0.66,
+      "def_rank": 13
     },
     {
       "ovr_rank": 15,
@@ -588,17 +588,6 @@
     },
     {
       "ovr_rank": 54,
-      "school": "Pleasant Hope",
-      "classification": 2,
-      "district": 9,
-      "ovr_rating": -1.46,
-      "off_rating": -0.85,
-      "off_rank": 65,
-      "def_rating": -0.62,
-      "def_rank": 50
-    },
-    {
-      "ovr_rank": 55,
       "school": "Thayer",
       "classification": 2,
       "district": 8,
@@ -607,6 +596,17 @@
       "off_rank": 54,
       "def_rating": -0.87,
       "def_rank": 58
+    },
+    {
+      "ovr_rank": 55,
+      "school": "Pleasant Hope",
+      "classification": 2,
+      "district": 9,
+      "ovr_rating": -1.46,
+      "off_rating": -0.85,
+      "off_rank": 65,
+      "def_rating": -0.62,
+      "def_rank": 50
     },
     {
       "ovr_rank": 56,

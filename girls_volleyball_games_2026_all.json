@@ -254,39 +254,6 @@
   },
   {
     "date": "2026-08-25",
-    "team1": "Bolivar",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Buffalo",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-08-25",
-    "team1": "Osage",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Buffalo",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-08-25",
-    "team1": "Hillcrest",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Buffalo",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-08-25",
     "team1": "Hayti",
     "team1_classified": true,
     "score1": null,
