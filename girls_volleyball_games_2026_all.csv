@@ -7077,23 +7077,33 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-29,Nevada,True,3,Clever,True,1,False,False
 2026-10-29,Notre Dame de Sion,True,0,Oak Grove,True,3,False,False
 2026-10-29,Savannah,True,0,St. Pius X (Kansas City),True,3,False,False
-2026-10-31,Valle Catholic,True,,Gideon,True,,False,False
-2026-10-31,Winona,True,,Lesterville,True,,False,False
-2026-10-31,Liberal,True,,Billings,True,,False,False
-2026-10-31,Rock Port,True,,Osceola,True,,False,False
-2026-10-31,Arcadia Valley,True,,Woodland,True,,False,False
-2026-10-31,Liberty (Mountain View),True,,Linn,True,,False,False
-2026-10-31,Cole Camp,True,,New Covenant Academy,True,,False,False
-2026-10-31,Mid-Buchanan,True,,Adrian,True,,False,False
-2026-10-31,John Burroughs,True,,Potosi,True,,False,False
-2026-10-31,Blair Oaks,True,,St. Francis Borgia,True,,False,False
-2026-10-31,Nevada,True,,Sullivan,True,,False,False
-2026-10-31,St. Pius X (Kansas City),True,,Oak Grove,True,,False,False
-2026-10-31,Rockwood Summit,True,,Festus,True,,False,False
-2026-10-31,St. Dominic,True,,St. Joseph's Academy,True,,False,False
-2026-10-31,West Plains,True,,Helias Catholic,True,,False,False
-2026-10-31,Smithville,True,,St. Teresa's Academy,True,,False,False
-2026-10-31,Lafayette (Wildwood),True,,Jackson,True,,False,False
-2026-10-31,Rock Bridge,True,,Incarnate Word Academy,True,,False,False
-2026-10-31,Lee's Summit West,True,,Ozark,True,,False,False
-2026-10-31,Liberty North,True,,Lee's Summit North,True,,False,False
+2026-10-31,Valle Catholic,True,3,Gideon,True,0,False,False
+2026-10-31,Winona,True,3,Lesterville,True,0,False,False
+2026-10-31,Liberal,True,2,Billings,True,3,False,False
+2026-10-31,Rock Port,True,3,Osceola,True,0,False,False
+2026-10-31,Arcadia Valley,True,1,Woodland,True,3,False,False
+2026-10-31,Liberty (Mountain View),True,3,Linn,True,2,False,False
+2026-10-31,Cole Camp,True,0,New Covenant Academy,True,3,False,False
+2026-10-31,Mid-Buchanan,True,3,Adrian,True,2,False,False
+2026-10-31,John Burroughs,True,1,Potosi,True,3,False,False
+2026-10-31,Blair Oaks,True,2,St. Francis Borgia,True,3,False,False
+2026-10-31,Nevada,True,3,Sullivan,True,1,False,False
+2026-10-31,St. Pius X (Kansas City),True,1,Oak Grove,True,3,False,False
+2026-10-31,Rockwood Summit,True,3,Festus,True,0,False,False
+2026-10-31,St. Dominic,True,3,St. Joseph's Academy,True,0,False,False
+2026-10-31,West Plains,True,0,Helias Catholic,True,3,False,False
+2026-10-31,Smithville,True,3,St. Teresa's Academy,True,0,False,False
+2026-10-31,Lafayette (Wildwood),True,3,Jackson,True,0,False,False
+2026-10-31,Rock Bridge,True,1,Incarnate Word Academy,True,3,False,False
+2026-10-31,Lee's Summit West,True,3,Ozark,True,2,False,False
+2026-10-31,Liberty North,True,2,Lee's Summit North,True,3,False,False
+2026-11-04,Winona,True,,Valle Catholic,True,,False,False
+2026-11-04,Rock Port,True,,Billings,True,,False,False
+2026-11-04,Liberty (Mountain View),True,,Woodland,True,,False,False
+2026-11-04,Mid-Buchanan,True,,New Covenant Academy,True,,False,False
+2026-11-05,St. Dominic,True,,Rockwood Summit,True,,False,False
+2026-11-05,Smithville,True,,Helias Catholic,True,,False,False
+2026-11-06,St. Francis Borgia,True,,Potosi,True,,False,False
+2026-11-06,Oak Grove,True,,Nevada,True,,False,False
+2026-11-06,Incarnate Word Academy,True,,Lafayette (Wildwood),True,,False,False
+2026-11-06,Lee's Summit North,True,,Lee's Summit West,True,,False,False
