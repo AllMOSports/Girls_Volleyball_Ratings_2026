@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 01, 2026 at 10:44 AM",
+  "last_updated": "November 02, 2026 at 10:44 AM",
   "league_average": 1.49,
   "classification": 5,
   "teams": [
@@ -324,17 +324,6 @@
     },
     {
       "ovr_rank": 30,
-      "school": "Republic",
-      "classification": 5,
-      "district": 5,
-      "ovr_rating": 3.18,
-      "off_rating": 1.6,
-      "off_rank": 30,
-      "def_rating": 1.57,
-      "def_rank": 26
-    },
-    {
-      "ovr_rank": 31,
       "school": "Park Hill South",
       "classification": 5,
       "district": 8,
@@ -343,6 +332,17 @@
       "off_rank": 32,
       "def_rating": 1.67,
       "def_rank": 24
+    },
+    {
+      "ovr_rank": 31,
+      "school": "Republic",
+      "classification": 5,
+      "district": 5,
+      "ovr_rating": 3.18,
+      "off_rating": 1.6,
+      "off_rank": 30,
+      "def_rating": 1.57,
+      "def_rank": 26
     },
     {
       "ovr_rank": 32,
@@ -643,17 +643,6 @@
     },
     {
       "ovr_rank": 59,
-      "school": "Poplar Bluff",
-      "classification": 5,
-      "district": 1,
-      "ovr_rating": 0.07,
-      "off_rating": -0.03,
-      "off_rank": 60,
-      "def_rating": 0.11,
-      "def_rank": 57
-    },
-    {
-      "ovr_rank": 60,
       "school": "Northwest (Cedar Hill)",
       "classification": 5,
       "district": 1,
@@ -662,6 +651,17 @@
       "off_rank": 59,
       "def_rating": 0.09,
       "def_rank": 58
+    },
+    {
+      "ovr_rank": 60,
+      "school": "Poplar Bluff",
+      "classification": 5,
+      "district": 1,
+      "ovr_rating": 0.07,
+      "off_rating": -0.03,
+      "off_rank": 60,
+      "def_rating": 0.11,
+      "def_rank": 57
     },
     {
       "ovr_rank": 61,
