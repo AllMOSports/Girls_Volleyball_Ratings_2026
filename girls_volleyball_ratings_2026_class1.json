@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 02, 2026 at 10:44 AM",
+  "last_updated": "November 03, 2026 at 10:44 AM",
   "league_average": 1.49,
   "classification": 1,
   "teams": [
@@ -192,17 +192,6 @@
     },
     {
       "ovr_rank": 18,
-      "school": "Santa Fe",
-      "classification": 1,
-      "district": 15,
-      "ovr_rating": 0.34,
-      "off_rating": 0.07,
-      "off_rank": 20,
-      "def_rating": 0.27,
-      "def_rank": 16
-    },
-    {
-      "ovr_rank": 19,
       "school": "Concordia",
       "classification": 1,
       "district": 12,
@@ -211,6 +200,17 @@
       "off_rank": 19,
       "def_rating": 0.2,
       "def_rank": 18
+    },
+    {
+      "ovr_rank": 19,
+      "school": "Santa Fe",
+      "classification": 1,
+      "district": 15,
+      "ovr_rating": 0.34,
+      "off_rating": 0.07,
+      "off_rank": 20,
+      "def_rating": 0.27,
+      "def_rank": 16
     },
     {
       "ovr_rank": 20,
@@ -357,17 +357,6 @@
     },
     {
       "ovr_rank": 33,
-      "school": "Sacred Heart",
-      "classification": 1,
-      "district": 14,
-      "ovr_rating": -0.54,
-      "off_rating": -0.1,
-      "off_rank": 29,
-      "def_rating": -0.44,
-      "def_rank": 35
-    },
-    {
-      "ovr_rank": 34,
       "school": "St. Paul Lutheran (Farmington)",
       "classification": 1,
       "district": 4,
@@ -376,6 +365,17 @@
       "off_rank": 35,
       "def_rating": -0.17,
       "def_rank": 28
+    },
+    {
+      "ovr_rank": 34,
+      "school": "Sacred Heart",
+      "classification": 1,
+      "district": 14,
+      "ovr_rating": -0.54,
+      "off_rating": -0.1,
+      "off_rank": 29,
+      "def_rating": -0.44,
+      "def_rank": 35
     },
     {
       "ovr_rank": 35,
@@ -390,17 +390,6 @@
     },
     {
       "ovr_rank": 36,
-      "school": "Greenfield",
-      "classification": 1,
-      "district": 10,
-      "ovr_rating": -0.87,
-      "off_rating": -0.41,
-      "off_rank": 37,
-      "def_rating": -0.46,
-      "def_rank": 38
-    },
-    {
-      "ovr_rank": 37,
       "school": "South Holt with Craig",
       "classification": 1,
       "district": 16,
@@ -409,6 +398,17 @@
       "off_rank": 40,
       "def_rating": -0.41,
       "def_rank": 33
+    },
+    {
+      "ovr_rank": 37,
+      "school": "Greenfield",
+      "classification": 1,
+      "district": 10,
+      "ovr_rating": -0.87,
+      "off_rating": -0.41,
+      "off_rank": 37,
+      "def_rating": -0.46,
+      "def_rank": 38
     },
     {
       "ovr_rank": 38,
@@ -533,17 +533,6 @@
     },
     {
       "ovr_rank": 49,
-      "school": "Crane",
-      "classification": 1,
-      "district": 9,
-      "ovr_rating": -1.38,
-      "off_rating": -0.64,
-      "off_rank": 46,
-      "def_rating": -0.74,
-      "def_rank": 52
-    },
-    {
-      "ovr_rank": 50,
       "school": "Green Ridge",
       "classification": 1,
       "district": 13,
@@ -552,6 +541,17 @@
       "off_rank": 55,
       "def_rating": -0.53,
       "def_rank": 43
+    },
+    {
+      "ovr_rank": 50,
+      "school": "Crane",
+      "classification": 1,
+      "district": 9,
+      "ovr_rating": -1.38,
+      "off_rating": -0.64,
+      "off_rank": 46,
+      "def_rating": -0.74,
+      "def_rank": 52
     },
     {
       "ovr_rank": 51,
@@ -599,14 +599,14 @@
     },
     {
       "ovr_rank": 55,
-      "school": "South Pemiscot",
+      "school": "Lincoln",
       "classification": 1,
-      "district": 1,
+      "district": 13,
       "ovr_rating": -1.87,
-      "off_rating": -0.85,
-      "off_rank": 56,
-      "def_rating": -1.02,
-      "def_rank": 56
+      "off_rating": -0.81,
+      "off_rank": 54,
+      "def_rating": -1.06,
+      "def_rank": 57
     },
     {
       "ovr_rank": 56,
@@ -621,14 +621,14 @@
     },
     {
       "ovr_rank": 57,
-      "school": "Lincoln",
+      "school": "South Pemiscot",
       "classification": 1,
-      "district": 13,
+      "district": 1,
       "ovr_rating": -1.87,
-      "off_rating": -0.81,
-      "off_rank": 54,
-      "def_rating": -1.06,
-      "def_rank": 57
+      "off_rating": -0.85,
+      "off_rank": 56,
+      "def_rating": -1.02,
+      "def_rank": 56
     },
     {
       "ovr_rank": 58,
@@ -665,17 +665,6 @@
     },
     {
       "ovr_rank": 61,
-      "school": "Purdy",
-      "classification": 1,
-      "district": 9,
-      "ovr_rating": -2.15,
-      "off_rating": -1.03,
-      "off_rank": 64,
-      "def_rating": -1.12,
-      "def_rank": 60
-    },
-    {
-      "ovr_rank": 62,
       "school": "Verona",
       "classification": 1,
       "district": 9,
@@ -684,6 +673,17 @@
       "off_rank": 61,
       "def_rating": -1.15,
       "def_rank": 61
+    },
+    {
+      "ovr_rank": 62,
+      "school": "Purdy",
+      "classification": 1,
+      "district": 9,
+      "ovr_rating": -2.15,
+      "off_rating": -1.03,
+      "off_rank": 64,
+      "def_rating": -1.12,
+      "def_rank": 60
     },
     {
       "ovr_rank": 63,
