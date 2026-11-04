@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 03, 2026 at 10:44 AM",
+  "last_updated": "November 04, 2026 at 10:44 AM",
   "league_average": 1.49,
   "classification": 3,
   "teams": [
@@ -340,7 +340,7 @@
       "district": 8,
       "ovr_rating": 1.35,
       "off_rating": 0.69,
-      "off_rank": 32,
+      "off_rank": 33,
       "def_rating": 0.66,
       "def_rank": 31
     },
@@ -407,7 +407,7 @@
       "ovr_rating": 0.92,
       "off_rating": 0.31,
       "off_rank": 42,
-      "def_rating": 0.61,
+      "def_rating": 0.62,
       "def_rank": 32
     },
     {
@@ -415,9 +415,9 @@
       "school": "Notre Dame (St. Louis)",
       "classification": 3,
       "district": 3,
-      "ovr_rating": 0.88,
-      "off_rating": 0.68,
-      "off_rank": 33,
+      "ovr_rating": 0.89,
+      "off_rating": 0.69,
+      "off_rank": 32,
       "def_rating": 0.2,
       "def_rank": 43
     },
@@ -594,7 +594,7 @@
       "ovr_rating": -0.06,
       "off_rating": -0.08,
       "off_rank": 56,
-      "def_rating": 0.01,
+      "def_rating": 0.02,
       "def_rank": 51
     },
     {
@@ -682,7 +682,7 @@
       "ovr_rating": -0.66,
       "off_rating": -0.29,
       "off_rank": 62,
-      "def_rating": -0.37,
+      "def_rating": -0.36,
       "def_rank": 61
     },
     {
@@ -698,17 +698,6 @@
     },
     {
       "ovr_rank": 64,
-      "school": "Centralia",
-      "classification": 3,
-      "district": 7,
-      "ovr_rating": -1.1,
-      "off_rating": -0.44,
-      "off_rank": 65,
-      "def_rating": -0.66,
-      "def_rank": 65
-    },
-    {
-      "ovr_rank": 65,
       "school": "Aurora",
       "classification": 3,
       "district": 11,
@@ -717,6 +706,17 @@
       "off_rank": 64,
       "def_rating": -0.76,
       "def_rank": 68
+    },
+    {
+      "ovr_rank": 65,
+      "school": "Centralia",
+      "classification": 3,
+      "district": 7,
+      "ovr_rating": -1.1,
+      "off_rating": -0.44,
+      "off_rank": 65,
+      "def_rating": -0.66,
+      "def_rank": 65
     },
     {
       "ovr_rank": 66,
@@ -855,10 +855,10 @@
       "school": "STEAM Academy",
       "classification": 3,
       "district": 4,
-      "ovr_rating": -2.72,
+      "ovr_rating": -2.73,
       "off_rating": -1.34,
       "off_rank": 77,
-      "def_rating": -1.38,
+      "def_rating": -1.39,
       "def_rank": 78
     },
     {
@@ -888,7 +888,7 @@
       "school": "Lift for Life Academy Charter",
       "classification": 3,
       "district": 3,
-      "ovr_rating": -3.55,
+      "ovr_rating": -3.56,
       "off_rating": -1.64,
       "off_rank": 80,
       "def_rating": -1.92,
@@ -976,10 +976,10 @@
       "school": "Vashon",
       "classification": 3,
       "district": 4,
-      "ovr_rating": -6.08,
+      "ovr_rating": -6.09,
       "off_rating": -2.87,
       "off_rank": 88,
-      "def_rating": -3.21,
+      "def_rating": -3.22,
       "def_rank": 89
     },
     {

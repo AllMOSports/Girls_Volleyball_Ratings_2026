@@ -25600,7 +25600,7 @@
     "team1": "Notre Dame (St. Louis)",
     "score1": 3,
     "team2": "Bishop DuBourg",
-    "score2": 0,
+    "score2": null,
     "forfeit": false,
     "overtime": false
   },

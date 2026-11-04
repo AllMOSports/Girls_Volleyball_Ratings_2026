@@ -3265,7 +3265,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-21,Chillicothe,True,0,Benton,True,3,False,False
 2026-09-21,Poplar Bluff,True,3,Bernie,True,2,False,False
 2026-09-21,Parkview,True,0,Billings,True,3,False,False
-2026-09-21,Notre Dame (St. Louis),True,3,Bishop DuBourg,True,0,False,False
+2026-09-21,Notre Dame (St. Louis),True,3,Bishop DuBourg,True,,False,False
 2026-09-21,Cristo Rey,True,0,"Bishop Ward(Kansas City, KS)",False,3,False,False
 2026-09-21,Sikeston,True,3,Bloomfield,True,0,False,False
 2026-09-21,Liberty,True,1,Blue Springs,True,3,False,False

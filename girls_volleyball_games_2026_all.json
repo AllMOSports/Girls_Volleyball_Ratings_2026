@@ -35932,7 +35932,7 @@
     "score1": 3,
     "team2": "Bishop DuBourg",
     "team2_classified": true,
-    "score2": 0,
+    "score2": null,
     "forfeit": false,
     "overtime": false
   },
