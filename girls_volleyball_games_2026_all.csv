@@ -6047,6 +6047,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-12,New Covenant Academy,True,3,Sparta,True,0,False,False
 2026-10-12,Duchesne,True,3,St. Charles West,True,1,False,False
 2026-10-12,Belle,True,3,St. James,True,0,False,False
+2026-10-12,Vashon,True,0,St. Louis Ignite,False,3,False,False
 2026-10-12,St. Joseph's Academy,True,3,St. Pius X (Festus),True,0,False,False
 2026-10-12,Kearney,True,0,St. Pius X (Kansas City),True,3,False,False
 2026-10-12,Skyline,True,3,Stover,True,2,False,False
@@ -6072,7 +6073,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-12,Zalma,True,,Marquand-Zion,False,,False,False
 2026-10-12,Normandy Collaborative,False,,McCluer,True,,False,False
 2026-10-12,Ladue Horton Watkins,True,,Pattonville,True,,False,False
-2026-10-12,Vashon,True,,St. Louis Ignite,False,,False,False
 2026-10-13,Fox,True,3,Affton,True,0,False,False
 2026-10-13,Central (Park Hills),True,1,Arcadia Valley,True,2,False,False
 2026-10-13,Seymour,True,1,Bakersfield,True,3,False,False
@@ -7097,10 +7097,14 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-31,Rock Bridge,True,1,Incarnate Word Academy,True,3,False,False
 2026-10-31,Lee's Summit West,True,3,Ozark,True,2,False,False
 2026-10-31,Liberty North,True,2,Lee's Summit North,True,3,False,False
-2026-11-04,Winona,True,,Valle Catholic,True,,False,False
-2026-11-04,Rock Port,True,,Billings,True,,False,False
-2026-11-04,Liberty (Mountain View),True,,Woodland,True,,False,False
-2026-11-04,Mid-Buchanan,True,,New Covenant Academy,True,,False,False
+2026-11-04,Winona,True,2,Valle Catholic,True,3,False,False
+2026-11-04,Rock Port,True,3,Billings,True,0,False,False
+2026-11-04,Liberty (Mountain View),True,2,Woodland,True,3,False,False
+2026-11-04,Mid-Buchanan,True,2,New Covenant Academy,True,3,False,False
+2026-11-05,Rock Port,True,,Valle Catholic,True,,False,False
+2026-11-05,Billings,True,,Winona,True,,False,False
+2026-11-05,New Covenant Academy,True,,Woodland,True,,False,False
+2026-11-05,Mid-Buchanan,True,,Liberty (Mountain View),True,,False,False
 2026-11-05,St. Dominic,True,,Rockwood Summit,True,,False,False
 2026-11-05,Smithville,True,,Helias Catholic,True,,False,False
 2026-11-06,St. Francis Borgia,True,,Potosi,True,,False,False

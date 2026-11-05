@@ -57035,6 +57035,42 @@
   {
     "date": "2026-11-04",
     "team1": "Winona",
+    "score1": 2,
+    "team2": "Valle Catholic",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-04",
+    "team1": "Rock Port",
+    "score1": 3,
+    "team2": "Billings",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-04",
+    "team1": "Liberty (Mountain View)",
+    "score1": 2,
+    "team2": "Woodland",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-04",
+    "team1": "Mid-Buchanan",
+    "score1": 2,
+    "team2": "New Covenant Academy",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-05",
+    "team1": "Rock Port",
     "score1": null,
     "team2": "Valle Catholic",
     "score2": null,
@@ -57042,17 +57078,17 @@
     "overtime": false
   },
   {
-    "date": "2026-11-04",
-    "team1": "Rock Port",
+    "date": "2026-11-05",
+    "team1": "Billings",
     "score1": null,
-    "team2": "Billings",
+    "team2": "Winona",
     "score2": null,
     "forfeit": false,
     "overtime": false
   },
   {
-    "date": "2026-11-04",
-    "team1": "Liberty (Mountain View)",
+    "date": "2026-11-05",
+    "team1": "New Covenant Academy",
     "score1": null,
     "team2": "Woodland",
     "score2": null,
@@ -57060,10 +57096,10 @@
     "overtime": false
   },
   {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "team1": "Mid-Buchanan",
     "score1": null,
-    "team2": "New Covenant Academy",
+    "team2": "Liberty (Mountain View)",
     "score2": null,
     "forfeit": false,
     "overtime": false
