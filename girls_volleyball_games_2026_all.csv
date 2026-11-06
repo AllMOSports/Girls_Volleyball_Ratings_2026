@@ -7101,13 +7101,15 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-04,Rock Port,True,3,Billings,True,0,False,False
 2026-11-04,Liberty (Mountain View),True,2,Woodland,True,3,False,False
 2026-11-04,Mid-Buchanan,True,2,New Covenant Academy,True,3,False,False
-2026-11-05,Rock Port,True,,Valle Catholic,True,,False,False
-2026-11-05,Billings,True,,Winona,True,,False,False
-2026-11-05,New Covenant Academy,True,,Woodland,True,,False,False
-2026-11-05,Mid-Buchanan,True,,Liberty (Mountain View),True,,False,False
-2026-11-05,St. Dominic,True,,Rockwood Summit,True,,False,False
-2026-11-05,Smithville,True,,Helias Catholic,True,,False,False
+2026-11-05,Rock Port,True,3,Valle Catholic,True,2,False,False
+2026-11-05,Billings,True,2,Winona,True,3,False,False
+2026-11-05,New Covenant Academy,True,3,Woodland,True,0,False,False
+2026-11-05,Mid-Buchanan,True,0,Liberty (Mountain View),True,3,False,False
+2026-11-05,St. Dominic,True,3,Rockwood Summit,True,1,False,False
+2026-11-05,Smithville,True,0,Helias Catholic,True,3,False,False
 2026-11-06,St. Francis Borgia,True,,Potosi,True,,False,False
 2026-11-06,Oak Grove,True,,Nevada,True,,False,False
+2026-11-06,Helias Catholic,True,,St. Dominic,True,,False,False
+2026-11-06,Smithville,True,,Rockwood Summit,True,,False,False
 2026-11-06,Incarnate Word Academy,True,,Lafayette (Wildwood),True,,False,False
 2026-11-06,Lee's Summit North,True,,Lee's Summit West,True,,False,False

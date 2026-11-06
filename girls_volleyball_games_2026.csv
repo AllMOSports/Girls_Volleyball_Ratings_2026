@@ -6340,13 +6340,15 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-11-04,Rock Port,3,Billings,0,False,False
 2026-11-04,Liberty (Mountain View),2,Woodland,3,False,False
 2026-11-04,Mid-Buchanan,2,New Covenant Academy,3,False,False
-2026-11-05,Rock Port,,Valle Catholic,,False,False
-2026-11-05,Billings,,Winona,,False,False
-2026-11-05,New Covenant Academy,,Woodland,,False,False
-2026-11-05,Mid-Buchanan,,Liberty (Mountain View),,False,False
-2026-11-05,St. Dominic,,Rockwood Summit,,False,False
-2026-11-05,Smithville,,Helias Catholic,,False,False
+2026-11-05,Rock Port,3,Valle Catholic,2,False,False
+2026-11-05,Billings,2,Winona,3,False,False
+2026-11-05,New Covenant Academy,3,Woodland,0,False,False
+2026-11-05,Mid-Buchanan,0,Liberty (Mountain View),3,False,False
+2026-11-05,St. Dominic,3,Rockwood Summit,1,False,False
+2026-11-05,Smithville,0,Helias Catholic,3,False,False
 2026-11-06,St. Francis Borgia,,Potosi,,False,False
 2026-11-06,Oak Grove,,Nevada,,False,False
+2026-11-06,Helias Catholic,,St. Dominic,,False,False
+2026-11-06,Smithville,,Rockwood Summit,,False,False
 2026-11-06,Incarnate Word Academy,,Lafayette (Wildwood),,False,False
 2026-11-06,Lee's Summit North,,Lee's Summit West,,False,False

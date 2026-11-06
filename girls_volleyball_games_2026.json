@@ -57071,54 +57071,54 @@
   {
     "date": "2026-11-05",
     "team1": "Rock Port",
-    "score1": null,
+    "score1": 3,
     "team2": "Valle Catholic",
-    "score2": null,
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-05",
     "team1": "Billings",
-    "score1": null,
+    "score1": 2,
     "team2": "Winona",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-05",
     "team1": "New Covenant Academy",
-    "score1": null,
+    "score1": 3,
     "team2": "Woodland",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-05",
     "team1": "Mid-Buchanan",
-    "score1": null,
+    "score1": 0,
     "team2": "Liberty (Mountain View)",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-05",
     "team1": "St. Dominic",
-    "score1": null,
+    "score1": 3,
     "team2": "Rockwood Summit",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-05",
     "team1": "Smithville",
-    "score1": null,
+    "score1": 0,
     "team2": "Helias Catholic",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
@@ -57136,6 +57136,24 @@
     "team1": "Oak Grove",
     "score1": null,
     "team2": "Nevada",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-06",
+    "team1": "Helias Catholic",
+    "score1": null,
+    "team2": "St. Dominic",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-06",
+    "team1": "Smithville",
+    "score1": null,
+    "team2": "Rockwood Summit",
     "score2": null,
     "forfeit": false,
     "overtime": false
