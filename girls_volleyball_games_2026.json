@@ -43921,6 +43921,15 @@
   },
   {
     "date": "2026-10-08",
+    "team1": "Charleston",
+    "score1": 0,
+    "team2": "Kelly",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-08",
     "team1": "Waynesville",
     "score1": 0,
     "team2": "Kickapoo",
@@ -44744,15 +44753,6 @@
     "score1": 3,
     "team2": "Wright City",
     "score2": 0,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
-    "team1": "Charleston",
-    "score1": null,
-    "team2": "Kelly",
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -57125,6 +57125,69 @@
   {
     "date": "2026-11-06",
     "team1": "St. Francis Borgia",
+    "score1": 3,
+    "team2": "Potosi",
+    "score2": 2,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-06",
+    "team1": "Oak Grove",
+    "score1": 3,
+    "team2": "Nevada",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-06",
+    "team1": "Helias Catholic",
+    "score1": 1,
+    "team2": "St. Dominic",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-06",
+    "team1": "Smithville",
+    "score1": 3,
+    "team2": "Rockwood Summit",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-06",
+    "team1": "Incarnate Word Academy",
+    "score1": 0,
+    "team2": "Lafayette (Wildwood)",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-06",
+    "team1": "Lee's Summit North",
+    "score1": 2,
+    "team2": "Lee's Summit West",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-07",
+    "team1": "Oak Grove",
+    "score1": null,
+    "team2": "St. Francis Borgia",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-11-07",
+    "team1": "Nevada",
     "score1": null,
     "team2": "Potosi",
     "score2": null,
@@ -57132,35 +57195,8 @@
     "overtime": false
   },
   {
-    "date": "2026-11-06",
-    "team1": "Oak Grove",
-    "score1": null,
-    "team2": "Nevada",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-06",
-    "team1": "Helias Catholic",
-    "score1": null,
-    "team2": "St. Dominic",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-06",
-    "team1": "Smithville",
-    "score1": null,
-    "team2": "Rockwood Summit",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-11-06",
-    "team1": "Incarnate Word Academy",
+    "date": "2026-11-07",
+    "team1": "Lee's Summit West",
     "score1": null,
     "team2": "Lafayette (Wildwood)",
     "score2": null,
@@ -57168,10 +57204,10 @@
     "overtime": false
   },
   {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "team1": "Lee's Summit North",
     "score1": null,
-    "team2": "Lee's Summit West",
+    "team2": "Incarnate Word Academy",
     "score2": null,
     "forfeit": false,
     "overtime": false

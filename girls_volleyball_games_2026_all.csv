@@ -5447,6 +5447,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-07,Jackson,True,3,Incarnate Word Academy,True,0,False,False
 2026-10-07,Hillsboro,True,3,Jefferson (Festus),True,1,False,False
 2026-10-07,Hazelwood East,True,3,Jennings,True,0,False,False
+2026-10-07,"Cairo(Cairo, IL)",False,0,Kelly,True,3,False,False
 2026-10-07,Ballard,True,1,Kingsville,True,3,False,False
 2026-10-07,Southeast,True,0,KIPP KC Legacy,True,3,False,False
 2026-10-07,Stover,True,2,La Monte,True,0,False,False
@@ -5476,7 +5477,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-07,Metro,True,1,Villa Duchesne,True,3,False,False
 2026-10-07,Tipton,True,0,Warsaw,True,3,False,False
 2026-10-07,Normandy Collaborative,False,,Hazelwood East,True,,False,False
-2026-10-07,"Cairo(Cairo, IL)",False,,Kelly,True,,False,False
 2026-10-07,Confluence Prep Academy Charter with Grand Center Arts Charter,True,,"Madison(Madison, IL)",False,,False,False
 2026-10-07,McCluer North,True,,Normandy Collaborative,False,,False,False
 2026-10-07,Perryville,True,,Northwest (Cedar Hill),True,,False,False
@@ -5557,6 +5557,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-08,Visitation Academy,True,0,John Burroughs,True,3,False,False
 2026-10-08,Webb City,True,3,Joplin,True,1,False,False
 2026-10-08,Raytown South,True,0,Kearney,True,3,False,False
+2026-10-08,Charleston,True,0,Kelly,True,3,False,False
 2026-10-08,Waynesville,True,0,Kickapoo,True,3,False,False
 2026-10-08,Webster Groves,True,0,Kirkwood,True,3,False,False
 2026-10-08,Nevada,True,3,Lamar,True,0,False,False
@@ -5654,7 +5655,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-08,Smithville,True,3,Winnetonka,True,0,False,False
 2026-10-08,Warrenton,True,3,Wright City,True,0,False,False
 2026-10-08,Confluence Prep Academy Charter with Grand Center Arts Charter,True,,Gateway Legacy Sr. H.,False,,False,False
-2026-10-08,Charleston,True,,Kelly,True,,False,False
 2026-10-08,Ladue Horton Watkins,True,,Seckman,True,,False,False
 2026-10-09,Ellington,True,3,Arcadia Valley,True,1,False,False
 2026-10-09,Hume,True,0,Ballard,True,3,False,False
@@ -7107,9 +7107,13 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-05,Mid-Buchanan,True,0,Liberty (Mountain View),True,3,False,False
 2026-11-05,St. Dominic,True,3,Rockwood Summit,True,1,False,False
 2026-11-05,Smithville,True,0,Helias Catholic,True,3,False,False
-2026-11-06,St. Francis Borgia,True,,Potosi,True,,False,False
-2026-11-06,Oak Grove,True,,Nevada,True,,False,False
-2026-11-06,Helias Catholic,True,,St. Dominic,True,,False,False
-2026-11-06,Smithville,True,,Rockwood Summit,True,,False,False
-2026-11-06,Incarnate Word Academy,True,,Lafayette (Wildwood),True,,False,False
-2026-11-06,Lee's Summit North,True,,Lee's Summit West,True,,False,False
+2026-11-06,St. Francis Borgia,True,3,Potosi,True,2,False,False
+2026-11-06,Oak Grove,True,3,Nevada,True,0,False,False
+2026-11-06,Helias Catholic,True,1,St. Dominic,True,3,False,False
+2026-11-06,Smithville,True,3,Rockwood Summit,True,1,False,False
+2026-11-06,Incarnate Word Academy,True,0,Lafayette (Wildwood),True,3,False,False
+2026-11-06,Lee's Summit North,True,2,Lee's Summit West,True,3,False,False
+2026-11-07,Oak Grove,True,,St. Francis Borgia,True,,False,False
+2026-11-07,Nevada,True,,Potosi,True,,False,False
+2026-11-07,Lee's Summit West,True,,Lafayette (Wildwood),True,,False,False
+2026-11-07,Lee's Summit North,True,,Incarnate Word Academy,True,,False,False
