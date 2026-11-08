@@ -57179,36 +57179,36 @@
   {
     "date": "2026-11-07",
     "team1": "Oak Grove",
-    "score1": null,
+    "score1": 3,
     "team2": "St. Francis Borgia",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-07",
     "team1": "Nevada",
-    "score1": null,
+    "score1": 1,
     "team2": "Potosi",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-07",
     "team1": "Lee's Summit West",
-    "score1": null,
+    "score1": 2,
     "team2": "Lafayette (Wildwood)",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-11-07",
     "team1": "Lee's Summit North",
-    "score1": null,
+    "score1": 3,
     "team2": "Incarnate Word Academy",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   }

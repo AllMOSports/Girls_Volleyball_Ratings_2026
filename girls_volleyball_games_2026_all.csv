@@ -7113,7 +7113,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-11-06,Smithville,True,3,Rockwood Summit,True,1,False,False
 2026-11-06,Incarnate Word Academy,True,0,Lafayette (Wildwood),True,3,False,False
 2026-11-06,Lee's Summit North,True,2,Lee's Summit West,True,3,False,False
-2026-11-07,Oak Grove,True,,St. Francis Borgia,True,,False,False
-2026-11-07,Nevada,True,,Potosi,True,,False,False
-2026-11-07,Lee's Summit West,True,,Lafayette (Wildwood),True,,False,False
-2026-11-07,Lee's Summit North,True,,Incarnate Word Academy,True,,False,False
+2026-11-07,Oak Grove,True,3,St. Francis Borgia,True,0,False,False
+2026-11-07,Nevada,True,1,Potosi,True,3,False,False
+2026-11-07,Lee's Summit West,True,2,Lafayette (Wildwood),True,3,False,False
+2026-11-07,Lee's Summit North,True,3,Incarnate Word Academy,True,0,False,False
