@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 08, 2026 at 10:43 AM",
+  "last_updated": "November 10, 2026 at 10:44 AM",
   "league_average": 1.49,
   "teams": [
     {
@@ -246,17 +246,6 @@
     },
     {
       "ovr_rank": 23,
-      "school": "Blue Springs South",
-      "classification": 5,
-      "district": 7,
-      "ovr_rating": 4.33,
-      "off_rating": 2.39,
-      "off_rank": 18,
-      "def_rating": 1.94,
-      "def_rank": 33
-    },
-    {
-      "ovr_rank": 24,
       "school": "St. Joseph's Academy",
       "classification": 4,
       "district": 3,
@@ -265,6 +254,17 @@
       "off_rank": 26,
       "def_rating": 2.27,
       "def_rank": 18
+    },
+    {
+      "ovr_rank": 24,
+      "school": "Blue Springs South",
+      "classification": 5,
+      "district": 7,
+      "ovr_rating": 4.33,
+      "off_rating": 2.39,
+      "off_rank": 18,
+      "def_rating": 1.94,
+      "def_rank": 33
     },
     {
       "ovr_rank": 25,
@@ -510,17 +510,6 @@
     },
     {
       "ovr_rank": 47,
-      "school": "Marquette",
-      "classification": 5,
-      "district": 2,
-      "ovr_rating": 3.34,
-      "off_rating": 1.82,
-      "off_rank": 41,
-      "def_rating": 1.53,
-      "def_rank": 54
-    },
-    {
-      "ovr_rank": 48,
       "school": "Seckman",
       "classification": 5,
       "district": 1,
@@ -529,6 +518,17 @@
       "off_rank": 39,
       "def_rating": 1.51,
       "def_rank": 56
+    },
+    {
+      "ovr_rank": 48,
+      "school": "Marquette",
+      "classification": 5,
+      "district": 2,
+      "ovr_rating": 3.34,
+      "off_rating": 1.82,
+      "off_rank": 41,
+      "def_rating": 1.53,
+      "def_rank": 54
     },
     {
       "ovr_rank": 49,
@@ -906,17 +906,6 @@
     },
     {
       "ovr_rank": 83,
-      "school": "Rock Port",
-      "classification": 1,
-      "district": 16,
-      "ovr_rating": 2.43,
-      "off_rating": 1.21,
-      "off_rank": 93,
-      "def_rating": 1.23,
-      "def_rank": 76
-    },
-    {
-      "ovr_rank": 84,
       "school": "Francis Howell",
       "classification": 5,
       "district": 4,
@@ -925,6 +914,17 @@
       "off_rank": 80,
       "def_rating": 1.09,
       "def_rank": 84
+    },
+    {
+      "ovr_rank": 84,
+      "school": "Rock Port",
+      "classification": 1,
+      "district": 16,
+      "ovr_rating": 2.43,
+      "off_rating": 1.21,
+      "off_rank": 93,
+      "def_rating": 1.23,
+      "def_rank": 76
     },
     {
       "ovr_rank": 85,
@@ -1137,17 +1137,6 @@
     },
     {
       "ovr_rank": 104,
-      "school": "Perryville",
-      "classification": 3,
-      "district": 2,
-      "ovr_rating": 1.97,
-      "off_rating": 1.07,
-      "off_rank": 104,
-      "def_rating": 0.9,
-      "def_rank": 110
-    },
-    {
-      "ovr_rank": 105,
       "school": "Holt",
       "classification": 4,
       "district": 4,
@@ -1156,6 +1145,17 @@
       "off_rank": 98,
       "def_rating": 0.82,
       "def_rank": 118
+    },
+    {
+      "ovr_rank": 105,
+      "school": "Perryville",
+      "classification": 3,
+      "district": 2,
+      "ovr_rating": 1.97,
+      "off_rating": 1.07,
+      "off_rank": 104,
+      "def_rating": 0.9,
+      "def_rank": 110
     },
     {
       "ovr_rank": 106,
@@ -1280,17 +1280,6 @@
     },
     {
       "ovr_rank": 117,
-      "school": "Oak Ridge",
-      "classification": 1,
-      "district": 3,
-      "ovr_rating": 1.7,
-      "off_rating": 0.96,
-      "off_rank": 112,
-      "def_rating": 0.74,
-      "def_rank": 125
-    },
-    {
-      "ovr_rank": 118,
       "school": "Fort Osage",
       "classification": 5,
       "district": 7,
@@ -1299,6 +1288,17 @@
       "off_rank": 111,
       "def_rating": 0.73,
       "def_rank": 126
+    },
+    {
+      "ovr_rank": 118,
+      "school": "Oak Ridge",
+      "classification": 1,
+      "district": 3,
+      "ovr_rating": 1.7,
+      "off_rating": 0.96,
+      "off_rank": 112,
+      "def_rating": 0.74,
+      "def_rank": 125
     },
     {
       "ovr_rank": 119,
@@ -1500,6 +1500,17 @@
     },
     {
       "ovr_rank": 137,
+      "school": "Timberland",
+      "classification": 5,
+      "district": 4,
+      "ovr_rating": 1.32,
+      "off_rating": 0.77,
+      "off_rank": 127,
+      "def_rating": 0.55,
+      "def_rank": 148
+    },
+    {
+      "ovr_rank": 138,
       "school": "Bismarck",
       "classification": 1,
       "district": 4,
@@ -1510,7 +1521,7 @@
       "def_rank": 145
     },
     {
-      "ovr_rank": 138,
+      "ovr_rank": 139,
       "school": "Oak Park",
       "classification": 5,
       "district": 8,
@@ -1519,17 +1530,6 @@
       "off_rank": 132,
       "def_rating": 0.59,
       "def_rank": 140
-    },
-    {
-      "ovr_rank": 139,
-      "school": "Timberland",
-      "classification": 5,
-      "district": 4,
-      "ovr_rating": 1.32,
-      "off_rating": 0.77,
-      "off_rank": 127,
-      "def_rating": 0.55,
-      "def_rank": 148
     },
     {
       "ovr_rank": 140,
@@ -1643,17 +1643,6 @@
     },
     {
       "ovr_rank": 150,
-      "school": "Fair Grove",
-      "classification": 3,
-      "district": 10,
-      "ovr_rating": 0.93,
-      "off_rating": 0.37,
-      "off_rank": 168,
-      "def_rating": 0.57,
-      "def_rank": 144
-    },
-    {
-      "ovr_rank": 151,
       "school": "Mehlville",
       "classification": 5,
       "district": 1,
@@ -1662,6 +1651,17 @@
       "off_rank": 163,
       "def_rating": 0.51,
       "def_rank": 151
+    },
+    {
+      "ovr_rank": 151,
+      "school": "Fair Grove",
+      "classification": 3,
+      "district": 10,
+      "ovr_rating": 0.93,
+      "off_rating": 0.37,
+      "off_rank": 168,
+      "def_rating": 0.57,
+      "def_rank": 144
     },
     {
       "ovr_rank": 152,
@@ -1676,17 +1676,6 @@
     },
     {
       "ovr_rank": 153,
-      "school": "Central (St. Joseph)",
-      "classification": 5,
-      "district": 8,
-      "ovr_rating": 0.87,
-      "off_rating": 0.29,
-      "off_rank": 177,
-      "def_rating": 0.58,
-      "def_rank": 142
-    },
-    {
-      "ovr_rank": 154,
       "school": "Notre Dame (St. Louis)",
       "classification": 3,
       "district": 3,
@@ -1695,6 +1684,17 @@
       "off_rank": 139,
       "def_rating": 0.19,
       "def_rank": 181
+    },
+    {
+      "ovr_rank": 154,
+      "school": "Central (St. Joseph)",
+      "classification": 5,
+      "district": 8,
+      "ovr_rating": 0.87,
+      "off_rating": 0.29,
+      "off_rank": 177,
+      "def_rating": 0.58,
+      "def_rank": 142
     },
     {
       "ovr_rank": 155,
@@ -1819,17 +1819,6 @@
     },
     {
       "ovr_rank": 166,
-      "school": "St. Joseph Christian",
-      "classification": 2,
-      "district": 16,
-      "ovr_rating": 0.66,
-      "off_rating": 0.33,
-      "off_rank": 171,
-      "def_rating": 0.33,
-      "def_rank": 165
-    },
-    {
-      "ovr_rank": 167,
       "school": "Northland Christian",
       "classification": 1,
       "district": 15,
@@ -1840,18 +1829,18 @@
       "def_rank": 155
     },
     {
-      "ovr_rank": 168,
-      "school": "William Chrisman",
-      "classification": 5,
-      "district": 7,
-      "ovr_rating": 0.64,
-      "off_rating": 0.11,
-      "off_rank": 199,
-      "def_rating": 0.52,
-      "def_rank": 150
+      "ovr_rank": 167,
+      "school": "St. Joseph Christian",
+      "classification": 2,
+      "district": 16,
+      "ovr_rating": 0.66,
+      "off_rating": 0.33,
+      "off_rank": 171,
+      "def_rating": 0.33,
+      "def_rank": 165
     },
     {
-      "ovr_rank": 169,
+      "ovr_rank": 168,
       "school": "Camdenton",
       "classification": 4,
       "district": 5,
@@ -1862,7 +1851,7 @@
       "def_rank": 168
     },
     {
-      "ovr_rank": 170,
+      "ovr_rank": 169,
       "school": "Rolla",
       "classification": 4,
       "district": 5,
@@ -1871,6 +1860,17 @@
       "off_rank": 165,
       "def_rating": 0.25,
       "def_rank": 175
+    },
+    {
+      "ovr_rank": 170,
+      "school": "William Chrisman",
+      "classification": 5,
+      "district": 7,
+      "ovr_rating": 0.64,
+      "off_rating": 0.11,
+      "off_rank": 199,
+      "def_rating": 0.52,
+      "def_rank": 150
     },
     {
       "ovr_rank": 171,
@@ -2061,17 +2061,6 @@
     },
     {
       "ovr_rank": 188,
-      "school": "Concordia",
-      "classification": 1,
-      "district": 12,
-      "ovr_rating": 0.33,
-      "off_rating": 0.14,
-      "off_rank": 198,
-      "def_rating": 0.19,
-      "def_rank": 180
-    },
-    {
-      "ovr_rank": 189,
       "school": "Santa Fe",
       "classification": 1,
       "district": 15,
@@ -2080,6 +2069,17 @@
       "off_rank": 203,
       "def_rating": 0.26,
       "def_rank": 174
+    },
+    {
+      "ovr_rank": 189,
+      "school": "Concordia",
+      "classification": 1,
+      "district": 12,
+      "ovr_rating": 0.33,
+      "off_rating": 0.14,
+      "off_rank": 198,
+      "def_rating": 0.19,
+      "def_rank": 180
     },
     {
       "ovr_rank": 190,
@@ -2171,6 +2171,17 @@
     },
     {
       "ovr_rank": 198,
+      "school": "Malden",
+      "classification": 2,
+      "district": 1,
+      "ovr_rating": 0.15,
+      "off_rating": 0.18,
+      "off_rank": 191,
+      "def_rating": -0.02,
+      "def_rank": 214
+    },
+    {
+      "ovr_rank": 199,
       "school": "West Nodaway with Nodaway-Holt",
       "classification": 1,
       "district": 16,
@@ -2181,7 +2192,7 @@
       "def_rank": 182
     },
     {
-      "ovr_rank": 199,
+      "ovr_rank": 200,
       "school": "Ft. Zumwalt South",
       "classification": 4,
       "district": 4,
@@ -2190,17 +2201,6 @@
       "off_rank": 208,
       "def_rating": 0.12,
       "def_rank": 187
-    },
-    {
-      "ovr_rank": 200,
-      "school": "Malden",
-      "classification": 2,
-      "district": 1,
-      "ovr_rating": 0.15,
-      "off_rating": 0.18,
-      "off_rank": 191,
-      "def_rating": -0.02,
-      "def_rank": 214
     },
     {
       "ovr_rank": 201,
@@ -2226,17 +2226,6 @@
     },
     {
       "ovr_rank": 203,
-      "school": "Warrenton",
-      "classification": 4,
-      "district": 4,
-      "ovr_rating": 0.1,
-      "off_rating": 0.07,
-      "off_rank": 202,
-      "def_rating": 0.03,
-      "def_rank": 200
-    },
-    {
-      "ovr_rank": 204,
       "school": "Monett",
       "classification": 3,
       "district": 12,
@@ -2245,6 +2234,17 @@
       "off_rank": 204,
       "def_rating": 0.04,
       "def_rank": 197
+    },
+    {
+      "ovr_rank": 204,
+      "school": "Warrenton",
+      "classification": 4,
+      "district": 4,
+      "ovr_rating": 0.1,
+      "off_rating": 0.07,
+      "off_rank": 202,
+      "def_rating": 0.03,
+      "def_rank": 200
     },
     {
       "ovr_rank": 205,
@@ -2424,17 +2424,6 @@
     },
     {
       "ovr_rank": 221,
-      "school": "Midway",
-      "classification": 1,
-      "district": 12,
-      "ovr_rating": -0.17,
-      "off_rating": -0.18,
-      "off_rank": 232,
-      "def_rating": 0.02,
-      "def_rank": 202
-    },
-    {
-      "ovr_rank": 222,
       "school": "Lesterville",
       "classification": 1,
       "district": 6,
@@ -2445,18 +2434,18 @@
       "def_rank": 229
     },
     {
-      "ovr_rank": 223,
-      "school": "Tipton",
-      "classification": 2,
+      "ovr_rank": 222,
+      "school": "Midway",
+      "classification": 1,
       "district": 12,
-      "ovr_rating": -0.2,
+      "ovr_rating": -0.17,
       "off_rating": -0.18,
-      "off_rank": 231,
-      "def_rating": -0.02,
-      "def_rank": 211
+      "off_rank": 232,
+      "def_rating": 0.02,
+      "def_rank": 202
     },
     {
-      "ovr_rank": 224,
+      "ovr_rank": 223,
       "school": "School of the Ozarks",
       "classification": 1,
       "district": 8,
@@ -2465,6 +2454,17 @@
       "off_rank": 238,
       "def_rating": 0.07,
       "def_rank": 194
+    },
+    {
+      "ovr_rank": 224,
+      "school": "Tipton",
+      "classification": 2,
+      "district": 12,
+      "ovr_rating": -0.2,
+      "off_rating": -0.18,
+      "off_rank": 231,
+      "def_rating": -0.02,
+      "def_rank": 211
     },
     {
       "ovr_rank": 225,
@@ -2732,17 +2732,6 @@
     },
     {
       "ovr_rank": 249,
-      "school": "DeSoto",
-      "classification": 4,
-      "district": 1,
-      "ovr_rating": -0.76,
-      "off_rating": -0.36,
-      "off_rank": 250,
-      "def_rating": -0.4,
-      "def_rank": 247
-    },
-    {
-      "ovr_rank": 250,
       "school": "Plattsburg",
       "classification": 2,
       "district": 15,
@@ -2751,6 +2740,17 @@
       "off_rank": 260,
       "def_rating": -0.34,
       "def_rank": 243
+    },
+    {
+      "ovr_rank": 250,
+      "school": "DeSoto",
+      "classification": 4,
+      "district": 1,
+      "ovr_rating": -0.76,
+      "off_rating": -0.36,
+      "off_rank": 250,
+      "def_rating": -0.4,
+      "def_rank": 247
     },
     {
       "ovr_rank": 251,
@@ -2809,17 +2809,6 @@
     },
     {
       "ovr_rank": 256,
-      "school": "South Holt with Craig",
-      "classification": 1,
-      "district": 16,
-      "ovr_rating": -0.86,
-      "off_rating": -0.46,
-      "off_rank": 264,
-      "def_rating": -0.4,
-      "def_rank": 248
-    },
-    {
-      "ovr_rank": 257,
       "school": "Steelville",
       "classification": 2,
       "district": 7,
@@ -2828,6 +2817,17 @@
       "off_rank": 239,
       "def_rating": -0.56,
       "def_rank": 268
+    },
+    {
+      "ovr_rank": 257,
+      "school": "South Holt with Craig",
+      "classification": 1,
+      "district": 16,
+      "ovr_rating": -0.86,
+      "off_rating": -0.46,
+      "off_rank": 264,
+      "def_rating": -0.4,
+      "def_rank": 248
     },
     {
       "ovr_rank": 258,
@@ -3150,17 +3150,6 @@
     },
     {
       "ovr_rank": 287,
-      "school": "Bernie",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": -1.4,
-      "off_rating": -0.8,
-      "off_rank": 299,
-      "def_rating": -0.6,
-      "def_rank": 273
-    },
-    {
-      "ovr_rank": 288,
       "school": "Excelsior Springs",
       "classification": 3,
       "district": 15,
@@ -3169,6 +3158,17 @@
       "off_rank": 289,
       "def_rating": -0.67,
       "def_rank": 282
+    },
+    {
+      "ovr_rank": 288,
+      "school": "Bernie",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -1.4,
+      "off_rating": -0.8,
+      "off_rank": 299,
+      "def_rating": -0.6,
+      "def_rank": 273
     },
     {
       "ovr_rank": 289,
@@ -3271,17 +3271,6 @@
     },
     {
       "ovr_rank": 298,
-      "school": "Kingston",
-      "classification": 2,
-      "district": 3,
-      "ovr_rating": -1.59,
-      "off_rating": -0.59,
-      "off_rank": 275,
-      "def_rating": -1.0,
-      "def_rank": 309
-    },
-    {
-      "ovr_rank": 299,
       "school": "Bayless",
       "classification": 3,
       "district": 3,
@@ -3290,6 +3279,17 @@
       "off_rank": 281,
       "def_rating": -0.94,
       "def_rank": 306
+    },
+    {
+      "ovr_rank": 299,
+      "school": "Kingston",
+      "classification": 2,
+      "district": 3,
+      "ovr_rating": -1.59,
+      "off_rating": -0.59,
+      "off_rank": 275,
+      "def_rating": -1.0,
+      "def_rank": 309
     },
     {
       "ovr_rank": 300,
@@ -3403,17 +3403,6 @@
     },
     {
       "ovr_rank": 310,
-      "school": "Lincoln",
-      "classification": 1,
-      "district": 13,
-      "ovr_rating": -1.88,
-      "off_rating": -0.82,
-      "off_rank": 304,
-      "def_rating": -1.06,
-      "def_rank": 316
-    },
-    {
-      "ovr_rank": 311,
       "school": "Eugene",
       "classification": 2,
       "district": 12,
@@ -3424,7 +3413,7 @@
       "def_rank": 312
     },
     {
-      "ovr_rank": 312,
+      "ovr_rank": 311,
       "school": "Carrollton",
       "classification": 2,
       "district": 14,
@@ -3435,18 +3424,18 @@
       "def_rank": 318
     },
     {
-      "ovr_rank": 313,
-      "school": "South Pemiscot",
+      "ovr_rank": 312,
+      "school": "Lincoln",
       "classification": 1,
-      "district": 1,
-      "ovr_rating": -1.89,
-      "off_rating": -0.86,
-      "off_rank": 311,
-      "def_rating": -1.03,
-      "def_rank": 314
+      "district": 13,
+      "ovr_rating": -1.88,
+      "off_rating": -0.82,
+      "off_rank": 304,
+      "def_rating": -1.06,
+      "def_rank": 316
     },
     {
-      "ovr_rank": 314,
+      "ovr_rank": 313,
       "school": "Kennett",
       "classification": 3,
       "district": 1,
@@ -3455,6 +3444,17 @@
       "off_rank": 294,
       "def_rating": -1.14,
       "def_rank": 325
+    },
+    {
+      "ovr_rank": 314,
+      "school": "South Pemiscot",
+      "classification": 1,
+      "district": 1,
+      "ovr_rating": -1.89,
+      "off_rating": -0.86,
+      "off_rank": 311,
+      "def_rating": -1.03,
+      "def_rank": 314
     },
     {
       "ovr_rank": 315,
@@ -3502,17 +3502,6 @@
     },
     {
       "ovr_rank": 319,
-      "school": "Bunker",
-      "classification": 1,
-      "district": 6,
-      "ovr_rating": -2.07,
-      "off_rating": -0.87,
-      "off_rank": 313,
-      "def_rating": -1.2,
-      "def_rank": 333
-    },
-    {
-      "ovr_rank": 320,
       "school": "Van Horn",
       "classification": 4,
       "district": 8,
@@ -3521,6 +3510,17 @@
       "off_rank": 331,
       "def_rating": -1.0,
       "def_rank": 308
+    },
+    {
+      "ovr_rank": 320,
+      "school": "Bunker",
+      "classification": 1,
+      "district": 6,
+      "ovr_rating": -2.07,
+      "off_rating": -0.87,
+      "off_rank": 313,
+      "def_rating": -1.2,
+      "def_rank": 333
     },
     {
       "ovr_rank": 321,
@@ -3546,17 +3546,6 @@
     },
     {
       "ovr_rank": 323,
-      "school": "Bowling Green",
-      "classification": 3,
-      "district": 6,
-      "ovr_rating": -2.16,
-      "off_rating": -1.03,
-      "off_rank": 322,
-      "def_rating": -1.13,
-      "def_rank": 322
-    },
-    {
-      "ovr_rank": 324,
       "school": "Marshall",
       "classification": 4,
       "district": 7,
@@ -3567,18 +3556,18 @@
       "def_rank": 319
     },
     {
-      "ovr_rank": 325,
-      "school": "Purdy",
-      "classification": 1,
-      "district": 9,
-      "ovr_rating": -2.17,
-      "off_rating": -1.04,
-      "off_rank": 325,
+      "ovr_rank": 324,
+      "school": "Bowling Green",
+      "classification": 3,
+      "district": 6,
+      "ovr_rating": -2.16,
+      "off_rating": -1.03,
+      "off_rank": 322,
       "def_rating": -1.13,
-      "def_rank": 323
+      "def_rank": 322
     },
     {
-      "ovr_rank": 326,
+      "ovr_rank": 325,
       "school": "Verona",
       "classification": 1,
       "district": 9,
@@ -3587,6 +3576,17 @@
       "off_rank": 319,
       "def_rating": -1.16,
       "def_rank": 327
+    },
+    {
+      "ovr_rank": 326,
+      "school": "Purdy",
+      "classification": 1,
+      "district": 9,
+      "ovr_rating": -2.17,
+      "off_rating": -1.04,
+      "off_rank": 325,
+      "def_rating": -1.13,
+      "def_rank": 323
     },
     {
       "ovr_rank": 327,
@@ -3601,6 +3601,17 @@
     },
     {
       "ovr_rank": 328,
+      "school": "Dora",
+      "classification": 1,
+      "district": 7,
+      "ovr_rating": -2.23,
+      "off_rating": -1.04,
+      "off_rank": 324,
+      "def_rating": -1.19,
+      "def_rank": 331
+    },
+    {
+      "ovr_rank": 329,
       "school": "Senath-Hornersville",
       "classification": 2,
       "district": 1,
@@ -3611,7 +3622,7 @@
       "def_rank": 334
     },
     {
-      "ovr_rank": 329,
+      "ovr_rank": 330,
       "school": "Lutheran North",
       "classification": 2,
       "district": 5,
@@ -3620,17 +3631,6 @@
       "off_rank": 332,
       "def_rating": -1.15,
       "def_rank": 326
-    },
-    {
-      "ovr_rank": 330,
-      "school": "Dora",
-      "classification": 1,
-      "district": 7,
-      "ovr_rating": -2.23,
-      "off_rating": -1.04,
-      "off_rank": 324,
-      "def_rating": -1.19,
-      "def_rank": 331
     },
     {
       "ovr_rank": 331,
@@ -3711,17 +3711,6 @@
     },
     {
       "ovr_rank": 338,
-      "school": "Union Star with King City",
-      "classification": 1,
-      "district": 16,
-      "ovr_rating": -2.47,
-      "off_rating": -1.1,
-      "off_rank": 336,
-      "def_rating": -1.37,
-      "def_rank": 350
-    },
-    {
-      "ovr_rank": 339,
       "school": "Principia",
       "classification": 2,
       "district": 5,
@@ -3730,6 +3719,17 @@
       "off_rank": 352,
       "def_rating": -1.11,
       "def_rank": 321
+    },
+    {
+      "ovr_rank": 339,
+      "school": "Union Star with King City",
+      "classification": 1,
+      "district": 16,
+      "ovr_rating": -2.47,
+      "off_rating": -1.1,
+      "off_rank": 336,
+      "def_rating": -1.37,
+      "def_rank": 350
     },
     {
       "ovr_rank": 340,
@@ -3755,6 +3755,17 @@
     },
     {
       "ovr_rank": 342,
+      "school": "Ewing Marion Kauffman",
+      "classification": 3,
+      "district": 14,
+      "ovr_rating": -2.58,
+      "off_rating": -1.4,
+      "off_rank": 353,
+      "def_rating": -1.18,
+      "def_rank": 329
+    },
+    {
+      "ovr_rank": 343,
       "school": "Twin Rivers",
       "classification": 2,
       "district": 1,
@@ -3765,7 +3776,7 @@
       "def_rank": 361
     },
     {
-      "ovr_rank": 343,
+      "ovr_rank": 344,
       "school": "Trenton",
       "classification": 2,
       "district": 16,
@@ -3774,17 +3785,6 @@
       "off_rank": 340,
       "def_rating": -1.39,
       "def_rank": 351
-    },
-    {
-      "ovr_rank": 344,
-      "school": "Ewing Marion Kauffman",
-      "classification": 3,
-      "district": 14,
-      "ovr_rating": -2.58,
-      "off_rating": -1.4,
-      "off_rank": 353,
-      "def_rating": -1.18,
-      "def_rank": 329
     },
     {
       "ovr_rank": 345,
@@ -4019,17 +4019,6 @@
     },
     {
       "ovr_rank": 366,
-      "school": "McDonald County",
-      "classification": 4,
-      "district": 6,
-      "ovr_rating": -3.14,
-      "off_rating": -1.5,
-      "off_rank": 361,
-      "def_rating": -1.65,
-      "def_rank": 368
-    },
-    {
-      "ovr_rank": 367,
       "school": "North Platte",
       "classification": 2,
       "district": 15,
@@ -4038,6 +4027,17 @@
       "off_rank": 377,
       "def_rating": -1.44,
       "def_rank": 353
+    },
+    {
+      "ovr_rank": 367,
+      "school": "McDonald County",
+      "classification": 4,
+      "district": 6,
+      "ovr_rating": -3.14,
+      "off_rating": -1.5,
+      "off_rank": 361,
+      "def_rating": -1.65,
+      "def_rank": 368
     },
     {
       "ovr_rank": 368,
@@ -4074,17 +4074,6 @@
     },
     {
       "ovr_rank": 371,
-      "school": "Galena",
-      "classification": 1,
-      "district": 8,
-      "ovr_rating": -3.32,
-      "off_rating": -1.76,
-      "off_rank": 381,
-      "def_rating": -1.56,
-      "def_rank": 360
-    },
-    {
-      "ovr_rank": 372,
       "school": "Dixon",
       "classification": 2,
       "district": 7,
@@ -4093,6 +4082,17 @@
       "off_rank": 376,
       "def_rating": -1.63,
       "def_rank": 365
+    },
+    {
+      "ovr_rank": 372,
+      "school": "Galena",
+      "classification": 1,
+      "district": 8,
+      "ovr_rating": -3.32,
+      "off_rating": -1.76,
+      "off_rank": 381,
+      "def_rating": -1.56,
+      "def_rank": 360
     },
     {
       "ovr_rank": 373,
@@ -4151,17 +4151,6 @@
     },
     {
       "ovr_rank": 378,
-      "school": "Ruskin",
-      "classification": 5,
-      "district": 6,
-      "ovr_rating": -3.54,
-      "off_rating": -1.96,
-      "off_rank": 391,
-      "def_rating": -1.58,
-      "def_rank": 362
-    },
-    {
-      "ovr_rank": 379,
       "school": "Kelly",
       "classification": 2,
       "district": 2,
@@ -4172,18 +4161,18 @@
       "def_rank": 390
     },
     {
-      "ovr_rank": 380,
-      "school": "Lift for Life Academy Charter",
-      "classification": 3,
-      "district": 3,
-      "ovr_rating": -3.58,
-      "off_rating": -1.65,
-      "off_rank": 374,
-      "def_rating": -1.93,
-      "def_rank": 388
+      "ovr_rank": 379,
+      "school": "Ruskin",
+      "classification": 5,
+      "district": 6,
+      "ovr_rating": -3.54,
+      "off_rating": -1.96,
+      "off_rank": 391,
+      "def_rating": -1.58,
+      "def_rank": 362
     },
     {
-      "ovr_rank": 381,
+      "ovr_rank": 380,
       "school": "Southwest (Washburn)",
       "classification": 2,
       "district": 10,
@@ -4192,6 +4181,17 @@
       "off_rank": 387,
       "def_rating": -1.75,
       "def_rank": 375
+    },
+    {
+      "ovr_rank": 381,
+      "school": "Lift for Life Academy Charter",
+      "classification": 3,
+      "district": 3,
+      "ovr_rating": -3.58,
+      "off_rating": -1.65,
+      "off_rank": 374,
+      "def_rating": -1.93,
+      "def_rank": 388
     },
     {
       "ovr_rank": 382,
@@ -4305,17 +4305,6 @@
     },
     {
       "ovr_rank": 392,
-      "school": "Koshkonong",
-      "classification": 1,
-      "district": 7,
-      "ovr_rating": -3.96,
-      "off_rating": -2.07,
-      "off_rank": 398,
-      "def_rating": -1.89,
-      "def_rank": 386
-    },
-    {
-      "ovr_rank": 393,
       "school": "St. James",
       "classification": 3,
       "district": 9,
@@ -4324,6 +4313,17 @@
       "off_rank": 399,
       "def_rating": -1.88,
       "def_rank": 385
+    },
+    {
+      "ovr_rank": 393,
+      "school": "Koshkonong",
+      "classification": 1,
+      "district": 7,
+      "ovr_rating": -3.96,
+      "off_rating": -2.07,
+      "off_rank": 398,
+      "def_rating": -1.89,
+      "def_rank": 386
     },
     {
       "ovr_rank": 394,
@@ -4393,17 +4393,6 @@
     },
     {
       "ovr_rank": 400,
-      "school": "Hayti",
-      "classification": 1,
-      "district": 1,
-      "ovr_rating": -4.37,
-      "off_rating": -2.05,
-      "off_rank": 396,
-      "def_rating": -2.32,
-      "def_rank": 409
-    },
-    {
-      "ovr_rank": 401,
       "school": "Zalma",
       "classification": 1,
       "district": 3,
@@ -4412,6 +4401,17 @@
       "off_rank": 404,
       "def_rating": -2.17,
       "def_rank": 399
+    },
+    {
+      "ovr_rank": 401,
+      "school": "Hayti",
+      "classification": 1,
+      "district": 1,
+      "ovr_rating": -4.37,
+      "off_rating": -2.05,
+      "off_rank": 396,
+      "def_rating": -2.32,
+      "def_rank": 409
     },
     {
       "ovr_rank": 402,
