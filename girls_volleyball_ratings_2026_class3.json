@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 10, 2026 at 10:44 AM",
+  "last_updated": "November 11, 2026 at 10:44 AM",
   "league_average": 1.49,
   "classification": 3,
   "teams": [
@@ -434,17 +434,6 @@
     },
     {
       "ovr_rank": 40,
-      "school": "Hallsville",
-      "classification": 3,
-      "district": 7,
-      "ovr_rating": 0.61,
-      "off_rating": 0.27,
-      "off_rank": 45,
-      "def_rating": 0.34,
-      "def_rank": 39
-    },
-    {
-      "ovr_rank": 41,
       "school": "St. Charles West",
       "classification": 3,
       "district": 5,
@@ -453,6 +442,17 @@
       "off_rank": 37,
       "def_rating": 0.16,
       "def_rank": 44
+    },
+    {
+      "ovr_rank": 41,
+      "school": "Hallsville",
+      "classification": 3,
+      "district": 7,
+      "ovr_rating": 0.61,
+      "off_rating": 0.27,
+      "off_rank": 45,
+      "def_rating": 0.34,
+      "def_rank": 39
     },
     {
       "ovr_rank": 42,

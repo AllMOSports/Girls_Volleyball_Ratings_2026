@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 10, 2026 at 10:44 AM",
+  "last_updated": "November 11, 2026 at 10:44 AM",
   "league_average": 1.49,
   "classification": 2,
   "teams": [
@@ -698,17 +698,6 @@
     },
     {
       "ovr_rank": 64,
-      "school": "Eugene",
-      "classification": 2,
-      "district": 12,
-      "ovr_rating": -1.88,
-      "off_rating": -0.85,
-      "off_rank": 62,
-      "def_rating": -1.03,
-      "def_rank": 63
-    },
-    {
-      "ovr_rank": 65,
       "school": "Carrollton",
       "classification": 2,
       "district": 14,
@@ -719,18 +708,18 @@
       "def_rank": 65
     },
     {
-      "ovr_rank": 66,
-      "school": "Senath-Hornersville",
+      "ovr_rank": 65,
+      "school": "Eugene",
       "classification": 2,
-      "district": 1,
-      "ovr_rating": -2.23,
-      "off_rating": -1.01,
-      "off_rank": 66,
-      "def_rating": -1.21,
-      "def_rank": 70
+      "district": 12,
+      "ovr_rating": -1.88,
+      "off_rating": -0.85,
+      "off_rank": 62,
+      "def_rating": -1.03,
+      "def_rank": 63
     },
     {
-      "ovr_rank": 67,
+      "ovr_rank": 66,
       "school": "Lutheran North",
       "classification": 2,
       "district": 5,
@@ -739,6 +728,17 @@
       "off_rank": 68,
       "def_rating": -1.15,
       "def_rank": 68
+    },
+    {
+      "ovr_rank": 67,
+      "school": "Senath-Hornersville",
+      "classification": 2,
+      "district": 1,
+      "ovr_rating": -2.23,
+      "off_rating": -1.01,
+      "off_rank": 66,
+      "def_rating": -1.21,
+      "def_rank": 70
     },
     {
       "ovr_rank": 68,
@@ -786,17 +786,6 @@
     },
     {
       "ovr_rank": 72,
-      "school": "Twin Rivers",
-      "classification": 2,
-      "district": 1,
-      "ovr_rating": -2.58,
-      "off_rating": -1.02,
-      "off_rank": 67,
-      "def_rating": -1.56,
-      "def_rank": 80
-    },
-    {
-      "ovr_rank": 73,
       "school": "Trenton",
       "classification": 2,
       "district": 16,
@@ -805,6 +794,17 @@
       "off_rank": 70,
       "def_rating": -1.39,
       "def_rank": 74
+    },
+    {
+      "ovr_rank": 73,
+      "school": "Twin Rivers",
+      "classification": 2,
+      "district": 1,
+      "ovr_rating": -2.58,
+      "off_rating": -1.02,
+      "off_rank": 67,
+      "def_rating": -1.56,
+      "def_rank": 80
     },
     {
       "ovr_rank": 74,

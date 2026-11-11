@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 10, 2026 at 10:44 AM",
+  "last_updated": "November 11, 2026 at 10:44 AM",
   "league_average": 1.49,
   "classification": 1,
   "teams": [
@@ -192,17 +192,6 @@
     },
     {
       "ovr_rank": 18,
-      "school": "Santa Fe",
-      "classification": 1,
-      "district": 15,
-      "ovr_rating": 0.33,
-      "off_rating": 0.07,
-      "off_rank": 20,
-      "def_rating": 0.26,
-      "def_rank": 16
-    },
-    {
-      "ovr_rank": 19,
       "school": "Concordia",
       "classification": 1,
       "district": 12,
@@ -211,6 +200,17 @@
       "off_rank": 19,
       "def_rating": 0.19,
       "def_rank": 18
+    },
+    {
+      "ovr_rank": 19,
+      "school": "Santa Fe",
+      "classification": 1,
+      "district": 15,
+      "ovr_rating": 0.33,
+      "off_rating": 0.07,
+      "off_rank": 20,
+      "def_rating": 0.26,
+      "def_rank": 16
     },
     {
       "ovr_rank": 20,
@@ -346,17 +346,6 @@
     },
     {
       "ovr_rank": 32,
-      "school": "Thomas Jefferson Independent Day",
-      "classification": 1,
-      "district": 10,
-      "ovr_rating": -0.55,
-      "off_rating": -0.38,
-      "off_rank": 34,
-      "def_rating": -0.18,
-      "def_rank": 27
-    },
-    {
-      "ovr_rank": 33,
       "school": "Sacred Heart",
       "classification": 1,
       "district": 14,
@@ -365,6 +354,17 @@
       "off_rank": 29,
       "def_rating": -0.44,
       "def_rank": 35
+    },
+    {
+      "ovr_rank": 33,
+      "school": "Thomas Jefferson Independent Day",
+      "classification": 1,
+      "district": 10,
+      "ovr_rating": -0.55,
+      "off_rating": -0.38,
+      "off_rank": 34,
+      "def_rating": -0.18,
+      "def_rank": 27
     },
     {
       "ovr_rank": 34,
@@ -522,17 +522,6 @@
     },
     {
       "ovr_rank": 48,
-      "school": "La Monte",
-      "classification": 1,
-      "district": 14,
-      "ovr_rating": -1.38,
-      "off_rating": -0.75,
-      "off_rank": 49,
-      "def_rating": -0.63,
-      "def_rank": 48
-    },
-    {
-      "ovr_rank": 49,
       "school": "Green Ridge",
       "classification": 1,
       "district": 13,
@@ -541,6 +530,17 @@
       "off_rank": 55,
       "def_rating": -0.54,
       "def_rank": 43
+    },
+    {
+      "ovr_rank": 49,
+      "school": "La Monte",
+      "classification": 1,
+      "district": 14,
+      "ovr_rating": -1.38,
+      "off_rating": -0.75,
+      "off_rank": 49,
+      "def_rating": -0.63,
+      "def_rank": 48
     },
     {
       "ovr_rank": 50,
@@ -665,17 +665,6 @@
     },
     {
       "ovr_rank": 61,
-      "school": "Verona",
-      "classification": 1,
-      "district": 9,
-      "ovr_rating": -2.17,
-      "off_rating": -1.01,
-      "off_rank": 61,
-      "def_rating": -1.16,
-      "def_rank": 61
-    },
-    {
-      "ovr_rank": 62,
       "school": "Purdy",
       "classification": 1,
       "district": 9,
@@ -684,6 +673,17 @@
       "off_rank": 64,
       "def_rating": -1.13,
       "def_rank": 60
+    },
+    {
+      "ovr_rank": 62,
+      "school": "Verona",
+      "classification": 1,
+      "district": 9,
+      "ovr_rating": -2.17,
+      "off_rating": -1.01,
+      "off_rank": 61,
+      "def_rating": -1.16,
+      "def_rank": 61
     },
     {
       "ovr_rank": 63,
@@ -940,17 +940,6 @@
     },
     {
       "ovr_rank": 86,
-      "school": "Oran",
-      "classification": 1,
-      "district": 3,
-      "ovr_rating": -3.62,
-      "off_rating": -1.82,
-      "off_rank": 89,
-      "def_rating": -1.8,
-      "def_rank": 84
-    },
-    {
-      "ovr_rank": 87,
       "school": "Gloria Deo Academy",
       "classification": 1,
       "district": 8,
@@ -959,6 +948,17 @@
       "off_rank": 90,
       "def_rating": -1.79,
       "def_rank": 83
+    },
+    {
+      "ovr_rank": 87,
+      "school": "Oran",
+      "classification": 1,
+      "district": 3,
+      "ovr_rating": -3.62,
+      "off_rating": -1.82,
+      "off_rank": 89,
+      "def_rating": -1.8,
+      "def_rank": 84
     },
     {
       "ovr_rank": 88,
@@ -1017,17 +1017,6 @@
     },
     {
       "ovr_rank": 93,
-      "school": "Zalma",
-      "classification": 1,
-      "district": 3,
-      "ovr_rating": -4.37,
-      "off_rating": -2.21,
-      "off_rank": 97,
-      "def_rating": -2.17,
-      "def_rank": 93
-    },
-    {
-      "ovr_rank": 94,
       "school": "Hayti",
       "classification": 1,
       "district": 1,
@@ -1036,6 +1025,17 @@
       "off_rank": 91,
       "def_rating": -2.32,
       "def_rank": 99
+    },
+    {
+      "ovr_rank": 94,
+      "school": "Zalma",
+      "classification": 1,
+      "district": 3,
+      "ovr_rating": -4.37,
+      "off_rating": -2.21,
+      "off_rank": 97,
+      "def_rating": -2.17,
+      "def_rank": 93
     },
     {
       "ovr_rank": 95,
