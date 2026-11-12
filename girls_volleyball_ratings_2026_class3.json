@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 11, 2026 at 10:44 AM",
+  "last_updated": "November 12, 2026 at 10:44 AM",
   "league_average": 1.49,
   "classification": 3,
   "teams": [
@@ -434,17 +434,6 @@
     },
     {
       "ovr_rank": 40,
-      "school": "St. Charles West",
-      "classification": 3,
-      "district": 5,
-      "ovr_rating": 0.61,
-      "off_rating": 0.45,
-      "off_rank": 37,
-      "def_rating": 0.16,
-      "def_rank": 44
-    },
-    {
-      "ovr_rank": 41,
       "school": "Hallsville",
       "classification": 3,
       "district": 7,
@@ -453,6 +442,17 @@
       "off_rank": 45,
       "def_rating": 0.34,
       "def_rank": 39
+    },
+    {
+      "ovr_rank": 41,
+      "school": "St. Charles West",
+      "classification": 3,
+      "district": 5,
+      "ovr_rating": 0.61,
+      "off_rating": 0.45,
+      "off_rank": 37,
+      "def_rating": 0.16,
+      "def_rank": 44
     },
     {
       "ovr_rank": 42,
@@ -533,17 +533,6 @@
     },
     {
       "ovr_rank": 49,
-      "school": "Winfield",
-      "classification": 3,
-      "district": 5,
-      "ovr_rating": 0.19,
-      "off_rating": 0.2,
-      "off_rank": 49,
-      "def_rating": -0.01,
-      "def_rank": 52
-    },
-    {
-      "ovr_rank": 50,
       "school": "Versailles",
       "classification": 3,
       "district": 8,
@@ -552,6 +541,17 @@
       "off_rank": 48,
       "def_rating": -0.06,
       "def_rank": 56
+    },
+    {
+      "ovr_rank": 50,
+      "school": "Winfield",
+      "classification": 3,
+      "district": 5,
+      "ovr_rating": 0.19,
+      "off_rating": 0.2,
+      "off_rank": 49,
+      "def_rating": -0.01,
+      "def_rank": 52
     },
     {
       "ovr_rank": 51,

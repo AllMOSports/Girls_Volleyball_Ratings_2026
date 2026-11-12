@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 11, 2026 at 10:44 AM",
+  "last_updated": "November 12, 2026 at 10:44 AM",
   "league_average": 1.49,
   "classification": 2,
   "teams": [
@@ -181,17 +181,6 @@
     },
     {
       "ovr_rank": 17,
-      "school": "Stover",
-      "classification": 2,
-      "district": 12,
-      "ovr_rating": 0.85,
-      "off_rating": 0.44,
-      "off_rank": 21,
-      "def_rating": 0.41,
-      "def_rank": 18
-    },
-    {
-      "ovr_rank": 18,
       "school": "Miller",
       "classification": 2,
       "district": 11,
@@ -200,6 +189,17 @@
       "off_rank": 17,
       "def_rating": 0.36,
       "def_rank": 20
+    },
+    {
+      "ovr_rank": 18,
+      "school": "Stover",
+      "classification": 2,
+      "district": 12,
+      "ovr_rating": 0.85,
+      "off_rating": 0.44,
+      "off_rank": 21,
+      "def_rating": 0.41,
+      "def_rank": 18
     },
     {
       "ovr_rank": 19,
@@ -269,17 +269,6 @@
     },
     {
       "ovr_rank": 25,
-      "school": "Puxico",
-      "classification": 2,
-      "district": 2,
-      "ovr_rating": 0.46,
-      "off_rating": 0.32,
-      "off_rank": 23,
-      "def_rating": 0.15,
-      "def_rank": 26
-    },
-    {
-      "ovr_rank": 26,
       "school": "Scott City",
       "classification": 2,
       "district": 2,
@@ -288,6 +277,17 @@
       "off_rank": 24,
       "def_rating": 0.16,
       "def_rank": 25
+    },
+    {
+      "ovr_rank": 26,
+      "school": "Puxico",
+      "classification": 2,
+      "district": 2,
+      "ovr_rating": 0.46,
+      "off_rating": 0.32,
+      "off_rank": 23,
+      "def_rating": 0.15,
+      "def_rank": 26
     },
     {
       "ovr_rank": 27,
@@ -720,17 +720,6 @@
     },
     {
       "ovr_rank": 66,
-      "school": "Lutheran North",
-      "classification": 2,
-      "district": 5,
-      "ovr_rating": -2.23,
-      "off_rating": -1.08,
-      "off_rank": 68,
-      "def_rating": -1.15,
-      "def_rank": 68
-    },
-    {
-      "ovr_rank": 67,
       "school": "Senath-Hornersville",
       "classification": 2,
       "district": 1,
@@ -739,6 +728,17 @@
       "off_rank": 66,
       "def_rating": -1.21,
       "def_rank": 70
+    },
+    {
+      "ovr_rank": 67,
+      "school": "Lutheran North",
+      "classification": 2,
+      "district": 5,
+      "ovr_rating": -2.23,
+      "off_rating": -1.08,
+      "off_rank": 68,
+      "def_rating": -1.15,
+      "def_rank": 68
     },
     {
       "ovr_rank": 68,
@@ -786,17 +786,6 @@
     },
     {
       "ovr_rank": 72,
-      "school": "Trenton",
-      "classification": 2,
-      "district": 16,
-      "ovr_rating": -2.58,
-      "off_rating": -1.18,
-      "off_rank": 70,
-      "def_rating": -1.39,
-      "def_rank": 74
-    },
-    {
-      "ovr_rank": 73,
       "school": "Twin Rivers",
       "classification": 2,
       "district": 1,
@@ -805,6 +794,17 @@
       "off_rank": 67,
       "def_rating": -1.56,
       "def_rank": 80
+    },
+    {
+      "ovr_rank": 73,
+      "school": "Trenton",
+      "classification": 2,
+      "district": 16,
+      "ovr_rating": -2.58,
+      "off_rating": -1.18,
+      "off_rank": 70,
+      "def_rating": -1.39,
+      "def_rank": 74
     },
     {
       "ovr_rank": 74,
