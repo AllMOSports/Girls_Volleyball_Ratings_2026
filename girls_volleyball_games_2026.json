@@ -163,33 +163,6 @@
   },
   {
     "date": "2026-08-25",
-    "team1": "Savannah",
-    "score1": null,
-    "team2": "Benton",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-08-25",
-    "team1": "Bishop LeBlond",
-    "score1": null,
-    "team2": "Benton",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-08-25",
-    "team1": "Central (St. Joseph)",
-    "score1": null,
-    "team2": "Benton",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-08-25",
     "team1": "Hayti",
     "score1": null,
     "team2": "Delta (Deering)",
@@ -220,33 +193,6 @@
     "team1": "Mid-Buchanan",
     "score1": null,
     "team2": "South Harrison",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-08-25",
-    "team1": "Blue Springs South",
-    "score1": null,
-    "team2": "Staley",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-08-25",
-    "team1": "Blue Springs",
-    "score1": null,
-    "team2": "Staley",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-08-25",
-    "team1": "St. Teresa's Academy",
-    "score1": null,
-    "team2": "Staley",
     "score2": null,
     "forfeit": false,
     "overtime": false

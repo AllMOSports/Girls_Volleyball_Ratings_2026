@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 12, 2026 at 10:44 AM",
+  "last_updated": "November 13, 2026 at 10:43 AM",
   "league_average": 1.49,
   "classification": 1,
   "teams": [
@@ -258,17 +258,6 @@
     },
     {
       "ovr_rank": 24,
-      "school": "Lesterville",
-      "classification": 1,
-      "district": 6,
-      "ovr_rating": -0.17,
-      "off_rating": 0.02,
-      "off_rank": 21,
-      "def_rating": -0.19,
-      "def_rank": 29
-    },
-    {
-      "ovr_rank": 25,
       "school": "Midway",
       "classification": 1,
       "district": 12,
@@ -277,6 +266,17 @@
       "off_rank": 31,
       "def_rating": 0.02,
       "def_rank": 22
+    },
+    {
+      "ovr_rank": 25,
+      "school": "Lesterville",
+      "classification": 1,
+      "district": 6,
+      "ovr_rating": -0.17,
+      "off_rating": 0.02,
+      "off_rank": 21,
+      "def_rating": -0.19,
+      "def_rank": 29
     },
     {
       "ovr_rank": 26,
@@ -346,17 +346,6 @@
     },
     {
       "ovr_rank": 32,
-      "school": "Sacred Heart",
-      "classification": 1,
-      "district": 14,
-      "ovr_rating": -0.55,
-      "off_rating": -0.1,
-      "off_rank": 29,
-      "def_rating": -0.44,
-      "def_rank": 35
-    },
-    {
-      "ovr_rank": 33,
       "school": "Thomas Jefferson Independent Day",
       "classification": 1,
       "district": 10,
@@ -365,6 +354,17 @@
       "off_rank": 34,
       "def_rating": -0.18,
       "def_rank": 27
+    },
+    {
+      "ovr_rank": 33,
+      "school": "Sacred Heart",
+      "classification": 1,
+      "district": 14,
+      "ovr_rating": -0.55,
+      "off_rating": -0.1,
+      "off_rank": 29,
+      "def_rating": -0.44,
+      "def_rank": 35
     },
     {
       "ovr_rank": 34,
@@ -665,17 +665,6 @@
     },
     {
       "ovr_rank": 61,
-      "school": "Purdy",
-      "classification": 1,
-      "district": 9,
-      "ovr_rating": -2.17,
-      "off_rating": -1.04,
-      "off_rank": 64,
-      "def_rating": -1.13,
-      "def_rank": 60
-    },
-    {
-      "ovr_rank": 62,
       "school": "Verona",
       "classification": 1,
       "district": 9,
@@ -684,6 +673,17 @@
       "off_rank": 61,
       "def_rating": -1.16,
       "def_rank": 61
+    },
+    {
+      "ovr_rank": 62,
+      "school": "Purdy",
+      "classification": 1,
+      "district": 9,
+      "ovr_rating": -2.17,
+      "off_rating": -1.04,
+      "off_rank": 64,
+      "def_rating": -1.13,
+      "def_rank": 60
     },
     {
       "ovr_rank": 63,

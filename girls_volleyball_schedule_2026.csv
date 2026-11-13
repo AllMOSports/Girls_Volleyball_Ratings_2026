@@ -600,9 +600,6 @@ Belton,2026-10-15,Platte County,,0,3,L,1.23,1.85,-1.23,-1.15,-2.37,False
 Belton,2026-10-22,Raytown,,3,0,W,3.48,-0.63,-0.48,-0.63,-1.11,False
 Belton,2026-10-24,Pleasant Hill,,3,0,W,1.85,1.6,1.15,1.6,2.76,False
 Belton,2026-10-27,St. Teresa's Academy,,1,3,L,0.77,2.37,0.23,-0.63,-0.4,False
-Benton,2026-08-25,Savannah,,,,,1.72,1.25,,,,False
-Benton,2026-08-25,Bishop LeBlond,,,,,1.88,1.16,,,,False
-Benton,2026-08-25,Central (St. Joseph),,,,,2.19,0.4,,,,False
 Benton,2026-08-28,Adrian,,0,2,L,1.35,1.41,-1.35,-0.59,-1.93,False
 Benton,2026-08-28,Liberty (Mountain View),,2,1,W,1.71,1.39,0.29,0.39,0.68,False
 Benton,2026-08-29,Lafayette County,,2,0,W,2.15,0.63,-0.15,0.63,0.49,False
@@ -742,7 +739,6 @@ Bishop DuBourg,2026-10-14,Rosati-Kain,,3,0,W,2.67,1.32,0.33,1.32,1.66,False
 Bishop DuBourg,2026-10-15,Lutheran North,,1,3,L,1.01,2.68,-0.01,-0.32,-0.33,False
 Bishop DuBourg,2026-10-20,Miller Career Academy,,3,0,W,2.99,0.32,0.01,0.32,0.34,False
 Bishop DuBourg,2026-10-22,Collegiate School of Med-Bio Science,,2,3,L,1.57,2.55,0.43,-0.45,-0.02,False
-Bishop LeBlond,2026-08-25,Benton,,,,,1.16,1.88,,,,False
 Bishop LeBlond,2026-08-28,Belton,,1,2,L,1.02,2.37,-0.02,0.37,0.34,False
 Bishop LeBlond,2026-08-28,Hannibal,,2,0,W,0.39,2.61,1.61,2.61,4.22,False
 Bishop LeBlond,2026-08-29,Notre Dame de Sion,,1,2,L,1.28,2.33,-0.28,0.33,0.04,False
@@ -931,7 +927,6 @@ Blue Eye,2026-10-13,Everton,,3,0,W,2.59,0.08,0.41,0.08,0.5,False
 Blue Eye,2026-10-20,Southwest (Washburn),,3,0,W,3.53,-0.76,-0.53,-0.76,-1.29,False
 Blue Eye,2026-10-21,Spokane,,3,2,W,1.38,1.51,1.62,-0.49,1.13,False
 Blue Eye,2026-10-23,New Covenant Academy,,0,3,L,-0.29,2.85,0.29,-0.15,0.14,False
-Blue Springs,2026-08-25,Staley,,,,,2.02,0.95,,,,False
 Blue Springs,2026-08-27,Park Hill,,0,2,L,1.7,1.7,-1.7,-0.3,-2.0,False
 Blue Springs,2026-08-27,St. Michael the Archangel,,2,0,W,1.28,1.88,0.72,1.88,2.59,False
 Blue Springs,2026-09-01,Blue Springs South,,2,3,L,1.81,1.6,0.19,-1.4,-1.21,False
@@ -964,7 +959,6 @@ Blue Springs,2026-10-13,Lee's Summit West,,0,3,L,0.46,2.58,-0.46,-0.42,-0.89,Fal
 Blue Springs,2026-10-15,Raymore-Peculiar,,3,1,W,1.55,1.82,1.45,0.82,2.27,False
 Blue Springs,2026-10-20,Grain Valley,,3,0,W,2.5,0.61,0.5,0.61,1.11,False
 Blue Springs,2026-10-22,Lee's Summit North,,1,3,L,0.82,2.21,0.18,-0.79,-0.61,False
-Blue Springs South,2026-08-25,Staley,,,,,2.15,1.29,,,,False
 Blue Springs South,2026-08-27,Fort Osage,,3,1,W,3.14,0.52,-0.14,-0.48,-0.63,False
 Blue Springs South,2026-08-29,"Bentonville West(Bentonville, AR)",,0,2,L,,,,,,False
 Blue Springs South,2026-08-29,"Cabot(Cabot, AR)",,0,2,L,,,,,,False
@@ -1999,7 +1993,6 @@ Central (Springfield),2026-10-12,Parkview,,3,1,W,1.84,0.67,1.16,-0.33,0.84,False
 Central (Springfield),2026-10-13,New Covenant Academy,,0,3,L,-0.91,3.27,0.91,0.27,1.18,False
 Central (Springfield),2026-10-15,Hillcrest,,3,0,W,0.84,1.51,2.16,1.51,3.67,False
 Central (Springfield),2026-10-21,Willard,,0,3,L,0.07,2.74,-0.07,-0.26,-0.33,False
-Central (St. Joseph),2026-08-25,Benton,,,,,0.4,2.19,,,,False
 Central (St. Joseph),2026-08-27,Smithville,,0,3,L,-0.47,2.96,0.47,-0.04,0.43,False
 Central (St. Joseph),2026-08-28,St. Pius X (Kansas City),,0,2,L,-0.33,3.11,0.33,1.11,1.44,False
 Central (St. Joseph),2026-08-28,Seckman,,0,2,L,0.27,2.74,-0.27,0.74,0.47,False
@@ -10954,7 +10947,6 @@ Sarcoxie,2026-10-13,Ash Grove,,0,3,L,0.89,2.31,-0.89,-0.69,-1.58,False
 Sarcoxie,2026-10-15,Seneca,,3,0,W,2.81,0.48,0.19,0.48,0.67,False
 Sarcoxie,2026-10-19,Lamar,,0,3,L,0.25,2.73,-0.25,-0.27,-0.52,False
 Sarcoxie,2026-10-22,Diamond,,0,3,L,1.8,1.62,-1.8,-1.38,-3.18,False
-Savannah,2026-08-25,Benton,,,,,1.25,1.72,,,,False
 Savannah,2026-08-28,Raymore-Peculiar,,1,2,L,0.44,3.04,0.56,1.04,1.6,False
 Savannah,2026-08-28,Seckman,,2,1,W,1.12,2.26,0.88,1.26,2.14,False
 Savannah,2026-08-29,Central (St. Joseph),,2,0,W,2.06,0.73,-0.06,0.73,0.67,False
@@ -12241,7 +12233,6 @@ St. Pius X (Kansas City),2026-10-24,Pembroke Hill,,3,0,W,1.83,0.9,1.17,0.9,2.08,
 St. Pius X (Kansas City),2026-10-29,Savannah,,3,0,W,2.63,0.52,0.37,0.52,0.89,False
 St. Pius X (Kansas City),2026-10-31,Oak Grove,,1,3,L,0.94,1.87,0.06,-1.13,-1.07,False
 "St. Pius(Festus , MO)",2026-10-02,Liberty (Wentzville),,0,2,L,,,,,,False
-St. Teresa's Academy,2026-08-25,Staley,,,,,2.17,0.74,,,,False
 St. Teresa's Academy,2026-08-29,"Bishop Miege HS(Fairway, KS)",,1,2,L,,,,,,False
 St. Teresa's Academy,2026-09-03,Pembroke Hill,,3,0,W,2.04,0.53,0.96,0.53,1.49,False
 St. Teresa's Academy,2026-09-05,"Skutt Catholic H.S(Omaha, NE)",,2,1,W,,,,,,False
@@ -12316,9 +12307,6 @@ St. Vincent,2026-10-14,Leopold,,0,3,L,0.57,2.74,-0.57,-0.26,-0.83,False
 St. Vincent,2026-10-19,Oak Ridge,,1,3,L,1.02,2.29,-0.02,-0.71,-0.73,False
 St. Vincent,2026-10-20,North County,,3,2,W,1.78,1.75,1.22,-0.25,0.97,False
 St. Vincent,2026-10-22,Potosi,,0,3,L,-0.55,3.72,0.55,0.72,1.27,False
-Staley,2026-08-25,Blue Springs South,,,,,1.29,2.15,,,,False
-Staley,2026-08-25,Blue Springs,,,,,0.95,2.02,,,,False
-Staley,2026-08-25,St. Teresa's Academy,,,,,0.74,2.17,,,,False
 Staley,2026-08-27,Oak Park,,3,0,W,2.64,0.49,0.36,0.49,0.85,False
 Staley,2026-09-01,Liberty North,,0,3,L,1.25,2.38,-1.25,-0.62,-1.87,False
 Staley,2026-09-03,Blue Springs South,,1,3,L,1.29,2.15,-0.29,-0.85,-1.14,False
