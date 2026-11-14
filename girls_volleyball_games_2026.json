@@ -8425,6 +8425,15 @@
   },
   {
     "date": "2026-09-04",
+    "team1": "Vashon",
+    "score1": 0,
+    "team2": "KIPP St. Louis Sr.",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-09-04",
     "team1": "Perryville",
     "score1": 3,
     "team2": "Leopold",
@@ -8546,15 +8555,6 @@
     "score1": 1,
     "team2": "Viburnum",
     "score2": 3,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-09-04",
-    "team1": "Vashon",
-    "score1": null,
-    "team2": "KIPP St. Louis Sr.",
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },

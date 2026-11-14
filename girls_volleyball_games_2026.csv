@@ -935,6 +935,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-09-04,Nixa,1,Helias Catholic,2,False,False
 2026-09-04,Kickapoo,2,Jefferson City,0,False,False
 2026-09-04,Nixa,2,Jefferson City,0,False,False
+2026-09-04,Vashon,0,KIPP St. Louis Sr.,1,False,False
 2026-09-04,Perryville,3,Leopold,1,False,False
 2026-09-04,Believe Acad Charter,0,McCluer North,3,False,False
 2026-09-04,Oak Ridge,3,Meadow Heights,0,False,False
@@ -949,7 +950,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-09-04,Cabool,3,Summersville,0,False,False
 2026-09-04,Bunker,2,Valley,3,False,False
 2026-09-04,Bourbon,1,Viburnum,3,False,False
-2026-09-04,Vashon,,KIPP St. Louis Sr.,,False,False
 2026-09-05,University Academy Charter,1,Center,1,False,False
 2026-09-05,Grandview,1,Center,1,False,False
 2026-09-05,William Chrisman,0,Center,2,False,False

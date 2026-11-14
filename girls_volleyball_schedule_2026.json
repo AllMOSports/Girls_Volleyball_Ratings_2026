@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated": "2026-11-13T10:43:53.650932+00:00",
+  "generated": "2026-11-14T10:44:29.149579+00:00",
   "teams": {
     "Raytown South": [
       {
@@ -98907,14 +98907,14 @@
         "date": "2026-09-04",
         "opponent": "KIPP St. Louis Sr.",
         "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
+        "team_score": 0,
+        "opp_score": 1,
+        "result": "L",
         "predicted_team_score": 2.61,
         "predicted_opp_score": 0.64,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
+        "off_delta": -2.61,
+        "def_delta": -0.36,
+        "ovr_delta": -2.97,
         "forfeit": false
       },
       {
@@ -171551,14 +171551,14 @@
         "date": "2026-09-04",
         "opponent": "Vashon",
         "home_away": null,
-        "team_score": null,
-        "opp_score": null,
-        "result": null,
+        "team_score": 1,
+        "opp_score": 0,
+        "result": "W",
         "predicted_team_score": 0.64,
         "predicted_opp_score": 2.61,
-        "off_delta": null,
-        "def_delta": null,
-        "ovr_delta": null,
+        "off_delta": 0.36,
+        "def_delta": 2.61,
+        "ovr_delta": 2.97,
         "forfeit": false
       },
       {

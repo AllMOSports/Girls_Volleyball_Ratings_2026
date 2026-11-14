@@ -1057,6 +1057,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-04,Nixa,True,1,Helias Catholic,True,2,False,False
 2026-09-04,Kickapoo,True,2,Jefferson City,True,0,False,False
 2026-09-04,Nixa,True,2,Jefferson City,True,0,False,False
+2026-09-04,Vashon,True,0,KIPP St. Louis Sr.,True,1,False,False
 2026-09-04,"Mammoth Spring(Mammoth Spring, AR)",False,0,Koshkonong,True,3,False,False
 2026-09-04,Perryville,True,3,Leopold,True,1,False,False
 2026-09-04,Believe Acad Charter,True,0,McCluer North,True,3,False,False
@@ -1075,7 +1076,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-04,Bunker,True,2,Valley,True,3,False,False
 2026-09-04,Bourbon,True,1,Viburnum,True,3,False,False
 2026-09-04,Lafayette (Wildwood),True,2,"Washington(Washington, IL)",False,1,False,False
-2026-09-04,Vashon,True,,KIPP St. Louis Sr.,True,,False,False
 2026-09-05,Lutheran South,True,1,"Alton(Alton, IL)",False,2,False,False
 2026-09-05,Sikeston,True,0,"Benton(Benton, IL)",False,2,False,False
 2026-09-05,Lafayette (Wildwood),True,2,"Breese Central(Breese, IL)",False,0,False,False
