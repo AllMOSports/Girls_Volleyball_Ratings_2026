@@ -1,9 +1,9 @@
 date,problem,team1,score1,team2,score2,both_classified
 2026-09-03,one team's score only,Notre Dame (St. Louis),3,Visitation Academy,,True
 2026-09-08,one team's score only,Central (Kansas City),2,"F. L. Schlagle(Kansas City, KS)",,False
+2026-09-08,one team's score only,West Plains,1,Lift for Life Academy Charter,,True
 2026-09-12,one team's score only,Notre Dame (St. Louis),,Hazelwood East,0,True
 2026-09-12,one team's score only,Webster Groves,,Pattonville,0,True
-2026-09-15,one team's score only,Caruthersville,3,Southland,,True
 2026-09-17,one team's score only,Hayti,0,Campbell,,True
 2026-09-17,one team's score only,Green Ridge,0,Smithton,,True
 2026-09-17,one team's score only,Paseo Academy,0,"Turner(Kansas City, KS)",,False
@@ -44,7 +44,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-02,no score,Normandy Collaborative,,STEAM Academy,,False
 2026-09-03,no score,KIPP St. Louis Sr.,,Confluence Prep Academy Charter with Grand Center Arts Charter,,True
 2026-09-07,no score,Jennings,,Normandy Collaborative,,False
-2026-09-08,no score,West Plains,,Lift for Life Academy Charter,,True
 2026-09-08,no score,Grandview (Hillsboro),,Marquand-Zion,,False
 2026-09-10,no score,Marquand-Zion,,Zalma,,False
 2026-09-11,no score,Visitation Academy,,"Effingham(Effingham , IL)",,False
@@ -101,7 +100,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-15,no score,Fair Grove,,Buffalo,,True
 2026-10-15,no score,Lighthouse Sr.,,Chamois,,False
 2026-10-15,no score,Miller Career Academy,,"Madison(Madison, IL)",,False
-2026-10-15,no score,West Plains,,Normandy Collaborative,,False
 2026-10-15,no score,Gateway Science Charter,,Valley Park,,True
 2026-10-16,no score,Viburnum,,Marquand-Zion,,False
 2026-10-16,no score,Hazelwood Central,,Parkway North,,True
@@ -112,6 +110,5 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-17,no score,McCluer,,Hazelwood West,,True
 2026-10-17,no score,Gloria Deo Academy,,Jasper,,True
 2026-10-17,no score,Jasper,,Purdy,,True
-2026-10-19,no score,Believe Acad Charter,,West Plains,,True
 2026-10-19,no score,Winfield,,Sunnydale Adventist Acad HS,,False
 2026-10-20,no score,Believe Acad Charter,,KIPP St. Louis Sr.,,True

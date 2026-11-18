@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 17, 2026 at 10:44 AM",
+  "last_updated": "November 18, 2026 at 10:43 AM",
   "league_average": 1.49,
   "classification": 3,
   "teams": [
@@ -173,7 +173,7 @@
       "school": "Lutheran St. Charles",
       "classification": 3,
       "district": 5,
-      "ovr_rating": 2.52,
+      "ovr_rating": 2.53,
       "off_rating": 1.52,
       "off_rank": 14,
       "def_rating": 1.01,
@@ -264,7 +264,7 @@
       "ovr_rating": 1.97,
       "off_rating": 1.07,
       "off_rank": 23,
-      "def_rating": 0.9,
+      "def_rating": 0.91,
       "def_rank": 25
     },
     {
@@ -426,7 +426,7 @@
       "school": "Owensville",
       "classification": 3,
       "district": 9,
-      "ovr_rating": 0.79,
+      "ovr_rating": 0.8,
       "off_rating": 0.44,
       "off_rank": 38,
       "def_rating": 0.36,
@@ -437,7 +437,7 @@
       "school": "St. Charles West",
       "classification": 3,
       "district": 5,
-      "ovr_rating": 0.61,
+      "ovr_rating": 0.62,
       "off_rating": 0.45,
       "off_rank": 37,
       "def_rating": 0.16,
@@ -460,7 +460,7 @@
       "classification": 3,
       "district": 6,
       "ovr_rating": 0.54,
-      "off_rating": 0.25,
+      "off_rating": 0.26,
       "off_rank": 46,
       "def_rating": 0.29,
       "def_rank": 41
@@ -533,17 +533,6 @@
     },
     {
       "ovr_rank": 49,
-      "school": "Winfield",
-      "classification": 3,
-      "district": 5,
-      "ovr_rating": 0.19,
-      "off_rating": 0.2,
-      "off_rank": 49,
-      "def_rating": -0.01,
-      "def_rank": 52
-    },
-    {
-      "ovr_rank": 50,
       "school": "Versailles",
       "classification": 3,
       "district": 8,
@@ -552,6 +541,17 @@
       "off_rank": 48,
       "def_rating": -0.06,
       "def_rank": 56
+    },
+    {
+      "ovr_rank": 50,
+      "school": "Winfield",
+      "classification": 3,
+      "district": 5,
+      "ovr_rating": 0.19,
+      "off_rating": 0.2,
+      "off_rank": 49,
+      "def_rating": -0.01,
+      "def_rank": 52
     },
     {
       "ovr_rank": 51,
@@ -583,7 +583,7 @@
       "ovr_rating": 0.04,
       "off_rating": 0.03,
       "off_rank": 54,
-      "def_rating": 0.01,
+      "def_rating": 0.02,
       "def_rank": 50
     },
     {
@@ -591,10 +591,10 @@
       "school": "Visitation Academy",
       "classification": 3,
       "district": 5,
-      "ovr_rating": -0.09,
+      "ovr_rating": -0.08,
       "off_rating": -0.09,
       "off_rank": 56,
-      "def_rating": 0.0,
+      "def_rating": 0.01,
       "def_rank": 51
     },
     {
@@ -649,7 +649,7 @@
       "ovr_rating": -0.44,
       "off_rating": -0.15,
       "off_rank": 58,
-      "def_rating": -0.29,
+      "def_rating": -0.28,
       "def_rank": 59
     },
     {
@@ -680,9 +680,9 @@
       "classification": 3,
       "district": 5,
       "ovr_rating": -0.68,
-      "off_rating": -0.31,
+      "off_rating": -0.3,
       "off_rank": 62,
-      "def_rating": -0.38,
+      "def_rating": -0.37,
       "def_rank": 61
     },
     {
@@ -789,7 +789,7 @@
       "school": "Mexico",
       "classification": 3,
       "district": 6,
-      "ovr_rating": -1.79,
+      "ovr_rating": -1.78,
       "off_rating": -0.53,
       "off_rank": 66,
       "def_rating": -1.25,
@@ -858,7 +858,7 @@
       "ovr_rating": -2.75,
       "off_rating": -1.35,
       "off_rank": 77,
-      "def_rating": -1.4,
+      "def_rating": -1.39,
       "def_rank": 78
     },
     {
@@ -911,7 +911,7 @@
       "classification": 3,
       "district": 9,
       "ovr_rating": -3.96,
-      "off_rating": -2.09,
+      "off_rating": -2.08,
       "off_rank": 84,
       "def_rating": -1.88,
       "def_rank": 82
@@ -932,7 +932,7 @@
       "school": "Cardinal Ritter",
       "classification": 3,
       "district": 4,
-      "ovr_rating": -4.84,
+      "ovr_rating": -4.83,
       "off_rating": -2.46,
       "off_rank": 86,
       "def_rating": -2.37,
@@ -957,7 +957,7 @@
       "ovr_rating": -5.04,
       "off_rating": -2.49,
       "off_rank": 87,
-      "def_rating": -2.55,
+      "def_rating": -2.54,
       "def_rank": 86
     },
     {
@@ -976,10 +976,10 @@
       "school": "Vashon",
       "classification": 3,
       "district": 4,
-      "ovr_rating": -6.11,
+      "ovr_rating": -6.1,
       "off_rating": -2.88,
       "off_rank": 88,
-      "def_rating": -3.23,
+      "def_rating": -3.22,
       "def_rank": 89
     },
     {

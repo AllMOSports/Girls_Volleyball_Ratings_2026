@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 17, 2026 at 10:44 AM",
+  "last_updated": "November 18, 2026 at 10:43 AM",
   "league_average": 1.49,
   "classification": 1,
   "teams": [
@@ -151,7 +151,7 @@
       "school": "Meadow Heights",
       "classification": 1,
       "district": 3,
-      "ovr_rating": 0.7,
+      "ovr_rating": 0.71,
       "off_rating": 0.35,
       "off_rank": 15,
       "def_rating": 0.35,
@@ -228,10 +228,10 @@
       "school": "North Pemiscot",
       "classification": 1,
       "district": 1,
-      "ovr_rating": 0.07,
+      "ovr_rating": 0.08,
       "off_rating": 0.15,
       "off_rank": 18,
-      "def_rating": -0.08,
+      "def_rating": -0.07,
       "def_rank": 24
     },
     {
@@ -242,7 +242,7 @@
       "ovr_rating": -0.08,
       "off_rating": -0.01,
       "off_rank": 22,
-      "def_rating": -0.08,
+      "def_rating": -0.07,
       "def_rank": 23
     },
     {
@@ -250,7 +250,7 @@
       "school": "Campbell",
       "classification": 1,
       "district": 2,
-      "ovr_rating": -0.16,
+      "ovr_rating": -0.15,
       "off_rating": -0.05,
       "off_rank": 24,
       "def_rating": -0.11,
@@ -316,7 +316,7 @@
       "school": "St. Paul Lutheran (Concordia)",
       "classification": 1,
       "district": 14,
-      "ovr_rating": -0.33,
+      "ovr_rating": -0.32,
       "off_rating": -0.08,
       "off_rank": 26,
       "def_rating": -0.24,
@@ -346,17 +346,6 @@
     },
     {
       "ovr_rank": 32,
-      "school": "Thomas Jefferson Independent Day",
-      "classification": 1,
-      "district": 10,
-      "ovr_rating": -0.55,
-      "off_rating": -0.38,
-      "off_rank": 34,
-      "def_rating": -0.18,
-      "def_rank": 27
-    },
-    {
-      "ovr_rank": 33,
       "school": "Sacred Heart",
       "classification": 1,
       "district": 14,
@@ -365,6 +354,17 @@
       "off_rank": 29,
       "def_rating": -0.44,
       "def_rank": 35
+    },
+    {
+      "ovr_rank": 33,
+      "school": "Thomas Jefferson Independent Day",
+      "classification": 1,
+      "district": 10,
+      "ovr_rating": -0.55,
+      "off_rating": -0.38,
+      "off_rank": 34,
+      "def_rating": -0.18,
+      "def_rank": 27
     },
     {
       "ovr_rank": 34,
@@ -813,7 +813,7 @@
       "district": 12,
       "ovr_rating": -2.8,
       "off_rating": -1.57,
-      "off_rank": 80,
+      "off_rank": 81,
       "def_rating": -1.23,
       "def_rank": 67
     },
@@ -910,11 +910,11 @@
       "school": "Delta (Deering)",
       "classification": 1,
       "district": 1,
-      "ovr_rating": -3.4,
-      "off_rating": -1.58,
-      "off_rank": 81,
-      "def_rating": -1.83,
-      "def_rank": 86
+      "ovr_rating": -3.39,
+      "off_rating": -1.57,
+      "off_rank": 80,
+      "def_rating": -1.81,
+      "def_rank": 85
     },
     {
       "ovr_rank": 84,
@@ -936,10 +936,21 @@
       "off_rating": -1.79,
       "off_rank": 87,
       "def_rating": -1.82,
-      "def_rank": 85
+      "def_rank": 86
     },
     {
       "ovr_rank": 86,
+      "school": "Oran",
+      "classification": 1,
+      "district": 3,
+      "ovr_rating": -3.61,
+      "off_rating": -1.81,
+      "off_rank": 89,
+      "def_rating": -1.8,
+      "def_rank": 84
+    },
+    {
+      "ovr_rank": 87,
       "school": "Gloria Deo Academy",
       "classification": 1,
       "district": 8,
@@ -948,17 +959,6 @@
       "off_rank": 90,
       "def_rating": -1.79,
       "def_rank": 83
-    },
-    {
-      "ovr_rank": 87,
-      "school": "Oran",
-      "classification": 1,
-      "district": 3,
-      "ovr_rating": -3.62,
-      "off_rating": -1.82,
-      "off_rank": 89,
-      "def_rating": -1.8,
-      "def_rank": 84
     },
     {
       "ovr_rank": 88,
@@ -1001,8 +1001,8 @@
       "ovr_rating": -3.99,
       "off_rating": -1.77,
       "off_rank": 86,
-      "def_rating": -2.23,
-      "def_rank": 97
+      "def_rating": -2.22,
+      "def_rank": 96
     },
     {
       "ovr_rank": 92,
@@ -1011,7 +1011,7 @@
       "district": 7,
       "ovr_rating": -4.21,
       "off_rating": -2.05,
-      "off_rank": 92,
+      "off_rank": 91,
       "def_rating": -2.16,
       "def_rank": 92
     },
@@ -1023,7 +1023,7 @@
       "ovr_rating": -4.37,
       "off_rating": -2.21,
       "off_rank": 97,
-      "def_rating": -2.17,
+      "def_rating": -2.16,
       "def_rank": 93
     },
     {
@@ -1031,11 +1031,11 @@
       "school": "Hayti",
       "classification": 1,
       "district": 1,
-      "ovr_rating": -4.37,
-      "off_rating": -2.05,
-      "off_rank": 91,
-      "def_rating": -2.32,
-      "def_rank": 99
+      "ovr_rating": -4.39,
+      "off_rating": -2.06,
+      "off_rank": 92,
+      "def_rating": -2.33,
+      "def_rank": 100
     },
     {
       "ovr_rank": 95,
@@ -1057,7 +1057,7 @@
       "off_rating": -2.13,
       "off_rank": 94,
       "def_rating": -2.32,
-      "def_rank": 100
+      "def_rank": 99
     },
     {
       "ovr_rank": 97,
@@ -1101,21 +1101,10 @@
       "off_rating": -2.43,
       "off_rank": 103,
       "def_rating": -2.22,
-      "def_rank": 96
+      "def_rank": 97
     },
     {
       "ovr_rank": 101,
-      "school": "Southland",
-      "classification": 1,
-      "district": 1,
-      "ovr_rating": -4.8,
-      "off_rating": -2.46,
-      "off_rank": 104,
-      "def_rating": -2.34,
-      "def_rank": 101
-    },
-    {
-      "ovr_rank": 102,
       "school": "Orrick",
       "classification": 1,
       "district": 15,
@@ -1124,6 +1113,17 @@
       "off_rank": 100,
       "def_rating": -2.47,
       "def_rank": 102
+    },
+    {
+      "ovr_rank": 102,
+      "school": "Southland",
+      "classification": 1,
+      "district": 1,
+      "ovr_rating": -5.0,
+      "off_rating": -2.55,
+      "off_rank": 105,
+      "def_rating": -2.44,
+      "def_rank": 101
     },
     {
       "ovr_rank": 103,
@@ -1142,7 +1142,7 @@
       "classification": 1,
       "district": 4,
       "ovr_rating": -5.15,
-      "off_rating": -2.6,
+      "off_rating": -2.59,
       "off_rank": 106,
       "def_rating": -2.56,
       "def_rank": 103
@@ -1165,7 +1165,7 @@
       "district": 8,
       "ovr_rating": -5.39,
       "off_rating": -2.48,
-      "off_rank": 105,
+      "off_rank": 104,
       "def_rating": -2.91,
       "def_rank": 108
     },
@@ -1188,7 +1188,7 @@
       "ovr_rating": -5.77,
       "off_rating": -3.03,
       "off_rank": 108,
-      "def_rating": -2.74,
+      "def_rating": -2.73,
       "def_rank": 104
     },
     {

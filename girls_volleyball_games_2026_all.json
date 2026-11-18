@@ -14257,6 +14257,17 @@
   },
   {
     "date": "2026-09-08",
+    "team1": "West Plains",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Lift for Life Academy Charter",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-09-08",
     "team1": "Mehlville",
     "team1_classified": true,
     "score1": 3,
@@ -15330,17 +15341,6 @@
     "team2": "Woodland",
     "team2_classified": true,
     "score2": 3,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-09-08",
-    "team1": "West Plains",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Lift for Life Academy Charter",
-    "team2_classified": true,
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -28012,7 +28012,7 @@
     "score1": 3,
     "team2": "Southland",
     "team2_classified": true,
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
@@ -70401,6 +70401,17 @@
   },
   {
     "date": "2026-10-15",
+    "team1": "West Plains",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Normandy Collaborative",
+    "team2_classified": false,
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-15",
     "team1": "Mid-Buchanan",
     "team1_classified": true,
     "score1": 3,
@@ -71142,17 +71153,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Madison(Madison, IL)",
-    "team2_classified": false,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-15",
-    "team1": "West Plains",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Normandy Collaborative",
     "team2_classified": false,
     "score2": null,
     "forfeit": false,
@@ -73184,6 +73184,17 @@
   },
   {
     "date": "2026-10-19",
+    "team1": "Believe Acad Charter",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "West Plains",
+    "team2_classified": true,
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-19",
     "team1": "North Platte",
     "team1_classified": true,
     "score1": 0,
@@ -73223,17 +73234,6 @@
     "team2": "Woodland",
     "team2_classified": true,
     "score2": 3,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-19",
-    "team1": "Believe Acad Charter",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "West Plains",
-    "team2_classified": true,
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },

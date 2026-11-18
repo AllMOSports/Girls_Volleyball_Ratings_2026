@@ -10189,6 +10189,15 @@
   },
   {
     "date": "2026-09-08",
+    "team1": "West Plains",
+    "score1": 1,
+    "team2": "Lift for Life Academy Charter",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-09-08",
     "team1": "Mehlville",
     "score1": 3,
     "team2": "Lindbergh",
@@ -10994,15 +11003,6 @@
     "score1": 0,
     "team2": "Woodland",
     "score2": 3,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-09-08",
-    "team1": "West Plains",
-    "score1": null,
-    "team2": "Lift for Life Academy Charter",
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -20020,7 +20020,7 @@
     "team1": "Caruthersville",
     "score1": 3,
     "team2": "Southland",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
@@ -53056,6 +53056,15 @@
   },
   {
     "date": "2026-10-19",
+    "team1": "Believe Acad Charter",
+    "score1": 2,
+    "team2": "West Plains",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-19",
     "team1": "North Platte",
     "score1": 0,
     "team2": "Union Star with King City",
@@ -53087,15 +53096,6 @@
     "score1": 0,
     "team2": "Woodland",
     "score2": 3,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-19",
-    "team1": "Believe Acad Charter",
-    "score1": null,
-    "team2": "West Plains",
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },

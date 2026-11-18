@@ -1131,6 +1131,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-09-08,Park Hill South,2,Liberty,3,False,False
 2026-09-08,Strafford,3,Liberty (Mountain View),0,False,False
 2026-09-08,Willow Springs,0,Licking,3,False,False
+2026-09-08,West Plains,1,Lift for Life Academy Charter,,False,False
 2026-09-08,Mehlville,3,Lindbergh,0,False,False
 2026-09-08,Buffalo,0,Logan-Rogersville,3,False,False
 2026-09-08,Central (New Madrid County),0,Malden,3,False,False
@@ -1221,7 +1222,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-09-08,Webster Groves,2,Windsor (Imperial),0,False,False
 2026-09-08,Ft. Zumwalt East,0,Winfield,3,False,False
 2026-09-08,Puxico,0,Woodland,3,False,False
-2026-09-08,West Plains,,Lift for Life Academy Charter,,False,False
 2026-09-09,East (Kansas City),0,Academie Lafayette,3,False,False
 2026-09-09,Villa Duchesne,3,Affton,1,False,False
 2026-09-09,Ballard,0,Archie,3,False,False
@@ -2223,7 +2223,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-09-15,Mt. Vernon,3,Seneca,0,False,False
 2026-09-15,Billings,3,Seymour,0,False,False
 2026-09-15,Trenton,1,South Harrison,3,False,False
-2026-09-15,Caruthersville,3,Southland,,False,False
+2026-09-15,Caruthersville,3,Southland,0,False,False
 2026-09-15,St. Charles West,3,St. Charles,1,False,False
 2026-09-15,Clearwater,0,St. Paul Lutheran (Farmington),3,False,False
 2026-09-15,Notre Dame de Sion,1,St. Pius X (Kansas City),3,False,False
@@ -5894,11 +5894,11 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-19,Delta (Deering),1,Senath-Hornersville,2,False,False
 2026-10-19,McAuley Catholic,2,Southwest (Washburn),3,False,False
 2026-10-19,Oak Ridge,3,St. Vincent,1,False,False
+2026-10-19,Believe Acad Charter,2,West Plains,3,False,False
 2026-10-19,North Platte,0,Union Star with King City,3,False,False
 2026-10-19,Exeter,0,Verona,3,False,False
 2026-10-19,Buffalo,0,Warsaw,3,False,False
 2026-10-19,Bernie,0,Woodland,3,False,False
-2026-10-19,Believe Acad Charter,,West Plains,,False,False
 2026-10-20,Bell City,3,Risco,0,False,False
 2026-10-20,Campbell,3,Richland (Essex),0,False,False
 2026-10-20,Christian Fellowship Sr.,3,Laquey,0,False,False

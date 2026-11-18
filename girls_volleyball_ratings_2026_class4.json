@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 17, 2026 at 10:44 AM",
+  "last_updated": "November 18, 2026 at 10:43 AM",
   "league_average": 1.49,
   "classification": 4,
   "teams": [
@@ -41,7 +41,7 @@
       "school": "St. Joseph's Academy",
       "classification": 4,
       "district": 3,
-      "ovr_rating": 4.33,
+      "ovr_rating": 4.34,
       "off_rating": 2.06,
       "off_rank": 4,
       "def_rating": 2.27,
@@ -66,7 +66,7 @@
       "ovr_rating": 4.17,
       "off_rating": 2.0,
       "off_rank": 7,
-      "def_rating": 2.16,
+      "def_rating": 2.17,
       "def_rank": 6
     },
     {
@@ -96,7 +96,7 @@
       "school": "Farmington",
       "classification": 4,
       "district": 1,
-      "ovr_rating": 3.9,
+      "ovr_rating": 3.91,
       "off_rating": 1.93,
       "off_rank": 9,
       "def_rating": 1.97,
@@ -143,7 +143,7 @@
       "ovr_rating": 3.26,
       "off_rating": 1.56,
       "off_rank": 15,
-      "def_rating": 1.71,
+      "def_rating": 1.7,
       "def_rank": 12
     },
     {
@@ -184,7 +184,7 @@
       "school": "Ursuline Academy",
       "classification": 4,
       "district": 2,
-      "ovr_rating": 2.69,
+      "ovr_rating": 2.7,
       "off_rating": 1.69,
       "off_rank": 13,
       "def_rating": 1.01,
@@ -247,6 +247,17 @@
     },
     {
       "ovr_rank": 23,
+      "school": "Pacific",
+      "classification": 4,
+      "district": 2,
+      "ovr_rating": 2.31,
+      "off_rating": 1.14,
+      "off_rank": 26,
+      "def_rating": 1.17,
+      "def_rank": 19
+    },
+    {
+      "ovr_rank": 24,
       "school": "Webster Groves",
       "classification": 4,
       "district": 2,
@@ -257,17 +268,6 @@
       "def_rank": 20
     },
     {
-      "ovr_rank": 24,
-      "school": "Pacific",
-      "classification": 4,
-      "district": 2,
-      "ovr_rating": 2.31,
-      "off_rating": 1.14,
-      "off_rank": 26,
-      "def_rating": 1.16,
-      "def_rank": 19
-    },
-    {
       "ovr_rank": 25,
       "school": "Orchard Farm",
       "classification": 4,
@@ -275,7 +275,7 @@
       "ovr_rating": 2.22,
       "off_rating": 1.25,
       "off_rank": 23,
-      "def_rating": 0.97,
+      "def_rating": 0.98,
       "def_rank": 27
     },
     {
@@ -506,7 +506,7 @@
       "ovr_rating": 0.06,
       "off_rating": -0.16,
       "off_rank": 46,
-      "def_rating": 0.22,
+      "def_rating": 0.23,
       "def_rank": 40
     },
     {
@@ -594,7 +594,7 @@
       "ovr_rating": -1.36,
       "off_rating": -0.74,
       "off_rank": 55,
-      "def_rating": -0.63,
+      "def_rating": -0.62,
       "def_rank": 51
     },
     {
@@ -679,7 +679,7 @@
       "school": "University City",
       "classification": 4,
       "district": 3,
-      "ovr_rating": -4.16,
+      "ovr_rating": -4.15,
       "off_rating": -1.96,
       "off_rank": 62,
       "def_rating": -2.19,
@@ -701,8 +701,8 @@
       "school": "McCluer North",
       "classification": 4,
       "district": 3,
-      "ovr_rating": -6.29,
-      "off_rating": -3.06,
+      "ovr_rating": -6.28,
+      "off_rating": -3.05,
       "off_rank": 64,
       "def_rating": -3.23,
       "def_rank": 64
@@ -712,10 +712,10 @@
       "school": "Confluence Prep Academy Charter with Grand Center Arts Charter",
       "classification": 4,
       "district": 1,
-      "ovr_rating": -6.6,
-      "off_rating": -3.08,
+      "ovr_rating": -6.58,
+      "off_rating": -3.07,
       "off_rank": 65,
-      "def_rating": -3.52,
+      "def_rating": -3.51,
       "def_rank": 66
     },
     {
@@ -723,7 +723,7 @@
       "school": "Gateway with Soldan International Studies",
       "classification": 4,
       "district": 2,
-      "ovr_rating": -6.89,
+      "ovr_rating": -6.88,
       "off_rating": -3.39,
       "off_rank": 66,
       "def_rating": -3.5,
@@ -734,10 +734,10 @@
       "school": "McCluer",
       "classification": 4,
       "district": 3,
-      "ovr_rating": -7.4,
+      "ovr_rating": -7.39,
       "off_rating": -3.49,
       "off_rank": 67,
-      "def_rating": -3.91,
+      "def_rating": -3.9,
       "def_rank": 67
     },
     {
@@ -748,7 +748,7 @@
       "ovr_rating": -8.03,
       "off_rating": -4.07,
       "off_rank": 68,
-      "def_rating": -3.96,
+      "def_rating": -3.95,
       "def_rank": 68
     }
   ]
