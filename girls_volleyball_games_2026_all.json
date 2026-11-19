@@ -69290,6 +69290,17 @@
   },
   {
     "date": "2026-10-14",
+    "team1": "West County",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Valley",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-14",
     "team1": "Westminster Christian Academy",
     "team1_classified": true,
     "score1": null,

@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 18, 2026 at 10:43 AM",
+  "last_updated": "November 19, 2026 at 10:44 AM",
   "league_average": 1.49,
   "classification": 1,
   "teams": [
@@ -346,17 +346,6 @@
     },
     {
       "ovr_rank": 32,
-      "school": "Sacred Heart",
-      "classification": 1,
-      "district": 14,
-      "ovr_rating": -0.55,
-      "off_rating": -0.1,
-      "off_rank": 29,
-      "def_rating": -0.44,
-      "def_rank": 35
-    },
-    {
-      "ovr_rank": 33,
       "school": "Thomas Jefferson Independent Day",
       "classification": 1,
       "district": 10,
@@ -365,6 +354,17 @@
       "off_rank": 34,
       "def_rating": -0.18,
       "def_rank": 27
+    },
+    {
+      "ovr_rank": 33,
+      "school": "Sacred Heart",
+      "classification": 1,
+      "district": 14,
+      "ovr_rating": -0.55,
+      "off_rating": -0.1,
+      "off_rank": 29,
+      "def_rating": -0.44,
+      "def_rank": 35
     },
     {
       "ovr_rank": 34,

@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 18, 2026 at 10:43 AM",
+  "last_updated": "November 19, 2026 at 10:44 AM",
   "league_average": 1.49,
   "classification": 2,
   "teams": [
@@ -181,17 +181,6 @@
     },
     {
       "ovr_rank": 17,
-      "school": "Miller",
-      "classification": 2,
-      "district": 11,
-      "ovr_rating": 0.85,
-      "off_rating": 0.5,
-      "off_rank": 17,
-      "def_rating": 0.36,
-      "def_rank": 20
-    },
-    {
-      "ovr_rank": 18,
       "school": "Stover",
       "classification": 2,
       "district": 12,
@@ -200,6 +189,17 @@
       "off_rank": 21,
       "def_rating": 0.41,
       "def_rank": 18
+    },
+    {
+      "ovr_rank": 18,
+      "school": "Miller",
+      "classification": 2,
+      "district": 11,
+      "ovr_rating": 0.85,
+      "off_rating": 0.5,
+      "off_rank": 17,
+      "def_rating": 0.36,
+      "def_rank": 20
     },
     {
       "ovr_rank": 19,
@@ -269,17 +269,6 @@
     },
     {
       "ovr_rank": 25,
-      "school": "Puxico",
-      "classification": 2,
-      "district": 2,
-      "ovr_rating": 0.46,
-      "off_rating": 0.32,
-      "off_rank": 23,
-      "def_rating": 0.15,
-      "def_rank": 26
-    },
-    {
-      "ovr_rank": 26,
       "school": "Scott City",
       "classification": 2,
       "district": 2,
@@ -288,6 +277,17 @@
       "off_rank": 24,
       "def_rating": 0.16,
       "def_rank": 25
+    },
+    {
+      "ovr_rank": 26,
+      "school": "Puxico",
+      "classification": 2,
+      "district": 2,
+      "ovr_rating": 0.46,
+      "off_rating": 0.32,
+      "off_rank": 23,
+      "def_rating": 0.15,
+      "def_rank": 26
     },
     {
       "ovr_rank": 27,
@@ -588,17 +588,6 @@
     },
     {
       "ovr_rank": 54,
-      "school": "Thayer",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": -1.5,
-      "off_rating": -0.62,
-      "off_rank": 54,
-      "def_rating": -0.89,
-      "def_rank": 58
-    },
-    {
-      "ovr_rank": 55,
       "school": "Pleasant Hope",
       "classification": 2,
       "district": 9,
@@ -607,6 +596,17 @@
       "off_rank": 64,
       "def_rating": -0.63,
       "def_rank": 50
+    },
+    {
+      "ovr_rank": 55,
+      "school": "Thayer",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -1.5,
+      "off_rating": -0.62,
+      "off_rank": 54,
+      "def_rating": -0.89,
+      "def_rank": 58
     },
     {
       "ovr_rank": 56,

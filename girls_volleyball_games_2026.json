@@ -50068,6 +50068,15 @@
   },
   {
     "date": "2026-10-14",
+    "team1": "West County",
+    "score1": null,
+    "team2": "Valley",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-14",
     "team1": "Westminster Christian Academy",
     "score1": null,
     "team2": "Visitation Academy",

@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "generated": "2026-11-18T10:43:40.032313+00:00",
+  "generated": "2026-11-19T10:44:12.671875+00:00",
   "teams": {
     "Raytown South": [
       {
@@ -105438,6 +105438,20 @@
         "forfeit": false
       },
       {
+        "date": "2026-10-14",
+        "opponent": "Valley",
+        "home_away": null,
+        "team_score": null,
+        "opp_score": null,
+        "result": null,
+        "predicted_team_score": 1.46,
+        "predicted_opp_score": 1.43,
+        "off_delta": null,
+        "def_delta": null,
+        "ovr_delta": null,
+        "forfeit": false
+      },
+      {
         "date": "2026-10-20",
         "opponent": "Clearwater",
         "home_away": null,
@@ -174217,6 +174231,20 @@
         "off_delta": -0.71,
         "def_delta": 0.46,
         "ovr_delta": -0.26,
+        "forfeit": false
+      },
+      {
+        "date": "2026-10-14",
+        "opponent": "West County",
+        "home_away": null,
+        "team_score": null,
+        "opp_score": null,
+        "result": null,
+        "predicted_team_score": 1.43,
+        "predicted_opp_score": 1.46,
+        "off_delta": null,
+        "def_delta": null,
+        "ovr_delta": null,
         "forfeit": false
       },
       {
